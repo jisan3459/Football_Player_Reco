@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Player Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-overlay"></div>
+    <div class="container">
+        <header>
+            <h1><i class="fa-solid fa-futbol"></i> Football Scout Pro</h1>
+            <p>Advanced Machine Learning Player Recommendation System</p>
+        </header>
+
+        <main>
+            <div class="search-container">
+                <div class="search-box">
+                    <i class="fa-solid fa-search search-icon"></i>
+                    <input type="text" id="playerSearch" placeholder="Search for a player (e.g., Lionel Messi, Erling Haaland)..." autocomplete="off">
+                    <button id="searchBtn">Recommend</button>
+                </div>
+                <div id="searchResults" class="search-results-dropdown"></div>
+            </div>
+
+            <div id="loadingIndicator" class="hidden">
+                <div class="spinner"></div>
+                <p>Analyzing player similarities...</p>
+            </div>
+
+            <div id="recommendationsSection" class="hidden">
+                <div class="selected-player-card">
+                    <h2>Target Player</h2>
+                    <h3 id="selectedPlayerName">Player Name</h3>
+                </div>
+
+                <h2>Top Recommendations</h2>
+                <div class="recommendations-grid" id="recommendationsGrid">
+                    <!-- Cards will be populated here -->
+                </div>
+            </div>
+            
+            <div id="errorMessage" class="error-message hidden"></div>
+        </main>
+
+        <footer>
+            <p>Data based on 2024-2025 Season Statistics • Powered by PCA & Cosine Similarity</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

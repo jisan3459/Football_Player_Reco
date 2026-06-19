@@ -1,0 +1,3296 @@
+PlayerID,Player,Squad,League,Pos
+2539,Manuel Neuer,Bayern Munich,Bundesliga,GK
+2554,Mats Hummels,Roma,Serie A,DF
+2747,Sven Ulreich,Bayern Munich,Bundesliga,GK
+2789,Dante,Nice,Ligue 1,DF
+2815,Kevin Vogt,Union Berlin,Bundesliga,DF
+2845,Pascal Groß,Dortmund,Bundesliga,"MF,DF"
+2877,Thomas Müller,Bayern Munich,Bundesliga,"MF,FW"
+2924,David Alaba,Real Madrid,La Liga,DF
+2967,Lewis Holtby,Holstein Kiel,Bundesliga,MF
+2983,Mario Götze,Eint Frankfurt,Bundesliga,"MF,FW"
+2994,Oliver Baumann,Hoffenheim,Bundesliga,GK
+3038,İlkay Gündoğan,Manchester City,Premier League,MF
+3060,Denis Thomalla,Heidenheim,Bundesliga,MF
+3085,Jannik Vestergaard,Leicester City,Premier League,DF
+3096,Kevin Trapp,Eint Frankfurt,Bundesliga,GK
+3104,Marc-André Ter Stegen,Barcelona,La Liga,GK
+3107,Marko Arnautović,Inter,Serie A,FW
+3131,Robert Lewandowski,Barcelona,La Liga,FW
+3145,Son Heung-Min,Tottenham,Premier League,FW
+3152,Timothy Chandler,Eint Frankfurt,Bundesliga,DF
+3153,Tobias Sippel,Gladbach,Bundesliga,GK
+3168,Antonio Rüdiger,Real Madrid,La Liga,DF
+3172,Bernd Leno,Fulham,Premier League,GK
+3177,Daniel Batz,Mainz 05,Bundesliga,GK
+3180,Danny Da Costa,Mainz 05,Bundesliga,DF
+3183,Dominik Kohr,Mainz 05,Bundesliga,"DF,MF"
+3213,Joshua King,Toulouse,Ligue 1,"FW,MF"
+3229,Matthias Ginter,Freiburg,Bundesliga,DF
+3232,Maximilian Arnold,Wolfsburg,Bundesliga,MF
+3238,Mitchell Weiser,Werder Bremen,Bundesliga,"DF,MF"
+3241,Niclas Füllkrug,West Ham,Premier League,FW
+3256,Ricardo Rodríguez,Betis,La Liga,DF
+3277,Willi Orban,RB Leipzig,Bundesliga,DF
+3305,Christian Günter,Freiburg,Bundesliga,DF
+3306,Dani Carvajal,Real Madrid,La Liga,DF
+3312,Emre Can,Dortmund,Bundesliga,"DF,MF"
+3321,Granit Xhaka,Leverkusen,Bundesliga,MF
+3335,Jonas Hofmann,Leverkusen,Bundesliga,"MF,DF"
+3343,Kevin De Bruyne,Manchester City,Premier League,"MF,FW"
+3344,Kevin Volland,Union Berlin,Bundesliga,"FW,MF"
+3347,Leonardo Bittencourt,Werder Bremen,Bundesliga,MF
+3353,Marc-Oliver Kempf,Como,Serie A,DF
+3363,Milan Badelj,Genoa,Serie A,MF
+3369,Niklas Stark,Werder Bremen,Bundesliga,DF
+3370,Niklas Süle,Dortmund,Bundesliga,DF
+3380,Pierre Højbjerg,Marseille,Ligue 1,MF
+3388,Sead Kolašinac,Atalanta,Serie A,DF
+3395,Stefan Bell,Mainz 05,Bundesliga,DF
+3408,Vincenzo Grifo,Freiburg,Bundesliga,"FW,MF"
+3413,Alexander Schwolow,Union Berlin,Bundesliga,GK
+3432,Francis Coquelin,Nantes,Ligue 1,MF
+3438,Hakan Çalhanoğlu,Inter,Serie A,MF
+3441,Henrikh Mkhitaryan,Inter,Serie A,MF
+3447,Jens Grahl,Eint Frankfurt,Bundesliga,GK
+3452,Jonathan Tah,Leverkusen,Bundesliga,DF
+3454,José Campaña,Las Palmas,La Liga,MF
+3455,Julian Brandt,Dortmund,Bundesliga,MF
+3464,Leon Goretzka,Bayern Munich,Bundesliga,"MF,DF"
+3465,Leroy Sané,Bayern Munich,Bundesliga,FW
+3468,Luca Caldirola,Monza,Serie A,DF
+3480,Marvin Ducksch,Werder Bremen,Bundesliga,FW
+3483,Maximilian Philipp,Freiburg,Bundesliga,"MF,FW"
+3489,Nicolas Höfler,Freiburg,Bundesliga,MF
+3490,Norman Theuerkauf,Heidenheim,Bundesliga,MF
+3501,Rani Khedira,Union Berlin,Bundesliga,MF
+3517,Timo Werner,Tottenham,Premier League,"FW,MF"
+3528,Alexander Nübel,Stuttgart,Bundesliga,GK
+3535,Christopher Jullien,Montpellier,Ligue 1,DF
+3560,Grischa Prömel,Hoffenheim,Bundesliga,MF
+3568,Janik Haberer,Union Berlin,Bundesliga,"MF,DF"
+3579,Juan Bernat,Getafe,La Liga,"MF,DF"
+3583,Kevin Kampl,RB Leipzig,Bundesliga,MF
+3587,Leopold Zingerle,RB Leipzig,Bundesliga,GK
+3597,Mahmoud Dahoud,Eint Frankfurt,Bundesliga,MF
+3606,Marnon Busch,Heidenheim,Bundesliga,"DF,MF"
+3607,Marvin Friedrich,Gladbach,Bundesliga,DF
+3608,Marvin Schulz,Holstein Kiel,Bundesliga,"MF,DF"
+3612,Matija Nastasić,Leganés,La Liga,DF
+3616,Maximilian Eggestein,Freiburg,Bundesliga,MF
+3617,Maximilian Mittelstädt,Stuttgart,Bundesliga,DF
+3620,Michael Zetterer,Werder Bremen,Bundesliga,GK
+3625,Nadiem Amiri,Mainz 05,Bundesliga,MF
+3630,Odysseas Vlachodimos,Newcastle Utd,Premier League,GK
+3632,Oriol Romeu,Girona,La Liga,MF
+3634,Patrick Drewes,Bochum,Bundesliga,GK
+3639,Pepe Reina,Como,Serie A,GK
+3646,Robin Zentner,Mainz 05,Bundesliga,GK
+3660,Thilo Kehrer,Monaco,Ligue 1,DF
+3666,Timo Horn,Bochum,Bundesliga,GK
+3679,Yann Sommer,Inter,Serie A,GK
+3680,Yannick Gerhardt,Wolfsburg,Bundesliga,"MF,DF"
+3686,Adnan Januzaj,Las Palmas,La Liga,"MF,FW"
+3696,Andreas Christensen,Barcelona,La Liga,DF
+3698,Andrej Kramarić,Hoffenheim,Bundesliga,"MF,FW"
+3707,Benjamin Henrichs,RB Leipzig,Bundesliga,DF
+3716,Christian Pulisic,Milan,Serie A,"FW,MF"
+3721,Djibril Sow,Sevilla,La Liga,MF
+3725,Eric Oelschlägel,St Pauli,Bundesliga,GK
+3728,Fabian Schär,Newcastle Utd,Premier League,DF
+3729,Federico Barba,Como,Serie A,DF
+3730,Felix Passlack,Bochum,Bundesliga,"DF,MF"
+3732,Finn Porath,Holstein Kiel,Bundesliga,"DF,MF"
+3733,Florian Grillitsch,Hoffenheim,Bundesliga,MF
+3751,Jannik Huth,Freiburg,Bundesliga,GK
+3753,Jeffrey Gouweleeuw,Augsburg,Bundesliga,DF
+3757,Joelinton,Newcastle Utd,Premier League,"MF,FW"
+3758,Joshua Kimmich,Bayern Munich,Bundesliga,MF
+3759,Julian Weigl,Gladbach,Bundesliga,MF
+3762,Karim Onisiwo,Mainz 05,Bundesliga,"MF,FW"
+3764,Kingsley Coman,Bayern Munich,Bundesliga,FW
+3771,Lukáš Hrádecký,Leverkusen,Bundesliga,GK
+3777,Marius Wolf,Augsburg,Bundesliga,DF
+3786,Michael Gregoritsch,Freiburg,Bundesliga,FW
+3792,Miloš Veljković,Werder Bremen,Bundesliga,DF
+3796,Nico Elvedi,Gladbach,Bundesliga,DF
+3802,Pascal Stenzel,Stuttgart,Bundesliga,DF
+3806,Pavel Kadeřábek,Hoffenheim,Bundesliga,DF
+3822,Suat Serdar,Hellas Verona,Serie A,MF
+3830,Ulisses Garcia,Marseille,Ligue 1,DF
+3831,Waldemar Anton,Dortmund,Bundesliga,DF
+3836,Ørjan Nyland,Sevilla,La Liga,GK
+3841,Alexander Isak,Newcastle Utd,Premier League,FW
+3845,Ante Rebić,Lecce,Serie A,"FW,MF"
+3846,Anthony Jung,Werder Bremen,Bundesliga,DF
+3847,Arne Maier,Augsburg,Bundesliga,MF
+3851,Aymen Barkok,Mainz 05,Bundesliga,MF
+3858,Bernardo,Bochum,Bundesliga,DF
+3863,Borja Mayoral,Getafe,La Liga,FW
+3864,Breel Embolo,Monaco,Ligue 1,"FW,MF"
+3869,Dayot Upamecano,Bayern Munich,Bundesliga,DF
+3889,Florian Müller,Freiburg,Bundesliga,GK
+3892,Gerrit Holtmann,Bochum,Bundesliga,"DF,FW"
+3895,Gregor Kobel,Dortmund,Bundesliga,GK
+3899,Hauke Wahl,St Pauli,Bundesliga,DF
+3903,Jacob Bruun Larsen,Hoffenheim,Bundesliga,"FW,MF"
+3904,Jean-Philippe Gbamin,Nantes,Ligue 1,MF
+3905,Jesús Vallejo,Real Madrid,La Liga,DF
+3906,Joel Pohjanpalo,Venezia,Serie A,FW
+3907,Johannes Eggestein,St Pauli,Bundesliga,FW
+3909,Jonas Föhrenbach,Heidenheim,Bundesliga,DF
+3913,Josip Brekalo,Fiorentina,Serie A,"FW,MF"
+3919,Kai Havertz,Arsenal,Premier League,"FW,MF"
+3921,Kevin Danso,Lens,Ligue 1,DF
+3924,Leon Bailey,Aston Villa,Premier League,"FW,MF"
+3927,Lukas Klostermann,RB Leipzig,Bundesliga,DF
+3928,Lukas Kübler,Freiburg,Bundesliga,DF
+3930,László Bénes,Union Berlin,Bundesliga,"MF,FW"
+3931,Marc Bartra,Betis,La Liga,DF
+3933,Marcel Sabitzer,Dortmund,Bundesliga,MF
+3935,Marco Friedl,Werder Bremen,Bundesliga,DF
+3937,Marius Müller,Wolfsburg,Bundesliga,GK
+3946,Mikel Merino,Arsenal,Premier League,"MF,FW"
+3948,Nabil Bentaleb,Lille,Ligue 1,MF
+3952,Niklas Schmidt,Toulouse,Ligue 1,MF
+3955,Oliver Burke,Werder Bremen,Bundesliga,FW
+3956,Omar Mascarell,Mallorca,La Liga,MF
+3957,Ondrej Duda,Hellas Verona,Serie A,MF
+3960,Ousmane Dembélé,Paris S-G,Ligue 1,FW
+3967,Péter Gulácsi,RB Leipzig,Bundesliga,GK
+3970,Raphaël Guerreiro,Bayern Munich,Bundesliga,"DF,MF"
+3976,Salih Özcan,Dortmund,Bundesliga,MF
+3977,Serge Gnabry,Bayern Munich,Bundesliga,"FW,MF"
+3978,Serhou Guirassy,Dortmund,Bundesliga,FW
+3981,Stefan Posch,Atalanta,Serie A,DF
+3990,Vincent Sierro,Toulouse,Ligue 1,MF
+3992,Weston Mckennie,Juventus,Serie A,"MF,DF"
+3994,Yussuf Poulsen,RB Leipzig,Bundesliga,"FW,MF"
+3999,Ademola Lookman,Atalanta,Serie A,"MF,FW"
+4001,Alexander Meyer,Dortmund,Bundesliga,GK
+4002,Amine Harit,Marseille,Ligue 1,MF
+4008,Benjamin Pavard,Inter,Serie A,DF
+4016,Chris Führich,Stuttgart,Bundesliga,"MF,FW"
+4017,Christian Früchtl,Lecce,Serie A,GK
+4018,Corentin Tolisso,Lyon,Ligue 1,MF
+4019,Daichi Kamada,Crystal Palace,Premier League,MF
+4020,Dan-Axel Zagadou,Stuttgart,Bundesliga,"DF,MF"
+4021,Denis Zakaria,Monaco,Ligue 1,MF
+4022,Dennis Geiger,Hoffenheim,Bundesliga,"MF,FW"
+4027,Elvis Rexhbeçaj,Augsburg,Bundesliga,MF
+4030,Finn Dahmen,Augsburg,Bundesliga,GK
+4034,Ibrahima Konaté,Liverpool,Premier League,DF
+4036,Ihlas Bebou,Hoffenheim,Bundesliga,MF
+4038,Jadon Sancho,Chelsea,Premier League,FW
+4039,James Rodríguez,Rayo Vallecano,La Liga,"MF,FW"
+4040,Jann-Fiete Arp,Holstein Kiel,Bundesliga,"FW,MF"
+4051,Josha Vagnoman,Stuttgart,Bundesliga,"DF,MF"
+4060,Kevin Akpoguma,Hoffenheim,Bundesliga,DF
+4062,Konrad Laimer,Bayern Munich,Bundesliga,DF
+4069,Lucas Höler,Freiburg,Bundesliga,"FW,MF"
+4071,Luka Jović,Milan,Serie A,"FW,MF"
+4073,Manuel Akanji,Manchester City,Premier League,DF
+4076,Marco Richter,Mainz 05,Bundesliga,"FW,MF"
+4083,Michy Batshuayi,Eint Frankfurt,Bundesliga,FW
+4087,Moritz Nicolas,Gladbach,Bundesliga,GK
+4090,Niklas Dorsch,Augsburg,Bundesliga,MF
+4091,Niklas Lomb,Leverkusen,Bundesliga,GK
+4092,Nikolas Nartey,Stuttgart,Bundesliga,MF
+4095,Orel Mangala,Everton,Premier League,MF
+4099,Paul Jaeckel,Union Berlin,Bundesliga,DF
+4100,Philipp Lienhart,Freiburg,Bundesliga,DF
+4104,Ridle Baku,RB Leipzig,Bundesliga,"DF,MF"
+4106,Robin Hack,Gladbach,Bundesliga,"FW,MF"
+4107,Robin Koch,Eint Frankfurt,Bundesliga,DF
+4116,Sergio Gómez,Real Sociedad,La Liga,"MF,DF"
+4120,Sébastien Haller,Dortmund,Bundesliga,FW
+4121,Takuma Asano,Mallorca,La Liga,"FW,MF"
+4125,Tim Kleindienst,Gladbach,Bundesliga,FW
+4128,Valentino Lazaro,Torino,Serie A,"DF,FW"
+4132,Yann Aurel Bisseck,Inter,Serie A,DF
+4136,Aarón Martín,Genoa,Serie A,DF
+4138,Achraf Hakimi,Paris S-G,Ligue 1,DF
+4142,Alassane Pléa,Gladbach,Bundesliga,"MF,FW"
+4146,Alphonso Davies,Bayern Munich,Bundesliga,DF
+4147,Amadou Haidara,RB Leipzig,Bundesliga,MF
+4148,Amos Pieper,Werder Bremen,Bundesliga,DF
+4151,Axel Witsel,Atlético Madrid,La Liga,DF
+4156,Borna Sosa,Torino,Serie A,DF
+4159,Christoph Baumgartner,RB Leipzig,Bundesliga,MF
+4169,Dodi Lukebakio,Sevilla,La Liga,FW
+4172,Emile Smith Rowe,Fulham,Premier League,MF
+4176,Fabian Bredlow,Stuttgart,Bundesliga,GK
+4179,Florent Muslija,Freiburg,Bundesliga,"FW,MF"
+4180,Florian Neuhaus,Gladbach,Bundesliga,MF
+4181,Frederik Rønnow,Union Berlin,Bundesliga,GK
+4182,Fredrik Jensen,Augsburg,Bundesliga,MF
+4196,Jean-Philippe Mateta,Crystal Palace,Premier League,FW
+4197,Jeong Woo-Yeong,Union Berlin,Bundesliga,"MF,FW"
+4198,John Yeboah,Venezia,Serie A,"FW,MF"
+4200,Jonathan Burkardt,Mainz 05,Bundesliga,FW
+4204,Jérôme Roussillon,Union Berlin,Bundesliga,"DF,MF"
+4206,Keven Schlotterbeck,Augsburg,Bundesliga,DF
+4209,Kevin Stöger,Gladbach,Bundesliga,MF
+4212,Leonardo Balerdi,Marseille,Ligue 1,DF
+4214,Lucas Torró,Osasuna,La Liga,MF
+4218,Mark Flekken,Brentford,Premier League,GK
+4220,Matheus Cunha,Wolves,Premier League,"MF,FW"
+4224,Moussa Niakhate,Lyon,Ligue 1,DF
+4226,Nico Schlotterbeck,Dortmund,Bundesliga,DF
+4228,Nicolás González,Juventus,Serie A,"FW,MF"
+4231,Nordi Mukiele,Leverkusen,Bundesliga,DF
+4232,Obite N'Dicka,Roma,Serie A,DF
+4234,Pablo Maffeo,Mallorca,La Liga,DF
+4238,Patrick Erras,Holstein Kiel,Bundesliga,DF
+4241,Pavao Pervan,Wolfsburg,Bundesliga,GK
+4244,Phillipp Mwene,Mainz 05,Bundesliga,DF
+4247,Reiss Nelson,Arsenal,Premier League,FW
+4250,Roland Sallai,Freiburg,Bundesliga,"FW,MF"
+4255,Steven Skrzybski,Holstein Kiel,Bundesliga,"MF,FW"
+4260,Tuta,Eint Frankfurt,Bundesliga,"DF,MF"
+4261,Tyler Adams,Bournemouth,Premier League,MF
+4269,André Silva,RB Leipzig,Bundesliga,"FW,MF"
+4270,Angeliño,Roma,Serie A,DF
+4272,Ayman Azhil,Dortmund,Bundesliga,MF
+4279,Chris Richards,Crystal Palace,Premier League,DF
+4282,Christopher Lenz,Hoffenheim,Bundesliga,"DF,MF"
+4283,Christopher Nkunku,Chelsea,Premier League,FW
+4284,Christopher Trimmel,Union Berlin,Bundesliga,"DF,MF"
+4287,Daley Sinkgraven,Las Palmas,La Liga,DF
+4288,Dani Olmo,Barcelona,La Liga,"MF,FW"
+4294,Diadie Samassékou,Hoffenheim,Bundesliga,MF
+4297,Edimilson Fernandes,Brest,Ligue 1,"MF,DF"
+4298,Edmond Tapsoba,Leverkusen,Bundesliga,DF
+4299,Ellyes Skhiri,Eint Frankfurt,Bundesliga,MF
+4300,Erling Haaland,Manchester City,Premier League,FW
+4302,Exequiel Palacios,Leverkusen,Bundesliga,MF
+4307,Florian Wirtz,Leverkusen,Bundesliga,"MF,FW"
+4309,Gio Reyna,Dortmund,Bundesliga,MF
+4317,Ismail Jakobs,Monaco,Ligue 1,DF
+4318,Jakob Busk,Hoffenheim,Bundesliga,GK
+4319,Jamal Musiala,Bayern Munich,Bundesliga,MF
+4323,Jean-Clair Todibo,West Ham,Premier League,DF
+4330,Joshua Zirkzee,Manchester Utd,Premier League,"FW,MF"
+4331,Juan Miranda,Bologna,Serie A,DF
+4334,Julian Ryerson,Dortmund,Bundesliga,DF
+4342,Kingsley Ehizibue,Udinese,Serie A,DF
+4348,Lazar Samardzic,Atalanta,Serie A,MF
+4357,Luca Netz,Gladbach,Bundesliga,DF
+4359,Lucas Hernández,Paris S-G,Ligue 1,DF
+4362,Lukas Nmecha,Wolfsburg,Bundesliga,"FW,MF"
+4363,Mads Pedersen,Augsburg,Bundesliga,DF
+4364,Maduka Okoye,Udinese,Serie A,GK
+4365,Malick Thiaw,Milan,Serie A,DF
+4370,Marcus Thuram,Inter,Serie A,FW
+4372,Marin Pongračić,Fiorentina,Serie A,DF
+4373,Marius Bülter,Hoffenheim,Bundesliga,"FW,DF"
+4375,Mateu Morey,Mallorca,La Liga,DF
+4378,Maximilian Beier,Dortmund,Bundesliga,"FW,MF"
+4385,Nick Woltemade,Stuttgart,Bundesliga,"FW,MF"
+4392,Omar Marmoush,Eint Frankfurt,Bundesliga,FW
+4395,Patrik Schick,Leverkusen,Bundesliga,FW
+4400,Ramy Bensebaini,Dortmund,Bundesliga,DF
+4402,Robert Andrich,Leverkusen,Bundesliga,"MF,DF"
+4403,Robert Skov,Union Berlin,Bundesliga,"DF,MF"
+4406,Ruben Vargas,Augsburg,Bundesliga,"MF,FW"
+4411,Sebastiaan Bornauw,Wolfsburg,Bundesliga,DF
+4415,Sheraldo Becker,Real Sociedad,La Liga,"FW,MF"
+4419,Stefan Lainer,Gladbach,Bundesliga,DF
+4424,Taiwo Awoniyi,Nott'ham Forest,Premier League,FW
+4427,Timo Becker,Holstein Kiel,Bundesliga,DF
+4429,Tom Krauß,Bochum,Bundesliga,MF
+4435,Xaver Schlager,RB Leipzig,Bundesliga,MF
+4436,Yannik Keitel,Stuttgart,Bundesliga,MF
+4438,Álvaro Odriozola,Real Sociedad,La Liga,DF
+4441,Alexander Sørloth,Atlético Madrid,La Liga,FW
+4445,Ansgar Knauff,Eint Frankfurt,Bundesliga,"MF,DF"
+4446,Armindo Sieb,Mainz 05,Bundesliga,"FW,MF"
+4447,Atakan Karazor,Stuttgart,Bundesliga,MF
+4448,Baptiste Santamaria,Nice,Ligue 1,MF
+4449,Bartosz Białek,Wolfsburg,Bundesliga,FW
+4454,Carlo Boukhalfa,St Pauli,Bundesliga,MF
+4471,Eren Dinkçi,Freiburg,Bundesliga,"MF,FW"
+4473,Ermedin Demirović,Stuttgart,Bundesliga,FW
+4476,Felix Agu,Werder Bremen,Bundesliga,DF
+4479,Georginio Rutter,Brighton,Premier League,"MF,FW"
+4483,Hugo Novoa,Alavés,La Liga,"DF,MF"
+4484,Hwang Hee-Chan,Wolves,Premier League,"MF,FW"
+4487,Jeremie Frimpong,Leverkusen,Bundesliga,"DF,MF"
+4494,Josep Martinez,Inter,Serie A,GK
+4495,Josip Stanišić,Bayern Munich,Bundesliga,DF
+4496,Jude Bellingham,Real Madrid,La Liga,MF
+4500,Justin Kluivert,Bournemouth,Premier League,MF
+4504,Kevin Schade,Brentford,Premier League,FW
+4506,Kiliann Sildillia,Freiburg,Bundesliga,DF
+4508,Konstantinos Mavropanos,West Ham,Premier League,DF
+4513,Luca Philipp,Hoffenheim,Bundesliga,GK
+4514,Lucas Tousart,Union Berlin,Bundesliga,MF
+4517,Marc Roca,Betis,La Liga,MF
+4519,Marcel Lotka,Dortmund,Bundesliga,GK
+4528,Mattéo Guendouzi,Lazio,Serie A,MF
+4529,Max Geschwill,Holstein Kiel,Bundesliga,DF
+4530,Maxence Lacroix,Crystal Palace,Premier League,DF
+4539,Naouirou Ahamada,Crystal Palace,Premier League,MF
+4546,Omar Alderete,Getafe,La Liga,DF
+4549,Paul Nebel,Mainz 05,Bundesliga,MF
+4554,Ritsu Doan,Freiburg,Bundesliga,"FW,MF"
+4556,Robert Gumny,Augsburg,Bundesliga,DF
+4558,Rocco Reitz,Gladbach,Bundesliga,MF
+4559,Romano Schmid,Werder Bremen,Bundesliga,MF
+4561,Ryan Sessegnon,Fulham,Premier League,"FW,DF"
+4571,Silas Katompa,Stuttgart,Bundesliga,"FW,MF"
+4572,Stefan Drljača,Stuttgart,Bundesliga,GK
+4573,Stefan Ortega,Manchester City,Premier League,GK
+4577,Tanguy Coulibaly,Montpellier,Ligue 1,"FW,MF"
+4578,Tanguy Nianzou,Sevilla,La Liga,DF
+4579,Thomas Meunier,Lille,Ligue 1,DF
+4583,Tim Siersleben,Heidenheim,Bundesliga,DF
+4587,Wataru Endo,Liverpool,Premier League,"MF,DF"
+4589,Youssoufa Moukoko,Nice,Ligue 1,"FW,MF"
+4593,Amine Adli,Leverkusen,Bundesliga,"MF,FW"
+4597,András Schäfer,Union Berlin,Bundesliga,MF
+4599,Angelo Stiller,Stuttgart,Bundesliga,MF
+4600,Anthony Losilla,Bochum,Bundesliga,MF
+4602,Anton Stach,Hoffenheim,Bundesliga,"MF,DF"
+4604,Arijon Ibrahimović,Bayern Munich,Bundesliga,FW
+4605,Armel Bella Kotchap,Southampton,Premier League,DF
+4607,Aster Vranckx,Wolfsburg,Bundesliga,MF
+4617,Cristian Gamboa,Bochum,Bundesliga,DF
+4618,Daniel Klein,Augsburg,Bundesliga,GK
+4619,David Nemeth,St Pauli,Bundesliga,DF
+4620,David Raum,RB Leipzig,Bundesliga,DF
+4627,Dominik Szoboszlai,Liverpool,Premier League,MF
+4628,Donyell Malen,Aston Villa,Premier League,FW
+4630,Enzo Millot,Stuttgart,Bundesliga,"MF,FW"
+4631,Erhan Mašović,Bochum,Bundesliga,DF
+4633,Felix Nmecha,Dortmund,Bundesliga,MF
+4639,Gabriel Vidovic,Bayern Munich,Bundesliga,MF
+4645,Hiroki Ito,Bayern Munich,Bundesliga,DF
+4647,Iker Bravo,Udinese,Serie A,"FW,MF"
+4648,Ilaix Moriba,Celta Vigo,La Liga,MF
+4649,Jamie Gittens,Dortmund,Bundesliga,"FW,MF"
+4651,Jamie Leweling,Stuttgart,Bundesliga,"MF,FW"
+4655,Jesper Lindstrøm,Everton,Premier League,FW
+4656,Joe Scally,Gladbach,Bundesliga,DF
+4657,Jonas Urbig,Bayern Munich,Bundesliga,GK
+4658,Jonas Wind,Wolfsburg,Bundesliga,"FW,MF"
+4659,Joško Gvardiol,Manchester City,Premier League,DF
+4660,Julian Chabot,Stuttgart,Bundesliga,DF
+4662,Jurgen Ekkelenkamp,Udinese,Serie A,MF
+4664,Justin Njinmah,Werder Bremen,Bundesliga,"FW,MF"
+4666,Kenneth Schmidt,Freiburg,Bundesliga,DF
+4667,Kevin Behrens,Wolfsburg,Bundesliga,FW
+4668,Kevin Paredes,Wolfsburg,Bundesliga,DF
+4669,Kristijan Jakić,Augsburg,Bundesliga,MF
+4671,Lasse Rieß,Mainz 05,Bundesliga,GK
+4674,Lee Jae-Sung,Mainz 05,Bundesliga,MF
+4675,Lennard Maloney,Heidenheim,Bundesliga,MF
+4685,Manu Koné,Roma,Serie A,MF
+4694,Maxim Leitsch,Mainz 05,Bundesliga,DF
+4695,Maximilian Bauer,Augsburg,Bundesliga,DF
+4698,Micky Van De Ven,Tottenham,Premier League,DF
+4700,Mitchel Bakker,Atalanta,Serie A,MF
+4701,Mohamed Simakan,RB Leipzig,Bundesliga,DF
+4706,Noah Atubolu,Freiburg,Bundesliga,GK
+4707,Noah Weißhaupt,Freiburg,Bundesliga,FW
+4708,Odilon Kossounou,Atalanta,Serie A,DF
+4712,Patrick Osterhage,Freiburg,Bundesliga,MF
+4713,Patrick Wimmer,Wolfsburg,Bundesliga,"MF,FW"
+4714,Paul Grave,Bochum,Bundesliga,GK
+4715,Paul Wanner,Heidenheim,Bundesliga,"MF,FW"
+4717,Piero Hincapié,Leverkusen,Bundesliga,DF
+4721,Robert Wagner,St Pauli,Bundesliga,MF
+4726,Silvan Widmer,Mainz 05,Bundesliga,DF
+4727,Silvère Ganvoula M'Boussy,Monza,Serie A,FW
+4730,Soumaïla Coulibaly,Brest,Ligue 1,DF
+4733,Tiago Tomás,Wolfsburg,Bundesliga,"FW,MF"
+4737,Tom Bischof,Hoffenheim,Bundesliga,"MF,FW"
+4739,Tom Rothe,Union Berlin,Bundesliga,"DF,MF"
+4741,Tymoteusz Puchacz,Holstein Kiel,Bundesliga,DF
+4742,Umut Tohumcu,Hoffenheim,Bundesliga,"MF,FW"
+4747,Yannik Engelhardt,Como,Serie A,"MF,DF"
+4752,Adam Hložek,Hoffenheim,Bundesliga,"FW,MF"
+4754,Aleksandar Pavlovic,Bayern Munich,Bundesliga,MF
+4755,Alex Král,Espanyol,La Liga,MF
+4756,Aljoscha Kemlein,Union Berlin,Bundesliga,MF
+4758,Andreas Hanche-Olsen,Mainz 05,Bundesliga,DF
+4760,Angelo Fulgini,Lens,Ligue 1,"MF,FW"
+4761,Anthony Caci,Mainz 05,Bundesliga,DF
+4762,Arne Engels,Augsburg,Bundesliga,"MF,FW"
+4763,Aurélio Buta,Reims,Ligue 1,DF
+4767,Brajan Gruda,Brighton,Premier League,"MF,FW"
+4769,Callum Hudson-Odoi,Nott'ham Forest,Premier League,"FW,MF"
+4770,Chidera Ejuke,Sevilla,La Liga,FW
+4771,Daley Blind,Girona,La Liga,DF
+4775,Danilho Doekhi,Union Berlin,Bundesliga,DF
+4777,David Odogu,Wolfsburg,Bundesliga,DF
+4782,Diogo Leite,Union Berlin,Bundesliga,DF
+4787,Fabio Chiarodia,Gladbach,Bundesliga,DF
+4788,Faride Alidou,Hellas Verona,Serie A,"FW,MF"
+4790,Finn Ole Becker,Hoffenheim,Bundesliga,MF
+4791,Florent Mollet,Nantes,Ligue 1,"MF,FW"
+4799,Irvin Cardona,Espanyol,La Liga,"FW,MF"
+4800,Ivan Ordets,Bochum,Bundesliga,DF
+4803,Jakub Kamiński,Wolfsburg,Bundesliga,"DF,MF"
+4805,Jens Stage,Werder Bremen,Bundesliga,MF
+4811,Jonas Omlin,Gladbach,Bundesliga,GK
+4813,Jordan Pefok,Reims,Ligue 1,FW
+4817,Josip Juranović,Union Berlin,Bundesliga,"DF,MF"
+4821,Julien Duranville,Dortmund,Bundesliga,"FW,MF"
+4823,Junior Dina Ebimbe,Eint Frankfurt,Bundesliga,"MF,FW"
+4824,Justin Diehl,Stuttgart,Bundesliga,"FW,DF"
+4827,Karim Adeyemi,Dortmund,Bundesliga,"FW,MF"
+4829,Keke Maximilian Topp,Werder Bremen,Bundesliga,"FW,MF"
+4831,Kilian Fischer,Wolfsburg,Bundesliga,DF
+4833,Ko Itakura,Gladbach,Bundesliga,DF
+4841,Luca Pellegrini,Lazio,Serie A,DF
+4844,Ludovic Ajorque,Brest,Ligue 1,FW
+4852,Mathys Tel,Bayern Munich,Bundesliga,"FW,MF"
+4853,Matthijs De Ligt,Manchester Utd,Premier League,DF
+4854,Mattias Svanberg,Wolfsburg,Bundesliga,MF
+4859,Mergim Berisha,Augsburg,Bundesliga,FW
+4860,Merlin Röhl,Freiburg,Bundesliga,"MF,FW"
+4861,Mert Kömür,Augsburg,Bundesliga,MF
+4863,Mohammed Tolba,Bochum,Bundesliga,DF
+4864,Moritz Broschinski,Bochum,Bundesliga,"FW,MF"
+4865,Moritz Jenz,Mainz 05,Bundesliga,DF
+4866,Morten Thorsby,Genoa,Serie A,"MF,FW"
+4868,Nathan N'Goumou,Gladbach,Bundesliga,FW
+4870,Nelson Weiper,Mainz 05,Bundesliga,"FW,MF"
+4871,Nicolas Cozza,Nantes,Ligue 1,"DF,MF"
+4875,Noussair Mazraoui,Manchester Utd,Premier League,DF
+4880,Philipp Hofmann,Bochum,Bundesliga,FW
+4882,Randal Kolo Muani,Juventus,Serie A,FW
+4883,Renato Veiga,Chelsea,Premier League,"DF,MF"
+4887,Ryan Gravenberch,Liverpool,Premier League,MF
+4892,Sepp Van Den Berg,Brentford,Premier League,DF
+4895,Stanley N'Soki,Hoffenheim,Bundesliga,DF
+4898,Tim Oermann,Bochum,Bundesliga,DF
+4899,Tim Skarke,Union Berlin,Bundesliga,"FW,MF"
+4904,Veit Stange,Gladbach,Bundesliga,MF
+4908,Adam Aznou,Bayern Munich,Bundesliga,DF
+4909,Adrian Beck,Heidenheim,Bundesliga,"MF,FW"
+4910,Agon Elezi,Bochum,Bundesliga,MF
+4911,Amin Sarr,Hellas Verona,Serie A,FW
+4914,Anrie Chase,Stuttgart,Bundesliga,DF
+4915,Anthony Rouault,Rennes,Ligue 1,DF
+4917,Arthur,Leverkusen,Bundesliga,DF
+4919,Attila Szalai,Hoffenheim,Bundesliga,"DF,MF"
+4920,Benedict Hollerbach,Union Berlin,Bundesliga,"FW,MF"
+4921,Benedikt Gimber,Heidenheim,Bundesliga,DF
+4922,Benjamin Šeško,RB Leipzig,Bundesliga,"FW,MF"
+4923,Bennit Bröger,Wolfsburg,Bundesliga,MF
+4924,Borja Iglesias,Celta Vigo,La Liga,FW
+4927,Bryan Zaragoza,Osasuna,La Liga,"FW,MF"
+4928,Castello Lukeba,RB Leipzig,Bundesliga,DF
+4929,Cedric Zesiger,Augsburg,Bundesliga,DF
+4936,Daniel Peretz,Bayern Munich,Bundesliga,GK
+4938,David Deger,Augsburg,Bundesliga,MF
+4939,David Jurásek,Hoffenheim,Bundesliga,DF
+4941,Deniz Undav,Stuttgart,Bundesliga,"FW,MF"
+4942,Donny Van De Beek,Girona,La Liga,MF
+4943,El Chadaille Bitshiabu,RB Leipzig,Bundesliga,DF
+4945,Elif Elmas,RB Leipzig,Bundesliga,MF
+4947,Eric Dier,Bayern Munich,Bundesliga,DF
+4951,Fabio Carvalho,Brentford,Premier League,"FW,MF"
+4953,Fares Chaïbi,Eint Frankfurt,Bundesliga,"MF,FW"
+4956,Francis Onyeka,Leverkusen,Bundesliga,FW
+4957,Franck Honorat,Gladbach,Bundesliga,FW
+4958,Frank Feller,Heidenheim,Bundesliga,GK
+4960,Frans Krätzig,Heidenheim,Bundesliga,"DF,MF"
+4962,Grant Ranos,Gladbach,Bundesliga,FW
+4965,Harry Kane,Bayern Munich,Bundesliga,FW
+4967,Hugo Ekitike,Eint Frankfurt,Bundesliga,FW
+4968,Hugo Larsson,Eint Frankfurt,Bundesliga,MF
+4970,Ian Maatsen,Aston Villa,Premier League,DF
+4971,Isak Hansen-Aarøen,Werder Bremen,Bundesliga,MF
+4974,Jan Schöppner,Heidenheim,Bundesliga,MF
+4975,Jan-Niklas Beste,Freiburg,Bundesliga,"FW,MF"
+4978,Jean Mattéo Bahoya,Eint Frankfurt,Bundesliga,"MF,FW"
+4979,Joakim Mæhle,Wolfsburg,Bundesliga,DF
+4982,Jonathan Norbye,RB Leipzig,Bundesliga,DF
+4983,Jordy Makengo,Freiburg,Bundesliga,DF
+4985,Julián Malatini,Werder Bremen,Bundesliga,DF
+4986,Junior Adamu,Freiburg,Bundesliga,FW
+4987,Kauã Santos,Eint Frankfurt,Bundesliga,GK
+4990,Kevin Müller,Heidenheim,Bundesliga,GK
+4992,Kim Min-Jae,Bayern Munich,Bundesliga,DF
+4993,Kjell-Arik Wätjen,Dortmund,Bundesliga,MF
+4999,Leonidas Stergiou,Stuttgart,Bundesliga,DF
+5000,Lovro Majer,Wolfsburg,Bundesliga,MF
+5002,Loïs Openda,RB Leipzig,Bundesliga,"FW,MF"
+5004,Luka Janes,Heidenheim,Bundesliga,MF
+5005,Lukas Daschner,Bochum,Bundesliga,"MF,FW"
+5006,Lukas Ullrich,Gladbach,Bundesliga,DF
+5013,Marvin Pieringer,Heidenheim,Bundesliga,"FW,MF"
+5014,Matej Kovar,Leverkusen,Bundesliga,GK
+5015,Mathias Honsak,Heidenheim,Bundesliga,"FW,DF"
+5017,Matúš Bero,Bochum,Bundesliga,MF
+5020,Max Rosenfelder,Freiburg,Bundesliga,DF
+5023,Maximilian Breunig,Heidenheim,Bundesliga,"FW,MF"
+5024,Maximilian Wittek,Bochum,Bundesliga,DF
+5027,Mikkel Kaufmann,Heidenheim,Bundesliga,FW
+5029,Moritz-Broni Kwarteng,Bochum,Bundesliga,"MF,FW"
+5033,Nathan Tella,Leverkusen,Bundesliga,"MF,FW"
+5034,Nicolas Seiwald,RB Leipzig,Bundesliga,"MF,DF"
+5035,Niels Nkounkou,Eint Frankfurt,Bundesliga,"DF,MF"
+5037,Nnamdi Collins,Eint Frankfurt,Bundesliga,DF
+5038,Noah Loosli,Bochum,Bundesliga,DF
+5039,Noel Nkili,Bayern Munich,Bundesliga,MF
+5040,Nuha Jatta,RB Leipzig,Bundesliga,MF
+5042,Olivier Deman,Werder Bremen,Bundesliga,DF
+5043,Oluwaseun Ogbemudia,Union Berlin,Bundesliga,DF
+5044,Omar Traoré,Heidenheim,Bundesliga,DF
+5048,Patrick Mainka,Heidenheim,Bundesliga,DF
+5050,Phillip Tietz,Augsburg,Bundesliga,FW
+5054,Robin Gosens,Fiorentina,Serie A,DF
+5057,Sacha Boey,Bayern Munich,Bundesliga,DF
+5058,Samuel Bamba,Bochum,Bundesliga,"FW,MF"
+5061,Senne Lynen,Werder Bremen,Bundesliga,MF
+5062,Shiō Fukuda,Gladbach,Bundesliga,FW
+5065,Skelly Alvero,Werder Bremen,Bundesliga,MF
+5067,Stefan Schimmer,Heidenheim,Bundesliga,"FW,MF"
+5070,Thomas Keller,Heidenheim,Bundesliga,"DF,MF"
+5071,Tim Breithaupt,Augsburg,Bundesliga,MF
+5072,Tim Drexler,Hoffenheim,Bundesliga,DF
+5077,Tomáš Čvančara,Gladbach,Bundesliga,FW
+5078,Victor Boniface,Leverkusen,Bundesliga,FW
+5079,Vitus Eicher,Heidenheim,Bundesliga,GK
+5081,Willian Pacho,Paris S-G,Ligue 1,DF
+5082,Xavi Simons,RB Leipzig,Bundesliga,MF
+5084,Yorbe Vertessen,Union Berlin,Bundesliga,"MF,FW"
+5085,Álex Grimaldo,Leverkusen,Bundesliga,DF
+5086,Abdenego Nankishi,Werder Bremen,Bundesliga,FW
+5087,Abdoul Coulibaly,Werder Bremen,Bundesliga,DF
+5088,Abdoulie Ceesay,St Pauli,Bundesliga,FW
+5089,Adam Dźwigała,St Pauli,Bundesliga,"DF,MF"
+5090,Aleix García,Leverkusen,Bundesliga,MF
+5091,Alejo Sarco,Leverkusen,Bundesliga,FW
+5092,Alexander Bernhardsson,Holstein Kiel,Bundesliga,"FW,MF"
+5093,Alexander Prass,Hoffenheim,Bundesliga,DF
+5094,Alexis Claude-Maurice,Augsburg,Bundesliga,"MF,FW"
+5095,Aliou Badara Baldé,Bochum,Bundesliga,"MF,FW"
+5096,Almugera Kabar,Dortmund,Bundesliga,DF
+5097,Ameen Al-Dakhil,Stuttgart,Bundesliga,DF
+5098,Amil Siljević,Eint Frankfurt,Bundesliga,GK
+5099,Andrea Natali,Leverkusen,Bundesliga,DF
+5100,Andreas Albers,St Pauli,Bundesliga,FW
+5101,Andreas Skov Olsen,Wolfsburg,Bundesliga,"FW,MF"
+5102,Andrej Ilic,Lille,Ligue 1,FW
+5103,Andu Kelati,Holstein Kiel,Bundesliga,"MF,DF"
+5104,Anthony Pavlesic,Bayern Munich,Bundesliga,GK
+5105,Antonio Nusa,RB Leipzig,Bundesliga,"MF,DF"
+5106,Armin Gigovic,Holstein Kiel,Bundesliga,MF
+5107,Arnaud Nordin,Mainz 05,Bundesliga,"DF,MF"
+5108,Artem Stepanov,Leverkusen,Bundesliga,FW
+5109,Arthur Chaves,Hoffenheim,Bundesliga,DF
+5110,Arthur Theate,Eint Frankfurt,Bundesliga,DF
+5111,Arthur Vermeeren,Atlético Madrid,La Liga,MF
+5112,Assan Ouedraogo,RB Leipzig,Bundesliga,MF
+5113,Aurele Amenda,Eint Frankfurt,Bundesliga,DF
+5114,Bazoumana Touré,Hoffenheim,Bundesliga,"FW,MF"
+5115,Ben Alexander Voll,St Pauli,Bundesliga,GK
+5116,Bence Dárdai,Wolfsburg,Bundesliga,MF
+5117,Benedikt Pichler,Holstein Kiel,Bundesliga,FW
+5118,Budu Zivzivadze,Heidenheim,Bundesliga,FW
+5119,Can Uzun,Eint Frankfurt,Bundesliga,"MF,FW"
+5120,Carl Johansson,Holstein Kiel,Bundesliga,DF
+5121,Carl Klaus,Union Berlin,Bundesliga,GK
+5122,Carney Chukwuemeka,Dortmund,Bundesliga,MF
+5123,Charles Herrmann,Gladbach,Bundesliga,FW
+5124,Chrislain Matsima,Augsburg,Bundesliga,DF
+5125,Cole Campbell,Dortmund,Bundesliga,"MF,FW"
+5126,Connor Metcalfe,St Pauli,Bundesliga,"MF,FW"
+5127,Danel Sinani,St Pauli,Bundesliga,"FW,MF"
+5128,Dani De Wit,Bochum,Bundesliga,"MF,FW"
+5129,Daniel Gleiber,Mainz 05,Bundesliga,MF
+5130,Daniel Svensson,Dortmund,Bundesliga,"DF,FW"
+5131,David Lelle,Dortmund,Bundesliga,DF
+5132,David Mokwa,Hoffenheim,Bundesliga,"DF,FW"
+5133,David Preu,Union Berlin,Bundesliga,"MF,DF"
+5134,David Zec,Holstein Kiel,Bundesliga,DF
+5135,Denis Vavro,Wolfsburg,Bundesliga,DF
+5136,Derrick Köhn,Werder Bremen,Bundesliga,"DF,FW"
+5137,Dimitris Giannoulis,Augsburg,Bundesliga,DF
+5138,Dominik Javorček,Holstein Kiel,Bundesliga,"DF,MF"
+5139,Eba Bekir Is,Eint Frankfurt,Bundesliga,MF
+5140,El Bilal Touré,Stuttgart,Bundesliga,"FW,MF"
+5141,Elias Saad,St Pauli,Bundesliga,"FW,MF"
+5142,Elye Wahi,Eint Frankfurt,Bundesliga,"FW,MF"
+5143,Emi Buendía,Aston Villa,Premier League,"MF,FW"
+5144,Emil Staugaard,St Pauli,Bundesliga,DF
+5145,Erencan Yardimci,Hoffenheim,Bundesliga,"FW,MF"
+5146,Eric Smith,St Pauli,Bundesliga,"DF,MF"
+5147,Erik Ahlstrand,St Pauli,Bundesliga,"FW,MF"
+5148,Fabian Rieder,Stuttgart,Bundesliga,"MF,FW"
+5149,Faik Sakar,RB Leipzig,Bundesliga,MF
+5150,Felix Meiser,Augsburg,Bundesliga,DF
+5151,Filippo Mane,Dortmund,Bundesliga,DF
+5152,Finley Stevens,St Pauli,Bundesliga,DF
+5153,Finn Jeltsch,Stuttgart,Bundesliga,DF
+5154,Florian Micheler,Hoffenheim,Bundesliga,MF
+5155,Frank Onyeka,Augsburg,Bundesliga,MF
+5156,Gift Orban,Hoffenheim,Bundesliga,FW
+5157,Giorgos Masouras,Bochum,Bundesliga,"FW,MF"
+5159,Haris Tabakovic,Hoffenheim,Bundesliga,FW
+5160,Henri Koudossou,Augsburg,Bundesliga,DF
+5161,Hong Hyunseok,Mainz 05,Bundesliga,MF
+5162,Ibrahima Sissoko,Bochum,Bundesliga,MF
+5163,Ifechukwu Ogbus,Freiburg,Bundesliga,DF
+5164,Igor Matanovic,Eint Frankfurt,Bundesliga,FW
+5165,Issa Kaboré,Manchester City,Premier League,"DF,MF"
+5166,Ivan Nekić,Holstein Kiel,Bundesliga,DF
+5167,Ivan Prtajin,Union Berlin,Bundesliga,FW
+5168,Jackson Irvine,St Pauli,Bundesliga,MF
+5169,Jakov Medić,Bochum,Bundesliga,DF
+5170,James Sands,St Pauli,Bundesliga,"MF,DF"
+5171,Jan Bürger,Wolfsburg,Bundesliga,DF
+5172,Jarzinho Malanga,Stuttgart,Bundesliga,DF
+5173,Jeanuël Belocian,Leverkusen,Bundesliga,"DF,MF"
+5174,Johan Manzambi,Freiburg,Bundesliga,"FW,MF"
+5175,John Tolkin,Holstein Kiel,Bundesliga,"DF,MF"
+5176,Jonah Kusi-Asare,Bayern Munich,Bundesliga,FW
+5177,Jonathan Akaegbobi,Wolfsburg,Bundesliga,FW
+5178,Jordi Paulina,Dortmund,Bundesliga,FW
+5179,João Palhinha,Bayern Munich,Bundesliga,MF
+5180,Juan Ignacio Cabrera,Augsburg,Bundesliga,MF
+5181,Julian Niehues,Heidenheim,Bundesliga,MF
+5182,Julien Yanda,St Pauli,Bundesliga,DF
+5183,Kacper Koscierski,Bochum,Bundesliga,DF
+5184,Kaishu Sano,Mainz 05,Bundesliga,MF
+5185,Kamil Grabara,Wolfsburg,Bundesliga,GK
+5186,Karol Mets,St Pauli,Bundesliga,DF
+5187,Kerim Alajbegović,Leverkusen,Bundesliga,FW
+5188,Koji Miyoshi,Bochum,Bundesliga,"FW,MF"
+5189,Konstantinos Koulierakis,Wolfsburg,Bundesliga,DF
+5190,Kosta Nedeljković,Aston Villa,Premier League,DF
+5191,Lars Ritzka,St Pauli,Bundesliga,"DF,MF"
+5192,Lars Strobl,Hoffenheim,Bundesliga,DF
+5193,Lasse Rosenboom,Holstein Kiel,Bundesliga,DF
+5194,Lennart Karl,Bayern Munich,Bundesliga,MF
+5195,Leo Skiri Østigård,Hoffenheim,Bundesliga,DF
+5196,Leopold Querfeld,Union Berlin,Bundesliga,DF
+5197,Lionel Voufack,RB Leipzig,Bundesliga,DF
+5198,Luca Jaquez,Stuttgart,Bundesliga,DF
+5199,Luca Kerber,Heidenheim,Bundesliga,"MF,DF"
+5200,Luka Đurić,Hoffenheim,Bundesliga,MF
+5201,Lutsharel Geertruida,RB Leipzig,Bundesliga,DF
+5202,Léo Scienza,Heidenheim,Bundesliga,"FW,MF"
+5203,Maarten Vandevoordt,RB Leipzig,Bundesliga,GK
+5204,Mads Roerslev,Brentford,Premier League,DF
+5205,Magnus Knudsen,Holstein Kiel,Bundesliga,MF
+5206,Maik Łukowicz,Werder Bremen,Bundesliga,FW
+5207,Manolis Saliakas,St Pauli,Bundesliga,"MF,DF"
+5208,Marcel Engelhardt,Holstein Kiel,Bundesliga,GK
+5209,Marco Grüll,Werder Bremen,Bundesliga,"FW,MF"
+5210,Marco Komenda,Holstein Kiel,Bundesliga,DF
+5211,Marin Ljubicic,Union Berlin,Bundesliga,"FW,MF"
+5212,Mario Hermoso,Leverkusen,Bundesliga,DF
+5213,Marko Ivezić,Holstein Kiel,Bundesliga,DF
+5214,Markus Kolke,Werder Bremen,Bundesliga,GK
+5215,Martin Terrier,Leverkusen,Bundesliga,"MF,FW"
+5216,Marvin Schmitz,St Pauli,Bundesliga,MF
+5217,Mathys Angély,Wolfsburg,Bundesliga,DF
+5218,Mats Pannewig,Bochum,Bundesliga,MF
+5219,Maurides,St Pauli,Bundesliga,FW
+5220,Max Schmitt,Bayern Munich,Bundesliga,GK
+5221,Michael Olise,Bayern Munich,Bundesliga,"FW,MF"
+5222,Mick Schmetgens,Werder Bremen,Bundesliga,MF
+5223,Mika Walther,RB Leipzig,Bundesliga,MF
+5224,Mio Backhaus,Werder Bremen,Bundesliga,GK
+5225,Mohamed Amoura,Wolfsburg,Bundesliga,FW
+5226,Morgan Guilavogui,St Pauli,Bundesliga,"FW,MF"
+5227,Myron Boadu,Bochum,Bundesliga,FW
+5228,Nathaniel Brown,Eint Frankfurt,Bundesliga,"DF,MF"
+5229,Nediljko Labrović,Augsburg,Bundesliga,GK
+5230,Nicolai Remberg,Holstein Kiel,Bundesliga,MF
+5231,Niklas Jessen,Dortmund,Bundesliga,MF
+5232,Niklas Swider,Gladbach,Bundesliga,MF
+5233,Nikola Vasilj,St Pauli,Bundesliga,GK
+5234,Nikolas Veratschnig,Mainz 05,Bundesliga,"DF,MF"
+5235,Noah Fenyő,Eint Frankfurt,Bundesliga,MF
+5236,Noah König,Hoffenheim,Bundesliga,DF
+5237,Noah Pesch,Gladbach,Bundesliga,FW
+5238,Noahkai Banks,Augsburg,Bundesliga,DF
+5239,Oladapo Afolayan,St Pauli,Bundesliga,"FW,MF"
+5240,Oscar Højlund,Eint Frankfurt,Bundesliga,MF
+5241,Patrice Čović,Werder Bremen,Bundesliga,MF
+5242,Paul Hennrich,Hoffenheim,Bundesliga,MF
+5243,Phil Harres,Holstein Kiel,Bundesliga,FW
+5244,Philipp Sander,Gladbach,Bundesliga,MF
+5245,Philipp Treu,St Pauli,Bundesliga,"MF,DF"
+5246,Ramon Hendriks,Stuttgart,Bundesliga,DF
+5247,Rasmus Kristensen,Eint Frankfurt,Bundesliga,DF
+5248,Robert Ramsak,RB Leipzig,Bundesliga,FW
+5249,Robin Hranáč,Hoffenheim,Bundesliga,DF
+5250,Rodney Elongo-Yombo,Dortmund,Bundesliga,FW
+5251,Romeo Aigbekaen,St Pauli,Bundesliga,MF
+5252,Ronny Seibt,St Pauli,Bundesliga,GK
+5253,Samuel Essende,Augsburg,Bundesliga,FW
+5254,Scott Banks,St Pauli,Bundesliga,"FW,MF"
+5255,Shuto Machino,Holstein Kiel,Bundesliga,"FW,MF"
+5256,Siebe Van Der Heyden,Mallorca,La Liga,"DF,MF"
+5257,Simeon Rapsch,Leverkusen,Bundesliga,GK
+5258,Sirlord Conteh,Heidenheim,Bundesliga,"FW,MF"
+5259,Steve Mounié,Augsburg,Bundesliga,"FW,MF"
+5260,Thomas Dähne,Holstein Kiel,Bundesliga,GK
+5261,Tiago Cardoso,Gladbach,Bundesliga,GK
+5262,Tidiam Gomis,RB Leipzig,Bundesliga,"MF,FW"
+5263,Till Neininger,Wolfsburg,Bundesliga,DF
+5264,Tim Philipp,Hoffenheim,Bundesliga,GK
+5265,Timon Weiner,Holstein Kiel,Bundesliga,GK
+5266,Valentin Gendrey,Hoffenheim,Bundesliga,DF
+5267,Viggo Gebel,RB Leipzig,Bundesliga,MF
+5268,Wesley Adeh,Werder Bremen,Bundesliga,MF
+5269,Wisdom Mike,Bayern Munich,Bundesliga,FW
+5270,Yan Couto,Dortmund,Bundesliga,"DF,FW"
+5271,Yann Sturm,Freiburg,Bundesliga,FW
+5272,Yannik Lührs,Dortmund,Bundesliga,DF
+5273,Yusuf Kabadayı,Augsburg,Bundesliga,"FW,MF"
+7753,Jesús Navas,Sevilla,La Liga,"FW,MF"
+7880,Iván Cuéllar,Mallorca,La Liga,GK
+7943,Raúl Albiol,Villarreal,La Liga,DF
+8048,Ludovic Butelle,Reims,Ligue 1,GK
+8116,César Azpilicueta,Atlético Madrid,La Liga,DF
+8219,Óscar Trejo,Rayo Vallecano,La Liga,MF
+8310,Pedro,Lazio,Serie A,"FW,MF"
+8369,Daniel Parejo,Villarreal,La Liga,MF
+8471,Vicente Guaita,Celta Vigo,La Liga,GK
+8483,Ander Herrera,Athletic Club,La Liga,MF
+8505,David De Gea,Fiorentina,Serie A,GK
+8557,Juanmi,Betis,La Liga,"FW,MF"
+8565,Koke,Atlético Madrid,La Liga,MF
+8566,Leandro Cabrera,Espanyol,La Liga,DF
+8576,Marcos Alonso,Celta Vigo,La Liga,DF
+8619,Yuri Berchiche,Athletic Club,La Liga,DF
+8626,Óscar De Marcos,Athletic Club,La Liga,DF
+8633,Antoine Griezmann,Atlético Madrid,La Liga,"FW,MF"
+8645,Cristhian Stuani,Girona,La Liga,FW
+8648,David López,Girona,La Liga,DF
+8672,Isco,Betis,La Liga,MF
+8691,Kiko Femenía,Villarreal,La Liga,DF
+8740,Sergi Roberto,Como,Serie A,MF
+8762,Álvaro Morata,Milan,Serie A,"FW,MF"
+8767,Abdón Prats,Mallorca,La Liga,"FW,MF"
+8770,Alberto Moreno,Como,Serie A,DF
+8775,Alexis Sánchez,Udinese,Serie A,FW
+8776,Allan Nyom,Getafe,La Liga,"DF,MF"
+8803,Florian Lejeune,Rayo Vallecano,La Liga,DF
+8822,Iñigo Martínez,Barcelona,La Liga,DF
+8850,Moi Gómez,Osasuna,La Liga,"MF,FW"
+8857,Pablo Marí,Fiorentina,Serie A,DF
+8858,Pablo Sarabia,Wolves,Premier League,"MF,FW"
+8885,Thibaut Courtois,Real Madrid,La Liga,GK
+8901,Adrián,Betis,La Liga,GK
+8919,Casemiro,Manchester Utd,Premier League,MF
+8929,Darwin Machís,Valladolid,La Liga,"MF,FW"
+8930,Diego Llorente,Betis,La Liga,DF
+8945,Geoffrey Kondogbia,Marseille,Ligue 1,"DF,MF"
+8951,Iago Aspas,Celta Vigo,La Liga,"FW,MF"
+8955,Iñigo Ruiz De Galarreta,Athletic Club,La Liga,MF
+8959,Javier Manquillo,Celta Vigo,La Liga,DF
+8972,Luka Modrić,Real Madrid,La Liga,MF
+8994,Rubén García,Osasuna,La Liga,"FW,MF"
+8996,Rubén Peña,Osasuna,La Liga,"FW,DF"
+9003,Saúl Ñíguez,Sevilla,La Liga,MF
+9010,Unai García,Osasuna,La Liga,DF
+9021,Adama Traoré,Fulham,Premier League,"FW,MF"
+9022,Adri Embarba,Rayo Vallecano,La Liga,"FW,MF"
+9049,Dani Ceballos,Real Madrid,La Liga,MF
+9056,Dimitri Foulquier,Valencia,La Liga,DF
+9091,Johan Mojica,Mallorca,La Liga,DF
+9100,José Luis Gayà,Valencia,La Liga,DF
+9101,José María Giménez,Atlético Madrid,La Liga,DF
+9133,Portu,Girona,La Liga,"FW,MF"
+9147,Sergi Darder,Mallorca,La Liga,"MF,FW"
+9153,Suso,Sevilla,La Liga,"FW,MF"
+9165,Álvaro García,Rayo Vallecano,La Liga,"FW,MF"
+9174,Aitor Fernández,Osasuna,La Liga,GK
+9179,Alfonso Pedraza,Villarreal,La Liga,"DF,MF"
+9183,André Gomes,Lille,Ligue 1,MF
+9187,Aritz Elustondo,Real Sociedad,La Liga,DF
+9208,David Soria,Getafe,La Liga,GK
+9209,Denis Suárez,Villarreal,La Liga,MF
+9224,Eric Bailly,Villarreal,La Liga,DF
+9228,Fernando Pacheco,Espanyol,La Liga,GK
+9238,Gerard Moreno,Villarreal,La Liga,FW
+9239,Gerónimo Rulli,Marseille,Ligue 1,GK
+9251,Iván Sánchez,Valladolid,La Liga,"MF,FW"
+9252,Iñaki Williams,Athletic Club,La Liga,FW
+9254,Jan Oblak,Atlético Madrid,La Liga,GK
+9258,Javier Muñoz,Las Palmas,La Liga,"MF,DF"
+9260,Joan Jordán,Alavés,La Liga,MF
+9272,Juan Carlos,Girona,La Liga,GK
+9282,Lucas Vázquez,Real Madrid,La Liga,DF
+9293,Mario Pašalić,Atalanta,Serie A,MF
+9294,Martin Ødegaard,Arsenal,Premier League,MF
+9301,Munir El Haddadi,Leganés,La Liga,"FW,MF"
+9311,Pau López,Girona,La Liga,GK
+9313,Pere Milla,Espanyol,La Liga,"MF,FW"
+9320,Raúl Jiménez,Fulham,Premier League,FW
+9321,Raúl De Tomás,Rayo Vallecano,La Liga,"DF,FW"
+9327,Rodrigo De Paul,Atlético Madrid,La Liga,MF
+9333,Sandro Ramírez,Las Palmas,La Liga,"FW,MF"
+9336,Sergi Gómez,Espanyol,La Liga,DF
+9340,Stole Dimitrievski,Valencia,La Liga,GK
+9344,Thomas Partey,Arsenal,Premier League,"MF,DF"
+9352,Unai López,Rayo Vallecano,La Liga,MF
+9357,Álex Moreno,Nott'ham Forest,Premier League,"DF,MF"
+9358,Álex Remiro,Real Sociedad,La Liga,GK
+9362,Abdoulaye Doucouré,Everton,Premier League,MF
+9367,Alphonse Areola,West Ham,Premier League,GK
+9368,Amath,Valladolid,La Liga,"FW,DF"
+9371,Antonio Raillo,Mallorca,La Liga,DF
+9372,Antonio Sanabria,Torino,Serie A,FW
+9385,Carlos Soler,Paris S-G,Ligue 1,MF
+9390,Cristiano Biraghi,Fiorentina,Serie A,DF
+9393,Cédric Bakambu,Betis,La Liga,FW
+9400,Danilo,Juventus,Serie A,DF
+9416,Fabián Ruiz Peña,Paris S-G,Ligue 1,MF
+9423,Gerard Gumbau,Rayo Vallecano,La Liga,MF
+9432,Igor Zubeldia,Real Sociedad,La Liga,DF
+9436,Iñigo Lekue,Athletic Club,La Liga,DF
+9438,Jaume Doménech,Valencia,La Liga,GK
+9443,Jefferson Lerma,Crystal Palace,Premier League,"MF,DF"
+9448,Joni Montiel,Rayo Vallecano,La Liga,MF
+9456,José Luis García Vayá,Valencia,La Liga,MF
+9465,Mamadou Sylla,Valladolid,La Liga,"FW,MF"
+9467,Marco Asensio,Aston Villa,Premier League,MF
+9468,Marcos Llorente,Atlético Madrid,La Liga,"DF,MF"
+9470,Mateo Kovačić,Manchester City,Premier League,MF
+9471,Mathew Ryan,Lens,Ligue 1,GK
+9482,Mikel Oyarzabal,Real Sociedad,La Liga,FW
+9491,Pablo Fornals,Betis,La Liga,"MF,FW"
+9495,Rafa Mir,Valencia,La Liga,"FW,MF"
+9499,Rodri,Manchester City,Premier League,MF
+9506,Sergio Akieme,Reims,Ligue 1,DF
+9509,Simone Verdi,Como,Serie A,"MF,FW"
+9516,Theo Hernández,Milan,Serie A,DF
+9517,Toni Lato,Mallorca,La Liga,DF
+9528,Álvaro Tejero,Espanyol,La Liga,"MF,DF"
+9530,Ángel Correa,Atlético Madrid,La Liga,"FW,MF"
+9546,Andreas Pereira,Fulham,Premier League,MF
+9550,Asier Villalibre,Alavés,La Liga,FW
+9551,Aïssa Mandi,Lille,Ligue 1,DF
+9553,Benito Ramírez,Las Palmas,La Liga,"DF,FW"
+9555,Caio Henrique Oliveira Silva,Monaco,Ligue 1,DF
+9556,Carles Aleñá,Alavés,La Liga,"MF,FW"
+9559,Clément Lenglet,Atlético Madrid,La Liga,DF
+9563,Dani Raba,Leganés,La Liga,"FW,MF"
+9565,Darko Brašanac,Leganés,La Liga,MF
+9572,Diego Rico,Getafe,La Liga,DF
+9574,Edu Expósito,Espanyol,La Liga,MF
+9597,Iván Villar,Celta Vigo,La Liga,GK
+9598,Jasper Cillessen,Las Palmas,La Liga,GK
+9600,Jeremie Boga,Nice,Ligue 1,"MF,FW"
+9602,Joaquín Correa,Inter,Serie A,"FW,MF"
+9604,Jon Guridi,Alavés,La Liga,"MF,FW"
+9606,Jonas Martin,Brest,Ligue 1,MF
+9615,Kepa Arrizabalaga,Bournemouth,Premier League,GK
+9616,Kike Barja,Osasuna,La Liga,"FW,MF"
+9618,Kiké,Alavés,La Liga,FW
+9622,Lucas Digne,Aston Villa,Premier League,DF
+9628,Marc Cardona,Las Palmas,La Liga,"FW,DF"
+9644,Mikel Vesga,Athletic Club,La Liga,MF
+9646,Nacho Vidal,Osasuna,La Liga,DF
+9653,Nicola Sansone,Lecce,Serie A,"MF,FW"
+9661,Pervis Estupiñán,Brighton,Premier League,DF
+9673,Rui Silva,Betis,La Liga,GK
+9677,Samuel Umtiti,Lille,Ligue 1,DF
+9678,Sergi Guardiola,Rayo Vallecano,La Liga,FW
+9688,Unai Simón,Athletic Club,La Liga,GK
+9694,Yeray Álvarez,Athletic Club,La Liga,DF
+9699,Álex Berenguer,Athletic Club,La Liga,"FW,MF"
+9701,Álex Muñoz,Las Palmas,La Liga,DF
+9702,Álvaro Fernández,Sevilla,La Liga,GK
+9712,Aitor Ruibal,Betis,La Liga,"DF,FW"
+9719,Ander Guevara,Alavés,La Liga,MF
+9720,Andoni Gorosabel,Athletic Club,La Liga,DF
+9725,Antonio Sivera,Alavés,La Liga,GK
+9732,Brais Méndez,Real Sociedad,La Liga,MF
+9742,Daniel Vivian,Athletic Club,La Liga,DF
+9747,Djené,Getafe,La Liga,"DF,MF"
+9748,Douglas Luiz,Juventus,Serie A,MF
+9752,Emiliano Martínez,Aston Villa,Premier League,GK
+9754,Enes Ünal,Bournemouth,Premier League,"FW,MF"
+9760,Fabio González,Las Palmas,La Liga,MF
+9762,Federico Valverde,Real Madrid,La Liga,"MF,DF"
+9763,Ferrán Torres,Barcelona,La Liga,"FW,MF"
+9765,Fran Vieites,Betis,La Liga,GK
+9776,Gonçalo Guedes,Wolves,Premier League,"MF,FW"
+9779,Guillermo Maripán,Monaco,Ligue 1,DF
+9782,Hugo Duro,Valencia,La Liga,FW
+9793,José Arnaiz,Osasuna,La Liga,"FW,MF"
+9796,Juan Cruz,Leganés,La Liga,"FW,MF"
+9797,Juan Soriano,Leganés,La Liga,GK
+9799,Juanpe,Girona,La Liga,DF
+9804,Leandro Chichizola,Parma,Serie A,GK
+9814,Manu Morlanes,Mallorca,La Liga,MF
+9816,Marko Dmitrović,Leganés,La Liga,GK
+9818,Mathías Olivera,Napoli,Serie A,DF
+9820,Mauro Arambarri,Getafe,La Liga,MF
+9830,Neto,Arsenal,Premier League,GK
+9832,Nélson Semedo,Wolves,Premier League,DF
+9838,Pau Torres,Aston Villa,Premier League,DF
+9853,Saša Lukić,Fulham,Premier League,MF
+9857,Stanislav Lobotka,Napoli,Serie A,MF
+9861,Unai Núñez,Athletic Club,La Liga,DF
+9869,Yerry Mina,Cagliari,Serie A,DF
+9875,Óscar Rodríguez Arnaiz,Leganés,La Liga,"MF,FW"
+9876,Abel Ruiz,Girona,La Liga,FW
+9877,Adrià Pedrosa,Sevilla,La Liga,DF
+9879,Aihen Muñoz,Real Sociedad,La Liga,DF
+9883,Alex Sola,Getafe,La Liga,"MF,FW"
+9885,Ander Barrenetxea,Real Sociedad,La Liga,"MF,FW"
+9887,Andrei Ratiu,Rayo Vallecano,La Liga,DF
+9888,Andriy Lunin,Real Madrid,La Liga,GK
+9892,Anuar,Valladolid,La Liga,"MF,FW"
+9893,Arthur Melo,Girona,La Liga,MF
+9896,Brahim Díaz,Real Madrid,La Liga,"FW,MF"
+9897,Bryan Gil,Girona,La Liga,"FW,MF"
+9898,Carles Pérez,Getafe,La Liga,"MF,FW"
+9900,Catena,Osasuna,La Liga,DF
+9907,Cucho,Betis,La Liga,FW
+9914,Emerson,Milan,Serie A,DF
+9918,Ezequiel Ávila,Betis,La Liga,FW
+9920,Fernando Calero,Espanyol,La Liga,"DF,MF"
+9921,Fran Beltrán,Celta Vigo,La Liga,MF
+9926,Giovani Lo Celso,Betis,La Liga,"MF,FW"
+9928,Gorka Guruzeta,Athletic Club,La Liga,FW
+9933,Iván Martín,Girona,La Liga,MF
+9934,Iñaki Peña,Barcelona,La Liga,GK
+9935,Jaime Mata,Las Palmas,La Liga,"FW,MF"
+9937,Javi Galán,Atlético Madrid,La Liga,DF
+9940,Javi Puado,Espanyol,La Liga,"FW,MF"
+9941,Javi Sánchez,Valladolid,La Liga,DF
+9958,Juan Berrocal,Getafe,La Liga,DF
+9964,Lee Kang-In,Paris S-G,Ligue 1,"FW,MF"
+9969,Manu Sánchez,Alavés,La Liga,DF
+9970,Marc Cucurella,Chelsea,Premier League,DF
+9975,Martín Zubimendi,Real Sociedad,La Liga,MF
+9976,Mathias Jensen,Brentford,Premier League,MF
+9978,Miguel,Leganés,La Liga,FW
+9981,Mohammed Salisu,Monaco,Ligue 1,DF
+9982,Morro,Rayo Vallecano,La Liga,GK
+9983,Moses Simon,Nantes,Ligue 1,"FW,MF"
+9984,Mouctar Diakhaby,Valencia,La Liga,DF
+9987,Nehuén Pérez,Udinese,Serie A,DF
+9995,Paul Akouokou,Lyon,Ligue 1,MF
+9997,Pedro Porro,Tottenham,Premier League,DF
+10006,Roberto López,Leganés,La Liga,MF
+10008,Robin Le Normand,Atlético Madrid,La Liga,DF
+10012,Samuel Chukwueze,Milan,Serie A,"FW,MF"
+10014,Santi Comesaña,Villarreal,La Liga,MF
+10017,Sergio Camello,Rayo Vallecano,La Liga,FW
+10019,Sergio Reguilón,Tottenham,Premier League,DF
+10023,Thomas Lemar,Atlético Madrid,La Liga,MF
+10025,Toni Villa,Girona,La Liga,MF
+10027,Valery Fernández,Mallorca,La Liga,"MF,FW"
+10030,Vinicius Júnior,Real Madrid,La Liga,FW
+10034,William Carvalho,Betis,La Liga,MF
+10037,Yangel Herrera,Girona,La Liga,MF
+10041,Álex Domínguez,Toulouse,Ligue 1,GK
+10047,Aimar Oroz,Osasuna,La Liga,MF
+10050,Aleksandar Sedlar,Alavés,La Liga,DF
+10052,Alessandro Florenzi,Milan,Serie A,FW
+10053,Alex Baena,Villarreal,La Liga,"MF,FW"
+10057,Andre-Frank Zambo Anguissa,Napoli,Serie A,MF
+10059,Ansu Fati,Barcelona,La Liga,FW
+10060,Ante Budimir,Osasuna,La Liga,FW
+10064,Aridane Hernández,Rayo Vallecano,La Liga,DF
+10066,Aritz Arambarri,Leganés,La Liga,DF
+10068,Arnau Tenas,Paris S-G,Ligue 1,GK
+10075,Dani Cárdenas,Rayo Vallecano,La Liga,GK
+10077,Dani Rodríguez,Mallorca,La Liga,"MF,FW"
+10081,Diego Carlos,Aston Villa,Premier League,DF
+10082,Domingos Duarte,Getafe,La Liga,DF
+10092,Ferland Mendy,Real Madrid,La Liga,DF
+10100,Frenkie De Jong,Barcelona,La Liga,MF
+10105,Germán Valera,Valencia,La Liga,MF
+10108,Guido Rodríguez,West Ham,Premier League,MF
+10111,Hugo Guillamón,Valencia,La Liga,MF
+10115,Iker Losada,Betis,La Liga,"MF,FW"
+10121,Javi Hernández,Leganés,La Liga,DF
+10122,Javi López,Real Sociedad,La Liga,DF
+10123,Javi Martínez,Osasuna,La Liga,MF
+10128,Jon Moncayola,Osasuna,La Liga,MF
+10129,Jon Pacheco,Real Sociedad,La Liga,DF
+10130,Jorge Cuenca,Fulham,Premier League,DF
+10131,Jorge Sáenz,Leganés,La Liga,DF
+10132,Jorge De Frutos,Rayo Vallecano,La Liga,"FW,MF"
+10133,Joseph Aidoo,Celta Vigo,La Liga,DF
+10139,João Félix,Chelsea,Premier League,"FW,MF"
+10142,Juanlu Sánchez,Sevilla,La Liga,"MF,DF"
+10144,Jules Koundé,Barcelona,La Liga,DF
+10145,Kenedy,Valladolid,La Liga,"MF,FW"
+10147,Kieran Trippier,Newcastle Utd,Premier League,DF
+10148,Kike Pérez,Valladolid,La Liga,MF
+10155,Lucas Ocampos,Sevilla,La Liga,FW
+10157,Luis Rioja,Alavés,La Liga,FW
+10158,Luka Romero,Alavés,La Liga,"FW,MF"
+10164,Martin Valjent,Mallorca,La Liga,DF
+10169,Miguel Gutiérrez,Girona,La Liga,"DF,MF"
+10171,Modibo Sagnan,Montpellier,Ligue 1,DF
+10174,Nabil Fekir,Betis,La Liga,MF
+10175,Nemanja Gudelj,Sevilla,La Liga,"MF,DF"
+10178,Oihan Sancet,Athletic Club,La Liga,MF
+10185,Pere Joan,Mallorca,La Liga,GK
+10186,Pol Lozano,Espanyol,La Liga,MF
+10189,Raúl,Osasuna,La Liga,"FW,MF"
+10195,Rodrigo Riquelme,Atlético Madrid,La Liga,"MF,DF"
+10196,Rodrygo,Real Madrid,La Liga,"FW,MF"
+10199,Ronald Araújo,Barcelona,La Liga,DF
+10203,Sergio Carreira,Celta Vigo,La Liga,"MF,DF"
+10205,Sergio Herrera,Osasuna,La Liga,GK
+10209,Takefusa Kubo,Real Sociedad,La Liga,"MF,FW"
+10210,Thierry Correia,Valencia,La Liga,DF
+10219,Éder Militão,Real Madrid,La Liga,DF
+10223,Abdel Abqar,Alavés,La Liga,DF
+10225,Aitor Paredes,Athletic Club,La Liga,DF
+10228,Alfon,Celta Vigo,La Liga,"FW,MF"
+10229,Alfonso Espino,Rayo Vallecano,La Liga,DF
+10232,Antonio Blanco,Alavés,La Liga,MF
+10240,Beñat Prados,Athletic Club,La Liga,MF
+10241,Beñat Turrientes,Real Sociedad,La Liga,MF
+10244,Carlos Dominguez,Celta Vigo,La Liga,DF
+10253,Dani Gómez,Valencia,La Liga,FW
+10263,Eneko Ortiz,Alavés,La Liga,MF
+10269,Filip Jørgensen,Chelsea,Premier League,GK
+10286,Hugo Sotelo,Celta Vigo,La Liga,MF
+10288,Iglesias,Getafe,La Liga,DF
+10291,Iker Álvarez,Villarreal,La Liga,GK
+10307,Jesus Vazquez,Valencia,La Liga,DF
+10309,John Joe,Getafe,La Liga,"MF,FW"
+10320,Jota,Rennes,Ligue 1,"FW,MF"
+10322,Juan Cruz Armada,Osasuna,La Liga,DF
+10324,Juan Foyth,Villarreal,La Liga,DF
+10344,Luis Milla,Getafe,La Liga,MF
+10345,Luis Pérez,Valladolid,La Liga,DF
+10351,Marcos André,Valladolid,La Liga,FW
+10354,Marvin,Las Palmas,La Liga,"DF,FW"
+10362,Nico Williams,Athletic Club,La Liga,FW
+10364,Oier Zarraga,Udinese,Serie A,MF
+10365,Olasagasti,Real Sociedad,La Liga,MF
+10370,Pablo Ramon,Espanyol,La Liga,DF
+10372,Patrick Cutrone,Como,Serie A,FW
+10374,Paulo Gazzaniga,Girona,La Liga,GK
+10375,Pedri,Barcelona,La Liga,MF
+10377,Rafa,Sevilla,La Liga,GK
+10382,Renato Tapia,Leganés,La Liga,"MF,DF"
+10384,Roberto Navarro,Mallorca,La Liga,"MF,FW"
+10388,Salvi,Espanyol,La Liga,MF
+10402,Tete Morente,Lecce,Serie A,"FW,MF"
+10406,Unai Marrero,Real Sociedad,La Liga,GK
+10407,Urko González,Espanyol,La Liga,MF
+10411,Yeremi Pino,Villarreal,La Liga,"MF,FW"
+10413,Yunus Musah,Milan,Serie A,"MF,FW"
+10426,Óscar Mingueza,Celta Vigo,La Liga,"MF,DF"
+10427,Abde Ezzalzouli,Betis,La Liga,"FW,MF"
+10429,Adrian Rodriguez,Alavés,La Liga,GK
+10433,Alberto López,Sevilla,La Liga,GK
+10437,Alejandro Balde,Barcelona,La Liga,DF
+10447,Antonio Gomis,Atlético Madrid,La Liga,GK
+10449,Antonio Sánchez,Mallorca,La Liga,"MF,DF"
+10451,Arnaut Danjuma,Girona,La Liga,"FW,MF"
+10453,Benjamin Lecomte,Montpellier,Ligue 1,GK
+10454,Boulaye Dia,Lazio,Serie A,"MF,FW"
+10456,Brian Oliván,Espanyol,La Liga,DF
+10460,Carlos Martín,Alavés,La Liga,"FW,MF"
+10461,Carmona,Sevilla,La Liga,DF
+10467,Cristhian Mosquera,Valencia,La Liga,DF
+10469,César Fernández,Celta Vigo,La Liga,GK
+10470,César Tárrega,Valencia,La Liga,DF
+10471,Damián Rodríguez,Celta Vigo,La Liga,MF
+10474,Diego Conde,Villarreal,La Liga,GK
+10476,Diego López,Valencia,La Liga,"MF,FW"
+10478,Dominik Greif,Mallorca,La Liga,GK
+10479,Eduardo Camavinga,Real Madrid,La Liga,"MF,DF"
+10480,Enric Franquesa,Leganés,La Liga,"DF,FW"
+10481,Eray Cömert,Valladolid,La Liga,"DF,MF"
+10482,Eric García,Barcelona,La Liga,"DF,MF"
+10483,Estanis,Bologna,Serie A,FW
+10488,Fran Garcia,Real Madrid,La Liga,DF
+10489,Franco Cervi,Celta Vigo,La Liga,"FW,MF"
+10492,Gavi,Barcelona,La Liga,"MF,FW"
+10494,Giorgi Mamardashvili,Valencia,La Liga,GK
+10496,Giuliano Simeone,Atlético Madrid,La Liga,MF
+10497,Gonzalo Montiel,Sevilla,La Liga,"DF,MF"
+10501,Hugo Álvarez,Celta Vigo,La Liga,"MF,DF"
+10502,Héctor Bellerín,Betis,La Liga,DF
+10504,Iker Benito,Osasuna,La Liga,"FW,MF"
+10506,Ilias Akhomach,Villarreal,La Liga,"MF,FW"
+10508,Isaac Palazón Camacho,Rayo Vallecano,La Liga,"MF,FW"
+10510,Iván Balliu,Rayo Vallecano,La Liga,DF
+10512,Jakub Jankto,Cagliari,Serie A,MF
+10516,Javier Guerra,Valencia,La Liga,MF
+10517,Javier Llabrés,Mallorca,La Liga,FW
+10519,Javier Serrano,Atlético Madrid,La Liga,MF
+10520,Jesús Areso,Osasuna,La Liga,DF
+10523,Jesús Owono,Alavés,La Liga,GK
+10524,Joan García,Espanyol,La Liga,GK
+10526,Jofre,Espanyol,La Liga,"MF,FW"
+10538,Juanmi Latasa,Valladolid,La Liga,FW
+10539,Julen Agirrezabala,Athletic Club,La Liga,GK
+10541,Kike Salas,Sevilla,La Liga,DF
+10544,Leo Román,Mallorca,La Liga,GK
+10564,Mario Gila,Lazio,Serie A,DF
+10572,Mika Mármol,Las Palmas,La Liga,DF
+10577,Nahuel Tenaglia,Alavés,La Liga,DF
+10578,Nicolas Jackson,Chelsea,Premier League,FW
+10580,Nicolás Serrano,Athletic Club,La Liga,FW
+10587,Pablo Barrios,Atlético Madrid,La Liga,MF
+10590,Pathé Ciss,Rayo Vallecano,La Liga,"MF,DF"
+10592,Pedro Alemañ,Valencia,La Liga,MF
+10594,Pedro Ortiz,Sevilla,La Liga,MF
+10595,Peter González,Getafe,La Liga,"MF,FW"
+10596,Rafa Marín,Napoli,Serie A,DF
+10597,Randy Nteka,Rayo Vallecano,La Liga,FW
+10599,Reinildo Mandava,Atlético Madrid,La Liga,DF
+10601,Ruben Lendinez,Valencia,La Liga,DF
+10619,Vedat Muriqi,Mallorca,La Liga,FW
+10622,Yellu Santiago,Getafe,La Liga,MF
+10624,Youssouf Sabaly,Betis,La Liga,DF
+10630,Óscar Valentín,Rayo Vallecano,La Liga,MF
+10632,Abdul Mumin,Rayo Vallecano,La Liga,DF
+10633,Abner,Lyon,Ligue 1,DF
+10635,Adu Ares,Athletic Club,La Liga,FW
+10637,Aitor Gismera,Atlético Madrid,La Liga,MF
+10639,Alberto Marí,Valencia,La Liga,FW
+10642,Alejandro Iturbe,Atlético Madrid,La Liga,GK
+10647,Ander Astralaga,Barcelona,La Liga,GK
+10648,Arnau Martinez,Girona,La Liga,"DF,MF"
+10651,Aurélien Tchouaméni,Real Madrid,La Liga,"DF,MF"
+10653,Ayoze Pérez,Villarreal,La Liga,FW
+10662,Carlos Romero,Espanyol,La Liga,DF
+10664,Cenk Özkacar,Valencia,La Liga,DF
+10665,Chadi Riad,Crystal Palace,Premier League,DF
+10667,Copete,Mallorca,La Liga,DF
+10670,Cyle Larin,Mallorca,La Liga,FW
+10672,César De La Hoz,Valladolid,La Liga,MF
+10673,Daniel Rodriguez,Barcelona,La Liga,FW
+10674,David Torres,Valladolid,La Liga,DF
+10675,Dawda Camara,Girona,La Liga,FW
+10679,Diego Iturralde,Sevilla,La Liga,FW
+10682,Diego Méndez,Rayo Vallecano,La Liga,MF
+10683,Domingos André Ribeiro Almeida,Valencia,La Liga,"MF,FW"
+10686,Egoitz Arana,Real Sociedad,La Liga,GK
+10689,Etta Eyong,Villarreal,La Liga,"MF,FW"
+10693,Fortuño,Espanyol,La Liga,GK
+10696,Francisco Perez,Valencia,La Liga,"FW,MF"
+10699,Gorka Rivera Alonso,Getafe,La Liga,"DF,MF"
+10703,Iker Muñoz,Osasuna,La Liga,MF
+10704,Ilias Kostis,Atlético Madrid,La Liga,DF
+10710,Joel Roca,Girona,La Liga,FW
+10711,Jon Magunazelaia,Real Sociedad,La Liga,MF
+10712,Jordan Amavi,Brest,Ligue 1,DF
+10713,Jorge Herrando,Osasuna,La Liga,DF
+10715,José Gragera,Espanyol,La Liga,MF
+10718,Jørgen Strand Larsen,Wolves,Premier League,FW
+10721,Lamine Yamal,Barcelona,La Liga,FW
+10725,Loïc Bade,Sevilla,La Liga,DF
+10726,Luca De La Torre,Celta Vigo,La Liga,MF
+10727,Lucas Oliveira Rosa,Valladolid,La Liga,DF
+10730,Luiz Felipe,Marseille,Ligue 1,DF
+10732,Lulo Dasilva,Sevilla,La Liga,MF
+10735,Manu Bueno,Sevilla,La Liga,"MF,FW"
+10738,Marc Casado,Barcelona,La Liga,MF
+10739,Marc Guiu,Chelsea,Premier League,FW
+10742,Marcão,Sevilla,La Liga,DF
+10743,Mario Maroto,Valladolid,La Liga,MF
+10744,Mario Martín,Valladolid,La Liga,MF
+10749,Martín Conde,Celta Vigo,La Liga,DF
+10751,Matt Doherty,Wolves,Premier League,DF
+10752,Matías Árbol,Sevilla,La Liga,GK
+10754,Mohamed Ali Cho,Nice,Ligue 1,"FW,MF"
+10757,Nahuel Molina,Atlético Madrid,La Liga,DF
+10760,Nicolás Paz,Como,Serie A,"MF,FW"
+10761,Omar El Hilali,Espanyol,La Liga,DF
+10763,Pablo Durán,Celta Vigo,La Liga,"FW,MF"
+10764,Pablo Ibáñez,Osasuna,La Liga,MF
+10765,Pablo Marín,Real Sociedad,La Liga,MF
+10768,Pablo Torre,Barcelona,La Liga,"MF,FW"
+10769,Pablo Valencia,Osasuna,La Liga,GK
+10770,Pape Gueye,Villarreal,La Liga,MF
+10773,Pau Victor,Barcelona,La Liga,FW
+10774,Pep Chavarría,Rayo Vallecano,La Liga,"DF,FW"
+10775,Pol Lirola,Marseille,Ligue 1,DF
+10777,Ramón Terrats,Getafe,La Liga,"MF,FW"
+10778,Raphinha,Barcelona,La Liga,"FW,MF"
+10779,Ricard Artero,Girona,La Liga,MF
+10785,Samu Costa,Mallorca,La Liga,MF
+10786,Samuel Lino,Atlético Madrid,La Liga,"MF,DF"
+10787,Santiago Bueno,Wolves,Premier League,DF
+10789,Selim Amallah,Valladolid,La Liga,MF
+10790,Sergio Mestre,Real Madrid,La Liga,GK
+10795,Tino Kadewere,Nantes,Ligue 1,"MF,FW"
+10796,Umar Sadiq,Real Sociedad,La Liga,FW
+10797,Unai Gómez,Athletic Club,La Liga,"MF,FW"
+10799,Valentín Castellanos,Lazio,Serie A,FW
+10801,Viktor Tsyhankov,Girona,La Liga,"FW,MF"
+10804,Williot Swedberg,Celta Vigo,La Liga,"FW,MF"
+10808,Álvaro Aceves,Valladolid,La Liga,GK
+10809,Álvaro Aguado,Espanyol,La Liga,MF
+10810,Álvaro Rodríguez,Getafe,La Liga,FW
+10813,Abde Rebbach,Alavés,La Liga,"FW,MF"
+10816,Adrian Niño,Atlético Madrid,La Liga,FW
+10817,Adrià Altimira,Leganés,La Liga,"DF,FW"
+10819,Aingeru Olabarrieta,Athletic Club,La Liga,FW
+10820,Aitor Fraga,Real Sociedad,La Liga,GK
+10822,Alberto Moleiro,Las Palmas,La Liga,"FW,MF"
+10823,Alberto Risco,Getafe,La Liga,"MF,FW"
+10827,Alejo Véliz,Espanyol,La Liga,FW
+10829,Alex Padilla,Athletic Club,La Liga,GK
+10831,Anastasios Douvikas,Celta Vigo,La Liga,FW
+10833,André Ferreira,Valladolid,La Liga,GK
+10834,Antal Yaakobishvili,Girona,La Liga,DF
+10835,Arda Güler,Real Madrid,La Liga,"MF,FW"
+10837,Arsen Zakharyan,Real Sociedad,La Liga,"MF,FW"
+10838,Artem Dovbyk,Roma,Serie A,FW
+10839,Asier Osambela,Osasuna,La Liga,MF
+10840,Assane Diao,Betis,La Liga,FW
+10841,Augusto Batalla,Rayo Vallecano,La Liga,GK
+10843,Ben Brereton,Southampton,Premier League,FW
+10846,Boubakary Soumaré,Leicester City,Premier League,MF
+10851,Carl Starfelt,Celta Vigo,La Liga,DF
+10853,Carlos Benavídez,Alavés,La Liga,MF
+10854,Carlos Vicente,Alavés,La Liga,"FW,MF"
+10859,Daniel Luna,Mallorca,La Liga,MF
+10860,Darío Fuentes,Sevilla,La Liga,DF
+10862,David Otorbi,Valencia,La Liga,MF
+10863,Diego Kochen,Barcelona,La Liga,GK
+10864,Dimitrios Stamatakis,Osasuna,La Liga,GK
+10866,Djordjije Medenica,Getafe,La Liga,GK
+10869,Egoitz Muñoz,Alavés,La Liga,DF
+10871,Enzo Loiodice,Las Palmas,La Liga,MF
+10876,Fermin López,Barcelona,La Liga,"MF,FW"
+10877,Fran,Real Madrid,La Liga,GK
+10880,Gonzalo García,Real Madrid,La Liga,"FW,DF"
+10881,Guilherme Fernandes,Betis,La Liga,GK
+10882,Hamari Traoré,Real Sociedad,La Liga,DF
+10884,Horaţiu Moldovan,Atlético Madrid,La Liga,GK
+10886,Héctor Fort,Barcelona,La Liga,DF
+10891,Iker Almena,Girona,La Liga,"FW,DF"
+10893,Isaac Romero,Sevilla,La Liga,FW
+10895,Iñaki Rupérez,Real Sociedad,La Liga,DF
+10896,Iñigo Arguibide,Osasuna,La Liga,FW
+10897,Jacobo Ramón,Real Madrid,La Liga,DF
+10898,Jailson Siqueira,Celta Vigo,La Liga,"DF,MF"
+10899,Jastin García,Girona,La Liga,FW
+10900,Javi Martón,Athletic Club,La Liga,"FW,MF"
+10901,Javi Rodríguez,Celta Vigo,La Liga,DF
+10904,Jhon Solis,Girona,La Liga,MF
+10905,Joaquín Panichelli,Alavés,La Liga,FW
+10906,Johnny Cardoso,Betis,La Liga,MF
+10907,Jon Aramburu,Real Sociedad,La Liga,DF
+10908,Jon Martin,Real Sociedad,La Liga,DF
+10909,Jonathan Bamba,Celta Vigo,La Liga,"FW,MF"
+10911,Jorge Benito,Getafe,La Liga,GK
+10912,Juan Herzog,Las Palmas,La Liga,DF
+10913,Julian Araujo,Bournemouth,Premier League,DF
+10916,Karl Etta,Villarreal,La Liga,"MF,FW"
+10917,Kieran Tierney,Arsenal,Premier League,"DF,FW"
+10918,Kirian Rodríguez,Las Palmas,La Liga,MF
+10920,Lucien Agoume,Sevilla,La Liga,MF
+10925,Martín Tejón,Valencia,La Liga,"MF,DF"
+10926,Mason Greenwood,Marseille,Ligue 1,"FW,MF"
+10927,Matteo Gabbia,Milan,Serie A,DF
+10930,Mihailo Ristić,Celta Vigo,La Liga,"DF,MF"
+10931,Mikayil Ngor Faye,Rennes,Ligue 1,DF
+10932,Mikel Jauregizar,Athletic Club,La Liga,MF
+10934,Máximo Perrone,Como,Serie A,MF
+10935,Nabil Aberdin,Getafe,La Liga,MF
+10936,Nobel Mendy,Betis,La Liga,DF
+10937,Pablo Busto,Betis,La Liga,DF
+10940,Pau Cubarsí,Barcelona,La Liga,DF
+10943,Pejiño,Las Palmas,La Liga,FW
+10944,Pol Tristán,Espanyol,La Liga,GK
+10946,Rayane Belaid,Atlético Madrid,La Liga,DF
+10951,Saúl Coco,Torino,Serie A,DF
+10953,Sergi Altimira,Betis,La Liga,MF
+10954,Sergi Canós,Valencia,La Liga,"MF,FW"
+10955,Sergi Cardona,Villarreal,La Liga,DF
+10959,Silvi Clúa,Girona,La Liga,MF
+10961,Stanis Idumbo,Sevilla,La Liga,"FW,MF"
+10962,Stefan Lekovic,Monza,Serie A,DF
+10963,Sávio,Manchester City,Premier League,"FW,MF"
+10964,Tadeo Allende,Celta Vigo,La Liga,FW
+10967,Unai Eguíluz,Athletic Club,La Liga,DF
+10968,Vicent Abril,Valencia,La Liga,GK
+10971,Vitor Roque,Betis,La Liga,FW
+10974,Xavi Pleguezuelo,Betis,La Liga,DF
+10976,Yarek Gasiorowski,Valencia,La Liga,DF
+10978,Yerson Mosquera,Wolves,Premier League,DF
+10979,Yoel Lago,Celta Vigo,La Liga,DF
+10981,Álex Suárez,Las Palmas,La Liga,DF
+10984,Álvaro Killane,Las Palmas,La Liga,GK
+10986,Áron Yaakobishvili,Barcelona,La Liga,GK
+10987,Abdoulaye Keita,Getafe,La Liga,"FW,MF"
+10988,Abdulai Juma Bah,Lens,Ligue 1,DF
+10989,Abel Bretones,Osasuna,La Liga,DF
+10990,Aboubacar Bassinga,Las Palmas,La Liga,MF
+10991,Adama Boiro,Athletic Club,La Liga,"DF,FW"
+10992,Adrian Baquerin,Valladolid,La Liga,FW
+10993,Adrián Rodriguez,Valladolid,La Liga,DF
+10994,Akor Adams,Montpellier,Ligue 1,FW
+10995,Alassane Diatta,Villarreal,La Liga,MF
+10996,Albert Sambi Lokonga,Sevilla,La Liga,MF
+10997,Alcázar,Betis,La Liga,DF
+10998,Alejandro Francés,Girona,La Liga,DF
+10999,Alejandro Jay Agustín,Alavés,La Liga,MF
+11000,Alejandro Rego,Athletic Club,La Liga,MF
+11001,Aleksandar Andreev,Girona,La Liga,GK
+11002,Alex Almansa,Espanyol,La Liga,FW
+11003,Alex Marchal,Real Sociedad,La Liga,MF
+11004,Alexis Olmedo,Barcelona,La Liga,DF
+11005,Ander Izagirre,Athletic Club,La Liga,DF
+11006,Andres Cuenca,Barcelona,La Liga,DF
+11007,Andy Pelmard,Las Palmas,La Liga,DF
+11008,Antonio Candela,Valladolid,La Liga,DF
+11009,Antonio Espigare,Villarreal,La Liga,DF
+11010,Antoniu,Espanyol,La Liga,"FW,MF"
+11011,Antony,Betis,La Liga,FW
+11012,Arkaitz Mariezkurrena,Real Sociedad,La Liga,"FW,MF"
+11013,Arnau Rafús,Valladolid,La Liga,GK
+11014,Arnau Solà,Villarreal,La Liga,MF
+11015,Arturo Rodríguez,Las Palmas,La Liga,FW
+11016,Bertuğ Yıldırım,Getafe,La Liga,FW
+11017,Bojan Miovski,Girona,La Liga,FW
+11018,Borna Barišić,Leganés,La Liga,DF
+11019,Carlos Guirao,Betis,La Liga,MF
+11020,Carlos Lumbreras,Osasuna,La Liga,FW
+11021,Castrin,Sevilla,La Liga,FW
+11022,Català,Espanyol,La Liga,DF
+11023,Chema,Real Madrid,La Liga,MF
+11024,Chiquinho,Mallorca,La Liga,"MF,FW"
+11025,Christantus Uche,Getafe,La Liga,"FW,MF"
+11026,Chuky San Jose,Valladolid,La Liga,MF
+11027,Coba Da Costa,Getafe,La Liga,"MF,FW"
+11028,Conor Gallagher,Atlético Madrid,La Liga,MF
+11029,Daniel Díaz,Real Sociedad,La Liga,MF
+11030,Daniel Requena,Villarreal,La Liga,MF
+11031,Daniel Yáñez,Real Madrid,La Liga,FW
+11032,Daouda Doumbia,Alavés,La Liga,MF
+11033,Dario Essugo,Las Palmas,La Liga,MF
+11034,David Argüelles,Getafe,La Liga,MF
+11035,David Jiménez,Real Madrid,La Liga,DF
+11036,Diego,Leganés,La Liga,FW
+11037,Diego Aguado,Real Madrid,La Liga,DF
+11039,Diego Martín,Las Palmas,La Liga,FW
+11040,Dinko Horkaš,Las Palmas,La Liga,GK
+11041,Duk,Leganés,La Liga,"MF,FW"
+11042,Elías Romero,Las Palmas,La Liga,FW
+11043,Endika Buján,Athletic Club,La Liga,FW
+11044,Endrick,Real Madrid,La Liga,FW
+11045,Enric García,Girona,La Liga,MF
+11046,Enzo Barrenechea,Valencia,La Liga,MF
+11047,Enzo Boyomo,Osasuna,La Liga,DF
+11048,Etienne Eto'O,Rayo Vallecano,La Liga,FW
+11049,Facundo Garcés,Alavés,La Liga,DF
+11050,Fer López,Celta Vigo,La Liga,"FW,MF"
+11051,Ferrán Ruiz,Girona,La Liga,MF
+11052,Fábio Silva,Las Palmas,La Liga,FW
+11053,Gabriel Osei Misehouy,Girona,La Liga,"FW,MF"
+11054,Gerard Martín,Barcelona,La Liga,DF
+11055,Germán García,Betis,La Liga,GK
+11056,Gerónimo Spina,Atlético Madrid,La Liga,DF
+11057,Grégoire Swiderski,Alavés,La Liga,GK
+11058,Guillem Cortiñas,Getafe,La Liga,DF
+11059,Guillermo Fernandez,Barcelona,La Liga,MF
+11060,Guillermo Ruiz,Leganés,La Liga,GK
+11061,Hamza Bellari,Valencia,La Liga,FW
+11062,Henrique,Valladolid,La Liga,DF
+11063,Hugo Solozabal,Leganés,La Liga,MF
+11064,Iago Parente,Valladolid,La Liga,DF
+11065,Ibrahim Alani,Valladolid,La Liga,MF
+11066,Iker Bachiller,Leganés,La Liga,DF
+11067,Iker Córdoba,Valencia,La Liga,DF
+11068,Iker Varela,Athletic Club,La Liga,MF
+11069,Ismael Bekhoucha,Getafe,La Liga,"MF,DF"
+11070,Ismael Sierra,Osasuna,La Liga,DF
+11071,Israel Domínguez,Sevilla,La Liga,FW
+11073,Ivan Jaime Pajuelo,Valencia,La Liga,MF
+11074,Iván Gil,Las Palmas,La Liga,MF
+11075,Jackson Porozo,Leganés,La Liga,DF
+11076,Jan Salas,Mallorca,La Liga,"MF,FW"
+11077,Jesus Rodríguez,Betis,La Liga,FW
+11079,Joaquín Martínez Gauna,Sevilla,La Liga,FW
+11080,Jon Balda,Real Sociedad,La Liga,DF
+11081,Jon Fuentes,Osasuna,La Liga,MF
+11082,Jones El-Abdellaoui,Celta Vigo,La Liga,FW
+11083,Jorge Gonzalez,Valladolid,La Liga,DF
+11084,José Carlos González,Las Palmas,La Liga,DF
+11085,José López,Espanyol,La Liga,DF
+11086,João Urbáez,Leganés,La Liga,DF
+11087,Juan Musso,Atalanta,Serie A,GK
+11089,Julen Lartitegi,Alavés,La Liga,FW
+11090,Julián Chicco,Leganés,La Liga,"MF,DF"
+11091,Julián Álvarez,Atlético Madrid,La Liga,FW
+11092,Justin Smith,Espanyol,La Liga,MF
+11093,Karl Jakob Hein,Valladolid,La Liga,GK
+11094,Kelechi Iheanacho,Sevilla,La Liga,FW
+11095,Kim Minsu,Girona,La Liga,"MF,FW"
+11096,Kylian Mbappé,Real Madrid,La Liga,FW
+11097,Ladislav Krejčí,Girona,La Liga,DF
+11098,Lalo Aguilar,Leganés,La Liga,DF
+11099,Lander Pinillos,Alavés,La Liga,MF
+11100,Landry Farré,Barcelona,La Liga,DF
+11101,Leandro Antonetti,Sevilla,La Liga,FW
+11102,Llorenç Serred,Espanyol,La Liga,GK
+11103,Logan Costa,Toulouse,Ligue 1,DF
+11104,Lorenzo Aguado,Real Madrid,La Liga,DF
+11105,Luca Lohr,Getafe,La Liga,DF
+11106,Lucas García,Girona,La Liga,GK
+11107,Lucas Núñez,Valencia,La Liga,MF
+11108,Luiz Lúcio Reis Júnior,Villarreal,La Liga,GK
+11109,Luka Sučić,Real Sociedad,La Liga,MF
+11110,Luken Beitia,Real Sociedad,La Liga,DF
+11111,Manu González,Betis,La Liga,GK
+11112,Manuel Fuster,Las Palmas,La Liga,"FW,MF"
+11113,Marash Kumbulla,Espanyol,La Liga,DF
+11114,Marc Bernal,Barcelona,La Liga,MF
+11115,Marc Domenech,Mallorca,La Liga,"FW,MF"
+11116,Marc Vidal,Celta Vigo,La Liga,GK
+11117,Marco De Las Sías,Rayo Vallecano,La Liga,DF
+11118,Marcos Fernández,Betis,La Liga,FW
+11119,Mario Rivas,Real Madrid,La Liga,DF
+11120,Maroan Sannadi,Athletic Club,La Liga,FW
+11122,Mateo Flores,Betis,La Liga,MF
+11123,Mateo Mejía,Sevilla,La Liga,FW
+11124,Max Aarons,Bournemouth,Premier League,DF
+11125,Maximiliano Caufriez,Valencia,La Liga,DF
+11126,Miguel Román,Celta Vigo,La Liga,MF
+11127,Mikel Goti,Real Sociedad,La Liga,MF
+11128,Moussa Diarra,Alavés,La Liga,DF
+11129,Naci Ünüvar,Espanyol,La Liga,"MF,DF"
+11130,Naim García,Leganés,La Liga,MF
+11131,Natan,Betis,La Liga,DF
+11132,Nayef Aguerd,Real Sociedad,La Liga,DF
+11133,Nicolas Pépé,Villarreal,La Liga,"FW,MF"
+11134,Noah Darvich,Barcelona,La Liga,MF
+11135,Oier Gastesi,Athletic Club,La Liga,GK
+11136,Oliver Mcburnie,Las Palmas,La Liga,FW
+11137,Omar Janneh,Atlético Madrid,La Liga,FW
+11138,Omar Sadik,Espanyol,La Liga,FW
+11139,Orri Steinn Óskarsson,Real Sociedad,La Liga,FW
+11140,Pablo Cruz,Sevilla,La Liga,MF
+11141,Pablo Garcia,Betis,La Liga,FW
+11142,Papa Ba,Girona,La Liga,MF
+11143,Pau Cabanes,Alavés,La Liga,"MF,FW"
+11144,Pau Navarro,Villarreal,La Liga,DF
+11145,Pedro Díaz,Rayo Vallecano,La Liga,MF
+11146,Peio Canales,Athletic Club,La Liga,"MF,FW"
+11147,Pelayo Fernandez,Rayo Vallecano,La Liga,DF
+11148,Peque,Sevilla,La Liga,"MF,FW"
+11149,Pica,Alavés,La Liga,DF
+11150,Rafa Fernández,Osasuna,La Liga,GK
+11151,Rafael Bauza,Espanyol,La Liga,MF
+11152,Ramón Martínez,Sevilla,La Liga,DF
+11153,Raúl Asencio,Real Madrid,La Liga,DF
+11154,Raúl Chasco,Valladolid,La Liga,DF
+11156,Raúl Martínez,Girona,La Liga,MF
+11157,Raúl Moro,Valladolid,La Liga,"MF,FW"
+11158,Roberto Férnandez,Espanyol,La Liga,FW
+11159,Rodrigo Abajas,Valencia,La Liga,DF
+11160,Roger Hinojo,Espanyol,La Liga,DF
+11161,Romain Perraud,Betis,La Liga,DF
+11162,Rubén Gómez,Villarreal,La Liga,GK
+11163,Rudy Kohon,Betis,La Liga,DF
+11164,Santiago Mouriño,Alavés,La Liga,DF
+11165,Scott Mckenna,Las Palmas,La Liga,DF
+11166,Sebastian Wade,Mallorca,La Liga,DF
+11167,Sergi,Leganés,La Liga,DF
+11168,Sergi Dominguez,Barcelona,La Liga,DF
+11169,Sergio Arribas,Betis,La Liga,DF
+11170,Sergio Lozano,Rayo Vallecano,La Liga,DF
+11171,Sergio Ruiz,Las Palmas,La Liga,FW
+11172,Sergio Viera,Las Palmas,La Liga,MF
+11173,Seydouba Cissé,Leganés,La Liga,MF
+11174,Sixtus Ogbuehi,Osasuna,La Liga,FW
+11175,Stanko Jurić,Valladolid,La Liga,MF
+11176,Stefan Bajcetic,Las Palmas,La Liga,"MF,DF"
+11177,Stipe Biuk,Valladolid,La Liga,"FW,MF"
+11178,Stoichkov,Alavés,La Liga,"MF,FW"
+11179,Tajon Buchanan,Inter,Serie A,"DF,FW"
+11180,Tamás Nikitscher,Valladolid,La Liga,"MF,DF"
+11181,Thiago Ojeda,Villarreal,La Liga,MF
+11182,Thierno Barry,Villarreal,La Liga,FW
+11183,Tomás Conechny,Alavés,La Liga,"FW,MF"
+11184,Toni Fernández,Barcelona,La Liga,MF
+11185,Toni Martínez,Alavés,La Liga,FW
+11186,Valentin Rosier,Leganés,La Liga,DF
+11187,Valentín Barco,Brighton,Premier League,"DF,MF"
+11188,Valentín Pezzolesi,Las Palmas,La Liga,DF
+11189,Victor Valdepeñas,Real Madrid,La Liga,DF
+11190,Viti,Las Palmas,La Liga,DF
+11191,Vladyslav Krapyvtsov,Girona,La Liga,GK
+11192,Víctor Meseguer,Valladolid,La Liga,MF
+11193,Víctor Muñoz,Real Madrid,La Liga,"FW,DF"
+11194,Víctor Puig,Las Palmas,La Liga,GK
+11195,Walid Cheddira,Espanyol,La Liga,FW
+11196,Warren Madrigal,Valencia,La Liga,MF
+11197,Willy Kambwala,Villarreal,La Liga,DF
+11198,Wojciech Szczęsny,Barcelona,La Liga,GK
+11199,Xavier Moreno,Valladolid,La Liga,FW
+11200,Yan Diomandé,Leganés,La Liga,"MF,FW"
+11201,Yaser Asprilla,Girona,La Liga,"FW,MF"
+11202,Youssef Lekhedim,Real Madrid,La Liga,DF
+11203,Yvan Neyou,Leganés,La Liga,MF
+11204,Álex Gil,Leganés,La Liga,MF
+11205,Álex Valle,Barcelona,La Liga,DF
+11206,Álvaro Abajas,Leganés,La Liga,GK
+11207,Álvaro Cortés,Barcelona,La Liga,DF
+11208,Álvaro Pascual,Sevilla,La Liga,FW
+11209,Álvaro Djaló,Athletic Club,La Liga,FW
+11210,Ángel Ortíz,Betis,La Liga,DF
+13049,André Ayew,Le Havre,Ligue 1,FW
+13136,Steve Mandanda,Rennes,Ligue 1,GK
+13277,Alexandre Lacazette,Lyon,Ligue 1,FW
+13291,Brice Maubleu,Saint-Étienne,Ligue 1,GK
+13324,Jordan Ayew,Crystal Palace,Premier League,"FW,MF"
+13404,Idrissa Gana Gueye,Everton,Premier League,MF
+13429,Massadio Haïdara,Brest,Ligue 1,DF
+13433,Nampalys Mendy,Lens,Ligue 1,MF
+13436,Nicolas Pallois,Nantes,Ligue 1,DF
+13452,Rémy Cabella,Lille,Ligue 1,"FW,MF"
+13464,Willy Boly,Nott'ham Forest,Premier League,DF
+13468,Abdoulaye Bamba,Angers,Ligue 1,DF
+13472,Adrien Thomasson,Lens,Ligue 1,MF
+13479,Andy Delort,Montpellier,Ligue 1,FW
+13485,Benjamin André,Lille,Ligue 1,MF
+13507,Donovan Léon,Auxerre,Ligue 1,GK
+13521,Jean-Daniel Akpa-Akpro,Monza,Serie A,MF
+13526,Joseph Lopy,Angers,Ligue 1,"DF,MF"
+13529,Kenny Lala,Brest,Ligue 1,DF
+13581,Adrien Rabiot,Marseille,Ligue 1,MF
+13587,Anthony Lopes,Lyon,Ligue 1,GK
+13594,Brendan Chardonnet,Brest,Ligue 1,DF
+13606,Djibril Sidibé,Toulouse,Ligue 1,DF
+13618,Florian Thauvin,Udinese,Serie A,"FW,MF"
+13631,Issiaga Sylla,Montpellier,Ligue 1,DF
+13640,Jordan Ferri,Montpellier,Ligue 1,MF
+13663,Mario Lemina,Wolves,Premier League,"MF,DF"
+13676,Neal Maupay,Everton,Premier League,"FW,MF"
+13696,Wahbi Khazri,Montpellier,Ligue 1,"FW,MF"
+13701,Abdoulaye Touré,Le Havre,Ligue 1,MF
+13718,Birama Touré,Montpellier,Ligue 1,"MF,DF"
+13720,Brice Samba,Lens,Ligue 1,GK
+13729,Cédric Hountondji,Angers,Ligue 1,DF
+13761,Jordan Veretout,Lyon,Ligue 1,MF
+13780,Marquinhos,Paris S-G,Ligue 1,DF
+13781,Mathieu Gorgelin,Le Havre,Ligue 1,GK
+13783,Maxime Dupé,Nice,Ligue 1,GK
+13789,Morgan Sanson,Nice,Ligue 1,MF
+13806,Saïd Benrahma,Lyon,Ligue 1,"FW,MF"
+13811,Théo Pellenard,Auxerre,Ligue 1,DF
+13815,Wesley Saïd,Lens,Ligue 1,FW
+13844,Benjamin Bourigeaud,Rennes,Ligue 1,MF
+13848,Bernardo Silva,Manchester City,Premier League,"MF,FW"
+13864,Dennis Appiah,Saint-Étienne,Ligue 1,DF
+13868,Dimitry Bertaud,Montpellier,Ligue 1,GK
+13885,Florian Sotoca,Lens,Ligue 1,"FW,MF"
+13888,Frederic Guilbert,Lecce,Serie A,DF
+13889,Gautier Lloris,Le Havre,Ligue 1,DF
+13899,Jean-Eudes Aholou,Angers,Ligue 1,MF
+13908,José Luis Palomino,Cagliari,Serie A,DF
+13928,Marc-Aurèle Caillard,Lille,Ligue 1,GK
+13929,Marcus Coco,Nantes,Ligue 1,DF
+13936,Maxwel Cornet,Genoa,Serie A,"FW,MF"
+13939,Mike Maignan,Milan,Serie A,GK
+13953,Presnel Kimpembe,Paris S-G,Ligue 1,DF
+13979,Valentin Rongier,Marseille,Ligue 1,"MF,DF"
+13984,Wylan Cyprien,Parma,Serie A,MF
+13997,Alban Lafont,Nantes,Ligue 1,GK
+14003,Alexandre Olliero,Reims,Ligue 1,GK
+14006,Alois Confais,Le Havre,Ligue 1,MF
+14019,Carlens Arcus,Angers,Ligue 1,DF
+14032,Denis Petrić,Lens,Ligue 1,GK
+14051,Gaëtan Laborde,Nice,Ligue 1,FW
+14052,Gaëtan Perrin,Auxerre,Ligue 1,"MF,FW"
+14056,Hassane Kamara,Udinese,Serie A,DF
+14062,Issa Diop,Fulham,Premier League,DF
+14081,Kelvin Amian,Nantes,Ligue 1,DF
+14087,Lassana Coulibaly,Lecce,Serie A,MF
+14091,Ludovic Blas,Rennes,Ligue 1,"MF,FW"
+14095,Mathieu Cafaro,Saint-Étienne,Ligue 1,"MF,FW"
+14110,Odsonne Édouard,Crystal Palace,Premier League,"MF,FW"
+14123,Pierrick Capelle,Angers,Ligue 1,MF
+14128,Ricardo Pereira,Leicester City,Premier League,DF
+14132,Romain Del Castillo,Brest,Ligue 1,FW
+14137,Samuel Grandsir,Le Havre,Ligue 1,"MF,FW"
+14139,Seko Fofana,Rennes,Ligue 1,MF
+14144,Stephan El Shaarawy,Roma,Serie A,"DF,MF"
+14193,Boubacar Kamara,Aston Villa,Premier League,MF
+14196,Christopher Operi,Le Havre,Ligue 1,"DF,FW"
+14209,Fodé Ballo-Touré,Le Havre,Ligue 1,"DF,MF"
+14213,Gabriel Magalhães,Arsenal,Premier League,DF
+14222,Hugo Magnetti,Brest,Ligue 1,MF
+14223,Ibrahim Sangaré,Nott'ham Forest,Premier League,MF
+14226,Ismaila Sarr,Crystal Palace,Premier League,MF
+14230,Jean Butez,Como,Serie A,GK
+14236,Jonathan Ikone,Como,Serie A,FW
+14248,Karl-Johan Johnsson,Strasbourg,Ligue 1,GK
+14256,Lois Diony,Angers,Ligue 1,FW
+14264,Malang Sarr,Lens,Ligue 1,DF
+14265,Mario Balotelli,Genoa,Serie A,"FW,MF"
+14272,Mickael Nade,Saint-Étienne,Ligue 1,DF
+14286,Pierre Lees-Melou,Brest,Ligue 1,MF
+14298,Rémy Descamps,Lyon,Ligue 1,GK
+14318,Yann Karamoh,Torino,Serie A,"MF,FW"
+14319,Yoane Wissa,Brentford,Premier League,FW
+14322,Yunis Abdelhamid,Saint-Étienne,Ligue 1,DF
+14323,Yves Bissouma,Tottenham,Premier League,MF
+14331,Adrien Tameze,Torino,Serie A,"MF,DF"
+14336,Amine Gouiri,Marseille,Ligue 1,"FW,MF"
+14340,Antoine Bernede,Hellas Verona,Serie A,MF
+14342,Assane Dioussé,Auxerre,Ligue 1,MF
+14351,Bryan Mbeumo,Brentford,Premier League,FW
+14369,Elisha Owusu,Auxerre,Ligue 1,MF
+14382,Hernani,Parma,Serie A,MF
+14383,Hervé Koffi,Lens,Ligue 1,GK
+14385,Ibrahima Niane,Angers,Ligue 1,FW
+14386,Ignatius Ganago,Nantes,Ligue 1,"FW,MF"
+14401,Junior Sambia,Empoli,Serie A,"DF,FW"
+14405,Keita Baldé,Monza,Serie A,FW
+14406,Kenny Tete,Fulham,Premier League,DF
+14414,Mahdi Camara,Brest,Ligue 1,"MF,FW"
+14419,Maxime Bernauer,Saint-Étienne,Ligue 1,DF
+14428,Oualid El Hajjam,Le Havre,Ligue 1,DF
+14429,Oumar Solet,Udinese,Serie A,DF
+14433,Pietro Pellegri,Empoli,Serie A,FW
+14438,Raphaël Adiceam,Auxerre,Ligue 1,GK
+14439,Rayan Aït-Nouri,Wolves,Premier League,DF
+14442,Romain Faivre,Brest,Ligue 1,"MF,FW"
+14443,Ruben Aguilar,Lens,Ligue 1,"DF,MF"
+14458,Tanguy Ndombele,Nice,Ligue 1,MF
+14465,Timothy Weah,Juventus,Serie A,"DF,FW"
+14470,Yacine Adli,Fiorentina,Serie A,MF
+14474,Yehvann Diouf,Reims,Ligue 1,GK
+14475,Yoann Salmier,Le Havre,Ligue 1,DF
+14477,Youri Tielemans,Aston Villa,Premier League,MF
+14485,Aleksandr Golovin,Monaco,Ligue 1,"MF,FW"
+14490,Anthony Briançon,Saint-Étienne,Ligue 1,DF
+14500,Axel Disasi,Aston Villa,Premier League,DF
+14502,Bafodé Diakité,Lille,Ligue 1,DF
+14503,Benoît Badiashile,Chelsea,Premier League,DF
+14507,Carlos Vinícius,Fulham,Premier League,"MF,FW"
+14511,Cheikh Niasse,Hellas Verona,Serie A,MF
+14517,Duje Ćaleta-Car,Lyon,Ligue 1,DF
+14523,Emil Krafth,Newcastle Utd,Premier League,DF
+14526,Farid El Melali,Angers,Ligue 1,FW
+14538,Han-Noah Massengo,Auxerre,Ligue 1,MF
+14552,Jonathan Gradit,Lens,Ligue 1,DF
+14554,Jordan Lefort,Angers,Ligue 1,DF
+14566,Khéphren Thuram,Juventus,Serie A,MF
+14569,Leandro Paredes,Roma,Serie A,MF
+14578,Léo Pétrot,Saint-Étienne,Ligue 1,DF
+14586,Matz Sels,Nott'ham Forest,Premier League,GK
+14587,Maxence Caqueret,Como,Serie A,MF
+14607,Rafael Leão,Milan,Serie A,FW
+14610,Remi Oudin,Lecce,Serie A,"MF,FW"
+14621,Sofiane Diop,Nice,Ligue 1,"MF,FW"
+14629,Théo Sainte-Luce,Montpellier,Ligue 1,DF
+14632,Toma Bašić,Lazio,Serie A,MF
+14633,Téji Savanier,Montpellier,Ligue 1,MF
+14636,Wesley Fofana,Chelsea,Premier League,DF
+14637,William Saliba,Arsenal,Premier League,DF
+14640,Yann Gboho,Toulouse,Ligue 1,"MF,FW"
+14645,Youssouf Fofana,Milan,Serie A,MF
+14646,Zeki Çelik,Roma,Serie A,DF
+14659,Arnaud Kalimuendo,Rennes,Ligue 1,"FW,MF"
+14662,Balthazar Pierret,Lecce,Serie A,MF
+14665,Boubacar Traoré,Wolves,Premier League,MF
+14667,Bruno Guimarães,Newcastle Utd,Premier League,MF
+14676,Domagoj Bradarić,Hellas Verona,Serie A,DF
+14682,Evann Guessand,Nice,Ligue 1,"FW,MF"
+14684,Fabien Centonze,Nantes,Ligue 1,DF
+14688,Gautier Larsonneur,Saint-Étienne,Ligue 1,GK
+14690,Georges Mikautadze,Lyon,Ligue 1,FW
+14693,Haris Belkebla,Angers,Ligue 1,MF
+14697,Hianga Mananga Mbock,Brest,Ligue 1,MF
+14698,Hicham Boudaoui,Nice,Ligue 1,MF
+14709,Jean Onana,Genoa,Serie A,MF
+14710,Jean-Charles Castelletto,Nantes,Ligue 1,"DF,MF"
+14711,Jean-Kevin Duverne,Nantes,Ligue 1,DF
+14712,Jean-Ricner Bellegarde,Wolves,Premier League,"MF,FW"
+14714,Joachim Andersen,Crystal Palace,Premier League,DF
+14716,Joris Chotard,Montpellier,Ligue 1,MF
+14720,Lamine Fomba,Saint-Étienne,Ligue 1,MF
+14725,Lucas Da Cunha,Como,Serie A,MF
+14727,Lucas Gourna-Douath,Roma,Serie A,MF
+14730,Mama Samba Baldé,Brest,Ligue 1,FW
+14733,Marcin Bułka,Nice,Ligue 1,GK
+14735,Marshall Munetsi,Reims,Ligue 1,MF
+14736,Mathias Pereira Lage,Brest,Ligue 1,"FW,MF"
+14741,Melvin Bard,Nice,Ligue 1,"DF,MF"
+14751,Pierre Kalulu,Juventus,Serie A,DF
+14753,Raoul Bellanova,Atalanta,Serie A,DF
+14754,Rayan Cherki,Lyon,Ligue 1,"FW,MF"
+14764,Stephy Mavididi,Leicester City,Premier League,FW
+14767,Thomas Delaine,Strasbourg,Ligue 1,DF
+14777,Yvann Macon,Saint-Étienne,Ligue 1,DF
+14778,Zinedine Ferhat,Angers,Ligue 1,"FW,MF"
+14779,Zinédine Ould Khaled,Angers,Ligue 1,MF
+14782,Abdoulaye Niakhate Ndiaye,Brest,Ligue 1,DF
+14790,Adrien Truffert,Rennes,Ligue 1,"DF,MF"
+14791,Aimen Moueffek,Saint-Étienne,Ligue 1,MF
+14799,Andy Diouf,Lens,Ligue 1,MF
+14801,Antoine Mendy,Nice,Ligue 1,DF
+14804,Bamba Dieng,Angers,Ligue 1,FW
+14813,Boubakar Kouyaté,Montpellier,Ligue 1,DF
+14821,Cheick Doucouré,Crystal Palace,Premier League,MF
+14825,Dan Ndoye,Bologna,Serie A,FW
+14828,David Costa,Lens,Ligue 1,"MF,FW"
+14831,Dilane Bakwa,Strasbourg,Ligue 1,"MF,DF"
+14834,Eliot Matazo,Monaco,Ligue 1,MF
+14835,Enzo Ebosse,Udinese,Serie A,DF
+14836,Enzo Le Fée,Roma,Serie A,MF
+14843,Facundo Medina,Lens,Ligue 1,DF
+14844,Flavius Daniliuc,Hellas Verona,Serie A,DF
+14856,Jeremy Doku,Manchester City,Premier League,"FW,MF"
+14857,Jonathan Clauss,Nice,Ligue 1,"DF,MF"
+14858,Jonathan David,Lille,Ligue 1,FW
+14860,Jordan Lotomba,Nice,Ligue 1,"MF,DF"
+14863,Jérémy Le Douaron,Brest,Ligue 1,FW
+14869,Krépin Diatta,Monaco,Ligue 1,"DF,FW"
+14872,Lesley Ugochukwu,Southampton,Premier League,MF
+14873,Lilian Brassier,Marseille,Ligue 1,DF
+14874,Lorenz Assignon,Rennes,Ligue 1,"DF,MF"
+14877,Lucas Chevalier,Lille,Ligue 1,GK
+14878,Lucas Paquetá,West Ham,Premier League,"MF,FW"
+14879,Luis Henrique,Marseille,Ligue 1,"DF,FW"
+14885,Malo Gusto,Chelsea,Premier League,DF
+14889,Marvin Senaya,Strasbourg,Ligue 1,DF
+14892,Matthis Abline,Nantes,Ligue 1,FW
+14893,Mattia De Sciglio,Empoli,Serie A,DF
+14898,Moise Kean,Fiorentina,Serie A,FW
+14914,Oussama Targhalline,Le Havre,Ligue 1,MF
+14917,Pape Matar Sarr,Tottenham,Premier League,MF
+14918,Pedro Chirivella,Nantes,Ligue 1,MF
+14919,Quentin Merlin,Marseille,Ligue 1,DF
+14920,Radosław Majecki,Monaco,Ligue 1,GK
+14924,Saidou Sow,Nantes,Ligue 1,DF
+14925,Salim Ben Seghir,Marseille,Ligue 1,FW
+14928,Sekou Mara,Strasbourg,Ligue 1,"FW,MF"
+14930,Sinaly Diomande,Auxerre,Ligue 1,DF
+14932,Strahinja Pavlović,Milan,Serie A,DF
+14934,Sven Botman,Newcastle Utd,Premier League,DF
+14936,Teddy Boulhendi,Nice,Ligue 1,GK
+14937,Terem Moffi,Nice,Ligue 1,FW
+14938,Thibault De Smet,Reims,Ligue 1,DF
+14940,Timothee Pembele,Le Havre,Ligue 1,DF
+14943,Trevoh Chalobah,Chelsea,Premier League,DF
+14949,Vito Mannone,Lille,Ligue 1,GK
+14951,Warmed Omari,Lyon,Ligue 1,DF
+14955,Wout Faes,Leicester City,Premier League,DF
+14968,Akim Zedadka,Lille,Ligue 1,DF
+14973,Alidu Seidu,Rennes,Ligue 1,DF
+14975,Amadou Onana,Aston Villa,Premier League,MF
+14979,Angel Gomes,Lille,Ligue 1,MF
+14982,Arthur Desmas,Le Havre,Ligue 1,GK
+14983,Axel Camblan,Brest,Ligue 1,"MF,FW"
+14986,Azor Matusiwa,Rennes,Ligue 1,MF
+14989,Bamo Meïté,Marseille,Ligue 1,DF
+14992,Bilal Brahimi,Nice,Ligue 1,MF
+14993,Bilal Nadir,Marseille,Ligue 1,MF
+14995,Bradley Barcola,Paris S-G,Ligue 1,FW
+14996,Bradley Locko,Brest,Ligue 1,DF
+15005,Carlos Baleba,Brighton,Premier League,MF
+15007,Christopher Wooh,Rennes,Ligue 1,DF
+15008,Dango Ouattara,Bournemouth,Premier League,FW
+15013,Deiver Machado,Lens,Ligue 1,"DF,MF"
+15019,Désiré Doué,Paris S-G,Ligue 1,"FW,MF"
+15020,Edon Zhegrova,Lille,Ligue 1,"FW,MF"
+15023,Emerson Palmieri,West Ham,Premier League,DF
+15024,Enzo Tchato,Montpellier,Ligue 1,DF
+15029,Falaye Sacko,Montpellier,Ligue 1,DF
+15030,Fali Candé,Venezia,Serie A,DF
+15033,Florian Tardieu,Saint-Étienne,Ligue 1,MF
+15034,Frank Magri,Toulouse,Ligue 1,"FW,MF"
+15036,Félix Lemaréchal,Strasbourg,Ligue 1,"MF,FW"
+15037,Gabriel Bares,Montpellier,Ligue 1,"MF,DF"
+15038,Gabriel Gudmundsson,Lille,Ligue 1,DF
+15041,Gauthier Gallon,Rennes,Ligue 1,GK
+15045,Gianluigi Donnarumma,Paris S-G,Ligue 1,GK
+15046,Gideon Mensah,Auxerre,Ligue 1,DF
+15048,Grégoire Coudert,Brest,Ligue 1,GK
+15051,Habib Diarra,Strasbourg,Ligue 1,"MF,FW"
+15058,Ismaël Doukouré,Strasbourg,Ligue 1,"DF,MF"
+15060,Jacques Ekomie,Angers,Ligue 1,"DF,FW"
+15063,Jens Cajuste,Ipswich Town,Premier League,MF
+15064,Jim Allevinah,Angers,Ligue 1,FW
+15073,Junior Mwanga,Le Havre,Ligue 1,MF
+15075,Kamaldeen Sulemana,Southampton,Premier League,"FW,MF"
+15076,Kamory Doumbia,Brest,Ligue 1,"MF,FW"
+15079,Karol Fila,Strasbourg,Ligue 1,MF
+15083,Leny Yoro,Manchester Utd,Premier League,DF
+15087,Louis Mouton,Saint-Étienne,Ligue 1,MF
+15088,Loum Tchaouna,Lazio,Serie A,"FW,MF"
+15096,Maghnes Akliouche,Monaco,Ligue 1,"FW,MF"
+15100,Marco Bizot,Brest,Ligue 1,GK
+15102,Martin Adeline,Reims,Ligue 1,MF
+15103,Martin Satriano,Lens,Ligue 1,"FW,DF"
+15107,Maxime Busi,Reims,Ligue 1,DF
+15113,Mohamed Lamine Bayo,Lille,Ligue 1,FW
+15122,Nordine Kandil,Strasbourg,Ligue 1,MF
+15124,Nuno Mendes,Paris S-G,Ligue 1,DF
+15128,Pablo Rosario,Nice,Ligue 1,"MF,DF"
+15132,Przemysław Frankowski,Lens,Ligue 1,DF
+15154,Vanderson,Monaco,Ligue 1,DF
+15164,Yassin Belkhdim,Angers,Ligue 1,MF
+15165,Yllan Okou,Hellas Verona,Serie A,DF
+15170,Abdallah Sima,Brest,Ligue 1,"FW,MF"
+15171,Achraf Dari,Brest,Ligue 1,DF
+15174,Ado Onaiwu,Auxerre,Ligue 1,"MF,FW"
+15175,Alan Do Marcolino,Rennes,Ligue 1,FW
+15178,Alexsandro Ribeiro,Lille,Ligue 1,DF
+15181,Amine Salama,Reims,Ligue 1,FW
+15188,Axel Gueguin,Montpellier,Ligue 1,FW
+15191,Badredine Bouanani,Nice,Ligue 1,"MF,FW"
+15204,Christian Mawissa,Monaco,Ligue 1,DF
+15209,Denis Genreau,Toulouse,Ligue 1,MF
+15210,Djed Spence,Tottenham,Premier League,DF
+15212,Edan Diop,Monaco,Ligue 1,MF
+15213,Edhy Zuliani,Toulouse,Ligue 1,DF
+15214,Eduard Sobol,Strasbourg,Ligue 1,DF
+15217,Eliesse Ben Seghir,Monaco,Ligue 1,"MF,FW"
+15218,Emmanuel Agbadou,Reims,Ligue 1,DF
+15222,Folarin Balogun,Monaco,Ligue 1,FW
+15226,Gabriel Suazo,Toulouse,Ligue 1,DF
+15231,Guela Doué,Strasbourg,Ligue 1,DF
+15234,Himad Abdelli,Angers,Ligue 1,"MF,FW"
+15236,Ibrahim Salah,Brest,Ligue 1,FW
+15239,Ilyes Housni,Le Havre,Ligue 1,"FW,MF"
+15240,Ionuț Radu,Venezia,Serie A,GK
+15241,Ismaily,Lille,Ligue 1,DF
+15242,Ismaëlo Ganiou,Lens,Ligue 1,DF
+15249,Johann Lepenant,Nantes,Ligue 1,MF
+15253,Jubal,Auxerre,Ligue 1,DF
+15254,Julien Le Cardinal,Brest,Ligue 1,DF
+15258,Junya Ito,Reims,Ligue 1,"FW,MF"
+15259,Justin-Noël Kalumba,Angers,Ligue 1,"FW,MF"
+15260,Jérémy Jacquet,Rennes,Ligue 1,DF
+15265,Khalil Fayad,Montpellier,Ligue 1,"MF,FW"
+15266,Kjetil Haug,Toulouse,Ligue 1,GK
+15270,Kévin Danois,Auxerre,Ligue 1,MF
+15272,Lassine Sinayoko,Auxerre,Ligue 1,"FW,MF"
+15273,Lilian Raolisoa,Angers,Ligue 1,"DF,FW"
+15278,Mamadou Diakhon,Reims,Ligue 1,"FW,MF"
+15279,Mamadou Sarr,Strasbourg,Ligue 1,DF
+15281,Mateusz Wieteska,Cagliari,Serie A,DF
+15283,Mattia Viti,Empoli,Serie A,DF
+15294,Mostafa Mohamed,Nantes,Ligue 1,FW
+15299,Naatan Skyttä,Toulouse,Ligue 1,FW
+15300,Nathan Zeze,Nantes,Ligue 1,DF
+15303,Nicolás Tagliafico,Lyon,Ligue 1,DF
+15308,Nuno Tavares,Lazio,Serie A,DF
+15311,Ousmane Camara,Angers,Ligue 1,DF
+15316,Paul Joly,Auxerre,Ligue 1,DF
+15320,Rareş Ilie,Nice,Ligue 1,MF
+15321,Rasmus Nicolaisen,Toulouse,Ligue 1,DF
+15322,Rayan Raveloson,Auxerre,Ligue 1,"MF,DF"
+15323,Reda Belahyane,Hellas Verona,Serie A,MF
+15326,Robin Risser,Strasbourg,Ligue 1,GK
+15327,Ross Barkley,Aston Villa,Premier League,MF
+15329,Ruslan Malinovskyi,Genoa,Serie A,"MF,FW"
+15333,Rémy Labeau Lascary,Lens,Ligue 1,"FW,MF"
+15334,Sael Kumbedi,Lyon,Ligue 1,DF
+15336,Samuel Gigot,Lazio,Serie A,DF
+15345,Souleymane Touré,Udinese,Serie A,DF
+15347,Soungoutou Magassa,Monaco,Ligue 1,MF
+15352,Takumi Minamino,Monaco,Ligue 1,"MF,FW"
+15358,Thijs Dallinga,Bologna,Serie A,FW
+15360,Théo De Percin,Auxerre,Ligue 1,GK
+15362,Tom Louchet,Nice,Ligue 1,"DF,MF"
+15363,Tom Negrel,Auxerre,Ligue 1,GK
+15367,Valentin Atangana Edoa,Reims,Ligue 1,MF
+15371,Vitinha,Genoa,Serie A,"FW,MF"
+15372,Warren Kamanzi,Toulouse,Ligue 1,"DF,MF"
+15373,Warren Zaïre-Emery,Paris S-G,Ligue 1,"MF,DF"
+15374,Wilson Odobert,Tottenham,Premier League,"FW,MF"
+15375,Yacine Gaya,Angers,Ligue 1,DF
+15376,Yahia Fofana,Angers,Ligue 1,GK
+15381,Yaya Kader Fofana,Reims,Ligue 1,"MF,FW"
+15386,Youssouf Ndayishimiye,Nice,Ligue 1,DF
+15388,Zakaria Aboukhlal,Toulouse,Ligue 1,"MF,FW"
+15390,Aaron Malouda,Lille,Ligue 1,FW
+15391,Abakar Sylla,Strasbourg,Ligue 1,DF
+15393,Abdoul Koné,Reims,Ligue 1,DF
+15394,Abdukodir Khusanov,Lens,Ligue 1,DF
+15398,Adama Bojang,Reims,Ligue 1,FW
+15399,Adel Mahamoud,Nantes,Ligue 1,FW
+15400,Adryelson,Lyon,Ligue 1,DF
+15402,Ainsley Maitland-Niles,Lyon,Ligue 1,DF
+15406,Amadou Koné,Reims,Ligue 1,MF
+15407,Amidou Doumbouya,Nice,Ligue 1,DF
+15408,Amir Richardson,Fiorentina,Serie A,MF
+15409,Andrey Santos,Strasbourg,Ligue 1,MF
+15411,Antoine Joujou,Le Havre,Ligue 1,"MF,FW"
+15413,Aron Dønnum,Toulouse,Ligue 1,"DF,MF"
+15414,Arouna Sangante,Le Havre,Ligue 1,DF
+15415,Arthur Atta,Udinese,Serie A,"MF,FW"
+15419,Ayanda Sishuba,Hellas Verona,Serie A,MF
+15420,Ayyoub Bouaddi,Lille,Ligue 1,MF
+15422,Bastien Meupiyou,Wolves,Premier League,DF
+15423,Becir Omeragic,Montpellier,Ligue 1,DF
+15430,Cher Ndour,Fiorentina,Serie A,"MF,DF"
+15432,Clinton Mata,Lyon,Ligue 1,DF
+15433,Cristian Cásseres Jr.,Toulouse,Ligue 1,MF
+15434,Daler Kuzyaev,Le Havre,Ligue 1,MF
+15435,Daouda Traoré,Nice,Ligue 1,MF
+15436,Darryl Bakola,Marseille,Ligue 1,"DF,MF"
+15437,Dehmaine Assoumani,Nantes,Ligue 1,"MF,FW"
+15439,Diego Moreira,Strasbourg,Ligue 1,"DF,MF"
+15440,Djaoui Cissé,Rennes,Ligue 1,MF
+15443,Douglas,Nantes,Ligue 1,MF
+15445,Elysée Logbo,Le Havre,Ligue 1,FW
+15446,Emanuel Emegha,Strasbourg,Ligue 1,FW
+15447,Emmanuel Sabbi,Le Havre,Ligue 1,"FW,MF"
+15449,Enzo Mongo,Nantes,Ligue 1,DF
+15450,Ernest Nuamah,Lyon,Ligue 1,"FW,MF"
+15451,Ethan Mbappé,Lille,Ligue 1,"MF,FW"
+15452,Etienne Youte Kinkoue,Le Havre,Ligue 1,DF
+15453,Faris Pemi Moumbagna,Marseille,Ligue 1,FW
+15459,Gonçalo Ramos,Paris S-G,Ligue 1,FW
+15460,Guillaume Restes,Toulouse,Ligue 1,GK
+15461,Hugo Barbet,Nantes,Ligue 1,GK
+15463,Hákon Arnar Haraldsson,Lille,Ligue 1,"MF,FW"
+15467,Ike Orazi,Reims,Ligue 1,MF
+15469,Iliman Ndiaye,Everton,Premier League,FW
+15470,Issa Soumaré,Le Havre,Ligue 1,"FW,MF"
+15472,Jake O'Brien,Everton,Premier League,DF
+15473,Jelle Van Neck,Marseille,Ligue 1,GK
+15474,Jhoanner Chávez,Lens,Ligue 1,"DF,MF"
+15478,Joseph Okumu,Reims,Ligue 1,DF
+15479,Josh Wilson-Esbrand,Manchester City,Premier League,DF
+15481,Josué Casimir,Le Havre,Ligue 1,"FW,MF"
+15482,Junior Ndiaye,Montpellier,Ligue 1,FW
+15484,Jérémy Sebas,Strasbourg,Ligue 1,"FW,MF"
+15485,Kandet Diawara,Le Havre,Ligue 1,FW
+15486,Kassoum Ouattara,Monaco,Ligue 1,"DF,FW"
+15487,Keito Nakamura,Reims,Ligue 1,"FW,MF"
+15489,Keyliane Abdallah,Marseille,Ligue 1,FW
+15494,Lamine Camara,Monaco,Ligue 1,MF
+15497,Louis Mouquet,Paris S-G,Ligue 1,GK
+15498,Loïc Nego,Le Havre,Ligue 1,"DF,FW"
+15499,Lucas Beraldo,Paris S-G,Ligue 1,DF
+15500,Lucas Michal,Monaco,Ligue 1,"FW,MF"
+15501,Lucas Mincarelli,Montpellier,Ligue 1,DF
+15502,Lucas Perri,Lyon,Ligue 1,GK
+15503,Luck Zogbé,Brest,Ligue 1,DF
+15505,Mahamadou Diawara,Le Havre,Ligue 1,MF
+15506,Mahamadou Nagida,Rennes,Ligue 1,DF
+15508,Malick Fofana,Lyon,Ligue 1,FW
+15510,Mamadou Coulibaly,Monaco,Ligue 1,MF
+15511,Mamady Bangré,Toulouse,Ligue 1,MF
+15512,Manuel Ugarte,Manchester Utd,Premier League,MF
+15516,Mathis Lambourde,Hellas Verona,Serie A,"FW,MF"
+15519,Michael Amir Murillo,Marseille,Ligue 1,DF
+15520,Milan Škriniar,Paris S-G,Ligue 1,DF
+15524,Mohamed Daramy,Reims,Ligue 1,FW
+15529,Musa Al-Taamari,Montpellier,Ligue 1,"FW,MF"
+15534,Neil El Aynaoui,Lens,Ligue 1,MF
+15535,Nemanja Matić,Lyon,Ligue 1,MF
+15536,Nhoa Sangui,Reims,Ligue 1,"DF,MF"
+15538,Noah Edjouma,Toulouse,Ligue 1,"MF,FW"
+15543,Othmane Maamma,Montpellier,Ligue 1,"FW,MF"
+15544,Oumar Diakité,Reims,Ligue 1,FW
+15545,Ousmane Toure,Lille,Ligue 1,DF
+15550,Philipp Köhn,Monaco,Ligue 1,GK
+15551,Rabby Nzingoula,Montpellier,Ligue 1,MF
+15552,Rafael Fernandes,Lille,Ligue 1,DF
+15553,Rafik Messali,Toulouse,Ligue 1,DF
+15555,Rassoul Ndiaye,Le Havre,Ligue 1,MF
+15557,Reda Khadra,Reims,Ligue 1,"MF,FW"
+15559,Roggerio Nyakossi,Marseille,Ligue 1,DF
+15562,Samir El Mourabet,Strasbourg,Ligue 1,FW
+15563,Saïmon Bouabré,Monaco,Ligue 1,"MF,FW"
+15564,Senny Mayulu,Paris S-G,Ligue 1,MF
+15566,Shavy Babicka,Toulouse,Ligue 1,"MF,FW"
+15571,Steve Ngoura,Le Havre,Ligue 1,FW
+15573,Teddy Teuma,Reims,Ligue 1,MF
+15576,Tiago Santos,Lille,Ligue 1,DF
+15577,Tidiane Diallo,Strasbourg,Ligue 1,FW
+15578,Tom Pouilly,Lens,Ligue 1,"DF,MF"
+15582,Vincent Burlet,Lille,Ligue 1,DF
+15583,Wilfried Singo,Monaco,Ligue 1,DF
+15585,Yanis Issoufou,Montpellier,Ligue 1,"MF,FW"
+15586,Yann Liénard,Monaco,Ligue 1,GK
+15587,Yassine Kechta,Le Havre,Ligue 1,"MF,FW"
+15588,Yoni Gomis,Strasbourg,Ligue 1,DF
+15589,Yoram Zague,Paris S-G,Ligue 1,"DF,FW"
+15591,Abdelhamid Ait Boudlal,Rennes,Ligue 1,DF
+15592,Abdoul Ouattara,Strasbourg,Ligue 1,"DF,FW"
+15593,Abdoulaye Camara,Montpellier,Ligue 1,MF
+15594,Adam Delplace,Lens,Ligue 1,GK
+15595,Aladji Bamba,Monaco,Ligue 1,MF
+15596,Albert Grønbaek,Rennes,Ligue 1,"MF,FW"
+15597,Alejandro Rodriguez,Lyon,Ligue 1,MF
+15598,Alex Teixeira,Le Havre,Ligue 1,GK
+15599,Ali Abdi,Nice,Ligue 1,"DF,MF"
+15600,Almoatasem Al Musrati,Monaco,Ligue 1,MF
+15601,Amadou Cissé,Strasbourg,Ligue 1,FW
+15602,Amar Dedić,Marseille,Ligue 1,DF
+15603,Amine Moussaoui,Angers,Ligue 1,FW
+15604,Anass Zaroury,Lens,Ligue 1,"FW,MF"
+15605,Andrew Omobamidele,Nott'ham Forest,Premier League,DF
+15606,Ange Martial Tia,Reims,Ligue 1,"MF,DF"
+15607,Antoine Gauthier,Saint-Étienne,Ligue 1,MF
+15608,Aristide Zossou,Auxerre,Ligue 1,MF
+15609,Augustine Boakye,Saint-Étienne,Ligue 1,"FW,MF"
+15610,Axel Tapé,Paris S-G,Ligue 1,"DF,MF"
+15611,Ayman Aiki,Saint-Étienne,Ligue 1,"FW,MF"
+15612,Bahereba Guirassy,Nantes,Ligue 1,"FW,MF"
+15613,Ben Old,Saint-Étienne,Ligue 1,"FW,MF"
+15614,Ben Viadere,Auxerre,Ligue 1,MF
+15615,Benjamin Bouchouari,Saint-Étienne,Ligue 1,MF
+15616,Beres Owusu,Saint-Étienne,Ligue 1,DF
+15617,Bernard Nguene,Nice,Ligue 1,FW
+15618,Bradel Kiwa,Monaco,Ligue 1,MF
+15619,Caleb Wiley,Strasbourg,Ligue 1,"DF,MF"
+15620,Carlos Gómez,Rennes,Ligue 1,"MF,DF"
+15621,Charlie Cresswell,Toulouse,Ligue 1,DF
+15622,Cheikh Fall,Saint-Étienne,Ligue 1,MF
+15623,Chuba Akpom,Lille,Ligue 1,FW
+15624,Clément Akpa,Auxerre,Ligue 1,DF
+15625,Craig Mamilo,Montpellier,Ligue 1,DF
+15626,Cédric Kipré,Reims,Ligue 1,DF
+15627,Daren Mosengo,Le Havre,Ligue 1,MF
+15628,Dayann Methalie,Toulouse,Ligue 1,DF
+15629,Derek Cornelius,Marseille,Ligue 1,DF
+15630,Djylian N'Guessan,Saint-Étienne,Ligue 1,FW
+15631,Dylan Batubinsika,Saint-Étienne,Ligue 1,DF
+15632,Eloge Zabi,Reims,Ligue 1,"DF,MF"
+15633,Emmanuel Biumla,Angers,Ligue 1,DF
+15634,Emmanuel Koum Mbondo,Marseille,Ligue 1,DF
+15635,Enzo Caumont,Angers,Ligue 1,MF
+15636,Enzo Kana-Biyik,Le Havre,Ligue 1,FW
+15637,Enzo Molebe,Lyon,Ligue 1,FW
+15638,Enzo Sternal,Marseille,Ligue 1,"FW,MF"
+15639,Eros Maddy,Auxerre,Ligue 1,DF
+15640,Esteban Lepaul,Angers,Ligue 1,FW
+15641,Everton Pereira,Nice,Ligue 1,MF
+15642,Florent Hanin,Angers,Ligue 1,DF
+15643,Florian Ayé,Auxerre,Ligue 1,FW
+15644,Fredrik Oppegard,Auxerre,Ligue 1,DF
+15645,Gabin Capuano,Lens,Ligue 1,FW
+15646,Gabriel Guri,Le Havre,Ligue 1,GK
+15647,Gabriel Moscardo,Reims,Ligue 1,"MF,DF"
+15648,Gabriel Osho,Auxerre,Ligue 1,DF
+15649,Gael Lafont,Marseille,Ligue 1,FW
+15650,George Ilenikhena,Monaco,Ligue 1,FW
+15651,Ghianny Kodia,Strasbourg,Ligue 1,FW
+15652,Glen Kamara,Rennes,Ligue 1,MF
+15653,Glenn Ngosso,Montpellier,Ligue 1,FW
+15654,Goduine Koyalipou,Lens,Ligue 1,FW
+15655,Hafiz Ibrahim,Reims,Ligue 1,FW
+15656,Hamed Junior Traorè,Auxerre,Ligue 1,MF
+15657,Hamidou Makalou,Brest,Ligue 1,"FW,MF"
+15658,Hamzat Ojediran,Lens,Ligue 1,"MF,FW"
+15659,Hans Hateboer,Rennes,Ligue 1,DF
+15660,Henrick Do Marcolino,Rennes,Ligue 1,FW
+15661,Henrik Meister,Rennes,Ligue 1,FW
+15662,Hernani Mendes,Le Havre,Ligue 1,MF
+15663,Hervé Boua Dié,Lens,Ligue 1,FW
+15664,Hiroki Sekine,Reims,Ligue 1,DF
+15665,Ibrahim Kanté,Brest,Ligue 1,MF
+15666,Ibrahim Mbaye,Paris S-G,Ligue 1,"FW,MF"
+15667,Ibrahim Sissoko,Saint-Étienne,Ligue 1,FW
+15668,Ibrahima Wadji,Saint-Étienne,Ligue 1,"FW,MF"
+15669,Igor Miladinović,Saint-Étienne,Ligue 1,"FW,MF"
+15670,Ilan Jourdren,Lens,Ligue 1,GK
+15671,Iliesse Salhi,Nice,Ligue 1,MF
+15672,Ilyas Azizi,Toulouse,Ligue 1,FW
+15673,Isaac Cossier,Lille,Ligue 1,DF
+15674,Ismaël Bennacer,Marseille,Ligue 1,MF
+15675,Ismaël Koné,Marseille,Ligue 1,"MF,FW"
+15676,Ismaïl Bouneb,Le Havre,Ligue 1,MF
+15677,Issiaga Camara,Nice,Ligue 1,MF
+15678,Issiaka Touré,Saint-Étienne,Ligue 1,GK
+15679,Jaydee Canvot,Toulouse,Ligue 1,"DF,MF"
+15680,Jeffrey De Lange,Marseille,Ligue 1,GK
+15681,Jeremy Agbonifo,Lens,Ligue 1,"FW,MF"
+15682,Jibril Othman,Saint-Étienne,Ligue 1,FW
+15683,Joel Coulibaly,Rennes,Ligue 1,MF
+15684,Jonathan Rowe,Marseille,Ligue 1,"FW,MF"
+15685,Jordan James,Rennes,Ligue 1,MF
+15686,Jordan Teze,Monaco,Ligue 1,DF
+15687,João Neves,Paris S-G,Ligue 1,"MF,DF"
+15688,Jules Stawiecki,Monaco,Ligue 1,GK
+15689,Justin Bourgault,Brest,Ligue 1,DF
+15690,Justin Lacombe,Toulouse,Ligue 1,GK
+15691,Kazeem Olaigbe,Rennes,Ligue 1,"MF,FW"
+15692,Kembo Diliwidi,Lens,Ligue 1,DF
+15693,Khvicha Kvaratskhelia,Napoli,Serie A,"FW,MF"
+15694,Ki-Jana Hoever,Auxerre,Ligue 1,DF
+15695,Kobi Henry,Reims,Ligue 1,DF
+15696,Koka,Le Havre,Ligue 1,FW
+15697,Kyllian Antonio,Lens,Ligue 1,"DF,MF"
+15698,Kyogo Furuhashi,Rennes,Ligue 1,FW
+15699,Kévin Pedro,Saint-Étienne,Ligue 1,DF
+15700,Lanroy Machine,Angers,Ligue 1,FW
+15701,Lassine Diarra,Lyon,Ligue 1,GK
+15702,Lasso Coulibaly,Auxerre,Ligue 1,"FW,MF"
+15703,Laurenzo Alvarenga,Nice,Ligue 1,MF
+15704,Louis Leroux,Nantes,Ligue 1,"MF,DF"
+15705,Loïc N'Gatta,Auxerre,Ligue 1,DF
+15706,Lucas Stassin,Saint-Étienne,Ligue 1,FW
+15707,Léo Botz,Brest,Ligue 1,FW
+15708,M'Bala Nzola,Lens,Ligue 1,FW
+15709,Madiou Keïta,Auxerre,Ligue 1,DF
+15710,Malcolm Jeng,Reims,Ligue 1,DF
+15711,Marius Courcoul,Angers,Ligue 1,"MF,DF"
+15712,Marius Louer,Angers,Ligue 1,MF
+15713,Mark Mckenzie,Toulouse,Ligue 1,DF
+15714,Marvyn Muzungu,Auxerre,Ligue 1,DF
+15715,Marwann Nzuzi,Saint-Étienne,Ligue 1,DF
+15716,Mathieu Acapandié,Nantes,Ligue 1,DF
+15717,Mathis Amougou,Chelsea,Premier League,MF
+15718,Mathis Saka,Toulouse,Ligue 1,FW
+15719,Mathys Niflore,Toulouse,Ligue 1,GK
+15720,Mathéo Bodmer,Le Havre,Ligue 1,MF
+15721,Matias Fernandez-Pardo,Lille,Ligue 1,"FW,MF"
+15722,Matthias Da Silva,Lyon,Ligue 1,GK
+15723,Matvei Safonov,Paris S-G,Ligue 1,GK
+15724,Melvin Zinga,Angers,Ligue 1,GK
+15725,Meschak Elia,Nantes,Ligue 1,FW
+15726,Miha Zajc,Toulouse,Ligue 1,MF
+15727,Mika Biereth,Monaco,Ligue 1,FW
+15728,Milos Lukovic,Strasbourg,Ligue 1,"FW,MF"
+15729,Mohamed Abdelmoneim,Nice,Ligue 1,DF
+15730,Mohamed Ali Diadie,Reims,Ligue 1,FW
+15731,Mohamed Bamba,Reims,Ligue 1,MF
+15732,Mohamed Meité,Rennes,Ligue 1,FW
+15733,Mory Gbane,Reims,Ligue 1,"DF,MF"
+15734,Moïse Bombito,Nice,Ligue 1,DF
+15735,Naoufel El Hannach,Paris S-G,Ligue 1,DF
+15736,Neil Glossoa,Auxerre,Ligue 1,FW
+15737,Ngal'Ayel Mukau,Lille,Ligue 1,MF
+15738,Niama Sissoko,Reims,Ligue 1,"FW,MF"
+15739,Nicolas Pays,Montpellier,Ligue 1,"FW,MF"
+15740,Nidal Celik,Lens,Ligue 1,DF
+15741,Nikola Maksimović,Montpellier,Ligue 1,DF
+15742,Noah Jauny,Brest,Ligue 1,GK
+15743,Noham Kamara,Paris S-G,Ligue 1,DF
+15744,Osame Sahraoui,Lille,Ligue 1,"FW,MF"
+15745,Oscar Lenne,Lens,Ligue 1,MF
+15747,Paris Irie,Brest,Ligue 1,DF
+15748,Patrik Carlgren,Nantes,Ligue 1,GK
+15749,Pierre Cornud,Saint-Étienne,Ligue 1,DF
+15750,Pierre Ekwah Elimby,Saint-Étienne,Ligue 1,MF
+15752,Prosper Peter,Angers,Ligue 1,"MF,FW"
+15753,Quentin Ndjantou Mbitcha,Paris S-G,Ligue 1,FW
+15754,Raphael Le Guen,Brest,Ligue 1,DF
+15755,Rayan Fofana,Lens,Ligue 1,"FW,MF"
+15756,Rayane Messi Tanfouri,Strasbourg,Ligue 1,FW
+15757,Robinio Vaz,Marseille,Ligue 1,FW
+15758,Roman Karolewicz,Lens,Ligue 1,GK
+15759,Rony Mimb Baheng,Marseille,Ligue 1,DF
+15760,Rudy Matondo,Auxerre,Ligue 1,MF
+15761,Ryan Tutu,Strasbourg,Ligue 1,GK
+15762,Saad Agouzoul,Auxerre,Ligue 1,DF
+15763,Sacha Lung,Strasbourg,Ligue 1,DF
+15764,Samuel Amo-Ameyaw,Southampton,Premier League,"FW,DF"
+15765,Samuel Nibombé,Monaco,Ligue 1,DF
+15766,Sebastian Nanasi,Strasbourg,Ligue 1,"MF,FW"
+15767,Sidiki Cherif,Angers,Ligue 1,FW
+15768,Simon Cara,Montpellier,Ligue 1,"MF,FW"
+15769,Sorba Thomas,Nantes,Ligue 1,"FW,MF"
+15770,Soriba Diaoune,Lille,Ligue 1,FW
+15771,Souleymane Sagnan,Lens,Ligue 1,DF
+15772,Stefan Džodić,Montpellier,Ligue 1,"DF,MF"
+15773,Stephan Zagadou,Le Havre,Ligue 1,DF
+15774,Sékou Doucoure,Nantes,Ligue 1,DF
+15775,Sérigné Diop,Brest,Ligue 1,FW
+15776,Tanner Tessmann,Lyon,Ligue 1,MF
+15777,Telli Siwe,Auxerre,Ligue 1,DF
+15778,Theo Bair,Auxerre,Ligue 1,FW
+15779,Thiago Almada,Lyon,Ligue 1,"MF,FW"
+15780,Théo Chennahi,Montpellier,Ligue 1,DF
+15781,Téo Barisic,Lyon,Ligue 1,DF
+15782,Valentin Carboni,Marseille,Ligue 1,"MF,FW"
+15783,Victor Mayela,Auxerre,Ligue 1,DF
+15784,Victor Orakpo,Nice,Ligue 1,FW
+15785,Wassim Slama,Paris S-G,Ligue 1,MF
+15786,Wilfried Ndollo,Montpellier,Ligue 1,DF
+15787,Wilfried Zaha,Lyon,Ligue 1,FW
+15788,Yael Mouanga,Montpellier,Ligue 1,DF
+15789,Yael Nandjou,Nice,Ligue 1,DF
+15790,Yanis Zouaoui,Le Havre,Ligue 1,"DF,FW"
+15792,Yoann Cissé,Auxerre,Ligue 1,MF
+15793,Younes Lachaab,Lille,Ligue 1,"MF,FW"
+15794,Zuriko Davitashvili,Saint-Étienne,Ligue 1,"FW,MF"
+15795,Óscar Perea,Strasbourg,Ligue 1,"MF,DF"
+15796,Ümit Akdag,Toulouse,Ligue 1,DF
+15797,Đorđe Petrović,Strasbourg,Ligue 1,GK
+17370,James Milner,Brighton,Premier League,MF
+17491,Scott Carson,Manchester City,Premier League,GK
+17649,John Ruddy,Newcastle Utd,Premier League,GK
+17709,Ashley Young,Everton,Premier League,DF
+17723,Daniele Padelli,Udinese,Serie A,GK
+17845,Jonny Evans,Manchester Utd,Premier League,DF
+17880,Łukasz Fabiański,West Ham,Premier League,GK
+17888,Asmir Begović,Everton,Premier League,GK
+17900,Chris Smalling,Roma,Serie A,DF
+17901,Chris Wood,Nott'ham Forest,Premier League,FW
+17904,Danny Welbeck,Brighton,Premier League,FW
+18017,Joel Ward,Crystal Palace,Premier League,DF
+18027,Kyle Walker,Manchester City,Premier League,DF
+18058,Séamus Coleman,Everton,Premier League,DF
+18059,Tom Cairney,Fulham,Premier League,MF
+18062,Wayne Hennessey,Nott'ham Forest,Premier League,GK
+18143,Adam Smith,Bournemouth,Premier League,DF
+18167,Craig Dawson,Wolves,Premier League,DF
+18220,Raheem Sterling,Arsenal,Premier League,"FW,MF"
+18221,Romelu Lukaku,Napoli,Serie A,FW
+18243,Adam Lallana,Southampton,Premier League,MF
+18246,Alex Mccarthy,Southampton,Premier League,GK
+18254,Ben Davies,Tottenham,Premier League,DF
+18263,Conor Coady,Leicester City,Premier League,DF
+18282,James Ward-Prowse,Nott'ham Forest,Premier League,MF
+18299,Luke Shaw,Manchester Utd,Premier League,DF
+18303,Nathan Aké,Manchester City,Premier League,DF
+18304,Nathaniel Clyne,Crystal Palace,Premier League,"DF,MF"
+18328,Adam Armstrong,Southampton,Premier League,"FW,MF"
+18343,Christian Eriksen,Manchester Utd,Premier League,MF
+18345,Dan Burn,Newcastle Utd,Premier League,DF
+18359,Harrison Reed,Fulham,Premier League,MF
+18362,Jack Grealish,Manchester City,Premier League,"FW,MF"
+18370,John Stones,Manchester City,Premier League,"DF,MF"
+18395,Mohamed Salah,Liverpool,Premier League,FW
+18418,Willian,Fulham,Premier League,"FW,MF"
+18420,Aaron Cresswell,West Ham,Premier League,DF
+18425,Alex Palmer,Ipswich Town,Premier League,GK
+18426,Andrew Robertson,Liverpool,Premier League,DF
+18432,Ben Mee,Brentford,Premier League,DF
+18445,Danny Ings,West Ham,Premier League,"FW,MF"
+18446,Danny Ward,Leicester City,Premier League,GK
+18456,Dominic Solanke,Tottenham,Premier League,FW
+18462,Fraser Forster,Tottenham,Premier League,GK
+18467,Harry Maguire,Manchester Utd,Premier League,DF
+18468,Harry Winks,Leicester City,Premier League,MF
+18471,Jack Stephens,Southampton,Premier League,DF
+18478,Jamie Vardy,Leicester City,Premier League,FW
+18482,Jeffrey Schlupp,Crystal Palace,Premier League,"MF,DF"
+18485,Jordan Pickford,Everton,Premier League,GK
+18491,Juan Cuadrado,Atalanta,Serie A,"DF,MF"
+18506,Matt Targett,Newcastle Utd,Premier League,DF
+18509,Michael Keane,Everton,Premier League,DF
+18526,Ruben Loftus-Cheek,Milan,Serie A,MF
+18540,Tom Heaton,Manchester Utd,Premier League,GK
+18553,Alex Iwobi,Fulham,Premier League,"FW,MF"
+18555,Axel Tuanzebe,Ipswich Town,Premier League,DF
+18557,Ben Chilwell,Crystal Palace,Premier League,DF
+18562,Callum Wilson,Newcastle Utd,Premier League,FW
+18576,Dele Alli,Como,Serie A,MF
+18582,Fikayo Tomori,Milan,Serie A,DF
+18593,Jamaal Lascelles,Newcastle Utd,Premier League,DF
+18599,Joe Gomez,Liverpool,Premier League,DF
+18613,Keinan Davis,Udinese,Serie A,FW
+18620,Kyle Walker-Peters,Southampton,Premier League,DF
+18631,Marcus Rashford,Aston Villa,Premier League,FW
+18633,Mason Holgate,Everton,Premier League,"FW,DF"
+18635,Matteo Darmian,Inter,Serie A,DF
+18637,Michail Antonio,West Ham,Premier League,FW
+18643,Ola Aina,Nott'ham Forest,Premier League,DF
+18656,Sam Johnstone,Crystal Palace,Premier League,GK
+18665,Tammy Abraham,Milan,Serie A,FW
+18673,Tyrone Mings,Aston Villa,Premier League,DF
+18674,Virgil Van Dijk,Liverpool,Premier League,DF
+18676,Aaron Ramsdale,Arsenal,Premier League,GK
+18677,Aaron Wan-Bissaka,West Ham,Premier League,DF
+18700,Christian Kabasele,Udinese,Serie A,DF
+18707,Declan Rice,Arsenal,Premier League,MF
+18711,Dominic Calvert-Lewin,Everton,Premier League,FW
+18720,Gabriel Jesus,Arsenal,Premier League,FW
+18724,Harry Wilson,Fulham,Premier League,"FW,MF"
+18726,James Tarkowski,Everton,Premier League,DF
+18727,Jarrod Bowen,West Ham,Premier League,"FW,MF"
+18747,Lewis Cook,Bournemouth,Premier League,"MF,DF"
+18753,Marten De Roon,Atalanta,Serie A,"MF,DF"
+18764,Nick Pope,Newcastle Utd,Premier League,GK
+18770,Rob Holding,Crystal Palace,Premier League,DF
+18772,Ryan Fraser,Southampton,Premier League,"FW,DF"
+18776,Scott Mctominay,Manchester Utd,Premier League,MF
+18781,Tosin Adarabioyo,Chelsea,Premier League,DF
+18782,Trent Alexander-Arnold,Liverpool,Premier League,DF
+18784,Wilfred Ndidi,Leicester City,Premier League,MF
+18789,Alfie Whiteman,Tottenham,Premier League,GK
+18793,Ben Johnson,Ipswich Town,Premier League,"DF,FW"
+18796,Charlie Taylor,Southampton,Premier League,DF
+18802,Curtis Jones,Liverpool,Premier League,"MF,DF"
+18804,Davide Zappacosta,Atalanta,Serie A,DF
+18810,Eddie Nketiah,Arsenal,Premier League,FW
+18811,Ederson,Manchester City,Premier League,GK
+18818,Hamza Choudhury,Leicester City,Premier League,"MF,DF"
+18820,Harvey Barnes,Newcastle Utd,Premier League,FW
+18823,Jacob Murphy,Newcastle Utd,Premier League,FW
+18826,Jan Bednarek,Southampton,Premier League,DF
+18833,Joe Willock,Newcastle Utd,Premier League,"MF,FW"
+18847,Lewis Dunk,Brighton,Premier League,DF
+18848,Martin Dúbravka,Newcastle Utd,Premier League,GK
+18857,Nikola Vlašić,Torino,Serie A,"MF,FW"
+18859,Oleksandr Zinchenko,Arsenal,Premier League,"DF,MF"
+18860,Phil Foden,Manchester City,Premier League,"MF,FW"
+18861,Philip Billing,Bournemouth,Premier League,MF
+18864,Richarlison,Tottenham,Premier League,FW
+18869,Solly March,Brighton,Premier League,"FW,MF"
+18873,Victor Lindelöf,Manchester Utd,Premier League,DF
+18874,Will Hughes,Crystal Palace,Premier League,MF
+18876,Adam Masina,Torino,Serie A,DF
+18881,Alisson,Liverpool,Premier League,GK
+18883,Arijanet Muric,Ipswich Town,Premier League,GK
+18884,Ben White,Arsenal,Premier League,DF
+18887,Bobby De Cordova-Reid,Leicester City,Premier League,FW
+18889,Bukayo Saka,Arsenal,Premier League,"FW,MF"
+18897,David Brooks,Bournemouth,Premier League,"FW,MF"
+18901,Diogo Dalot,Manchester Utd,Premier League,DF
+18902,Diogo Jota,Liverpool,Premier League,FW
+18903,Dwight Mcneil,Everton,Premier League,"MF,FW"
+18909,Harvey Elliott,Liverpool,Premier League,MF
+18911,James Garner,Everton,Premier League,"MF,DF"
+18912,James Maddison,Tottenham,Premier League,MF
+18913,Jason Steele,Brighton,Premier League,GK
+18917,Jorginho,Arsenal,Premier League,MF
+18934,Marc Guéhi,Crystal Palace,Premier League,DF
+18935,Marcus Bettinelli,Chelsea,Premier League,GK
+18936,Mark Travers,Bournemouth,Premier League,GK
+18938,Max Kilman,West Ham,Premier League,DF
+18940,Miguel Almirón,Newcastle Utd,Premier League,FW
+18942,Morgan Gibbs-White,Nott'ham Forest,Premier League,MF
+18947,Oliver Skipp,Leicester City,Premier League,MF
+18948,Rui Patrício,Atalanta,Serie A,GK
+18955,Sean Longstaff,Newcastle Utd,Premier League,MF
+18967,Adam Webster,Brighton,Premier League,DF
+18971,Alexis Mac Allister,Liverpool,Premier League,MF
+18974,Anthony Gordon,Newcastle Utd,Premier League,"FW,MF"
+18976,Armando Broja,Everton,Premier League,FW
+18978,Ben Godfrey,Atalanta,Serie A,DF
+18982,Billy Gilmour,Brighton,Premier League,MF
+18984,Brandon Austin,Tottenham,Premier League,GK
+18987,Bruno Fernandes,Manchester Utd,Premier League,MF
+18989,Caoimhín Kelleher,Liverpool,Premier League,GK
+18990,Che Adams,Torino,Serie A,FW
+18992,Cole Palmer,Chelsea,Premier League,"MF,FW"
+18996,Daniel Podence,Wolves,Premier League,"MF,FW"
+19000,Dean Henderson,Crystal Palace,Premier League,GK
+19004,Ezri Konsa,Aston Villa,Premier League,DF
+19005,Faustino Anjorin,Empoli,Serie A,MF
+19007,Gabriel Martinelli,Arsenal,Premier League,"FW,MF"
+19011,George Hirst,Ipswich Town,Premier League,FW
+19024,James Justin,Leicester City,Premier League,DF
+19025,Jarrad Branthwaite,Everton,Premier League,DF
+19032,John Mcginn,Aston Villa,Premier League,"MF,FW"
+19039,João Pedro,Brighton,Premier League,"FW,MF"
+19040,João Virgínia,Everton,Premier League,GK
+19044,Leandro Trossard,Arsenal,Premier League,FW
+19049,Lloyd Kelly,Juventus,Serie A,DF
+19051,Luke Cundle,Wolves,Premier League,MF
+19053,Luke Thomas,Leicester City,Premier League,DF
+19056,Mason Mount,Manchester Utd,Premier League,MF
+19065,Neco Williams,Nott'ham Forest,Premier League,DF
+19070,Pedro Neto,Chelsea,Premier League,FW
+19071,Reece James,Chelsea,Premier League,"DF,MF"
+19073,Sander Berge,Fulham,Premier League,MF
+19078,Tariq Lamptey,Brighton,Premier League,DF
+19079,Taylor Harwood-Bellis,Southampton,Premier League,DF
+19084,Tommy Doyle,Wolves,Premier League,MF
+19085,Tomáš Souček,West Ham,Premier League,MF
+19090,Tyrick Mitchell,Crystal Palace,Premier League,DF
+19093,William Smallbone,Southampton,Premier League,MF
+19094,Adrian Bernabe,Parma,Serie A,MF
+19095,Alfie Devine,Tottenham,Premier League,MF
+19098,Amad Diallo,Manchester Utd,Premier League,"MF,FW"
+19100,Anthony Elanga,Nott'ham Forest,Premier League,"FW,MF"
+19101,Antonee Robinson,Fulham,Premier League,DF
+19109,Christian Walton,Ipswich Town,Premier League,GK
+19112,Conor Townsend,Ipswich Town,Premier League,DF
+19113,Crysencio Summerville,West Ham,Premier League,"FW,MF"
+19114,Dane Scarlett,Tottenham,Premier League,"FW,MF"
+19115,Daniel Jebbison,Bournemouth,Premier League,FW
+19117,Dara O'Shea,Ipswich Town,Premier League,DF
+19118,Eberechi Eze,Crystal Palace,Premier League,"MF,FW"
+19119,Elia Caprile,Cagliari,Serie A,GK
+19120,Elliot Anderson,Nott'ham Forest,Premier League,MF
+19134,Jack Harrison,Everton,Premier League,FW
+19136,Jacob Ramsey,Aston Villa,Premier League,"FW,MF"
+19137,Jaden Philogene Bidace,Aston Villa,Premier League,"FW,MF"
+19139,Jakub Moder,Brighton,Premier League,MF
+19148,Joël Veltman,Brighton,Premier League,DF
+19149,Kalvin Phillips,Ipswich Town,Premier League,MF
+19154,Kostas Tsimikas,Liverpool,Premier League,DF
+19158,Leif Davis,Ipswich Town,Premier League,DF
+19162,Liam Delap,Ipswich Town,Premier League,FW
+19169,Matty Cash,Aston Villa,Premier League,DF
+19175,Moisés Caicedo,Chelsea,Premier League,"MF,DF"
+19177,Nathan Broadhead,Ipswich Town,Premier League,"MF,FW"
+19182,Ollie Watkins,Aston Villa,Premier League,FW
+19186,Reece Welch,Everton,Premier League,DF
+19189,Robert Sánchez,Chelsea,Premier League,GK
+19190,Robin Olsen,Aston Villa,Premier League,GK
+19195,Rúben Dias,Manchester City,Premier League,DF
+19206,Tim Iroegbunam,Everton,Premier League,MF
+19207,Timothy Castagne,Fulham,Premier League,DF
+19212,Valentino Livramento,Newcastle Utd,Premier League,DF
+19213,Vladimír Coufal,West Ham,Premier League,DF
+19215,Wes Foderingham,West Ham,Premier League,GK
+19217,William Osula,Newcastle Utd,Premier League,FW
+19223,Alejandro Garnacho,Manchester Utd,Premier League,"MF,FW"
+19225,Archie Gray,Tottenham,Premier League,"DF,MF"
+19230,Benjamin Nelson,Leicester City,Premier League,DF
+19232,Cameron Archer,Southampton,Premier League,FW
+19238,Christian Nørgaard,Brentford,Premier League,MF
+19240,Cieran Slicker,Ipswich Town,Premier League,GK
+19241,Conor Bradley,Liverpool,Premier League,DF
+19242,Cristian Romero,Tottenham,Premier League,DF
+19245,David Raya,Arsenal,Premier League,GK
+19246,Dejan Kulusevski,Tottenham,Premier League,"MF,FW"
+19252,Edmond-Paris Maghoma,Brentford,Premier League,"MF,FW"
+19255,Ethan Pinnock,Brentford,Premier League,DF
+19256,Evan Ferguson,Brighton,Premier League,FW
+19265,James Mcatee,Manchester City,Premier League,"MF,FW"
+19269,Jarell Quansah,Liverpool,Premier League,DF
+19270,Jeremy Sarmiento,Brighton,Premier League,MF
+19277,José Sá,Wolves,Premier League,GK
+19281,Kasey Mcateer,Leicester City,Premier League,FW
+19283,Kiernan Dewsbury-Hall,Chelsea,Premier League,"MF,FW"
+19286,Kristoffer Ajer,Brentford,Premier League,DF
+19289,Lamare Bogarde,Aston Villa,Premier League,"DF,MF"
+19293,Lewis Hall,Newcastle Utd,Premier League,DF
+19298,Luis Díaz,Liverpool,Premier League,FW
+19311,Myles Peart-Harris,Brentford,Premier League,MF
+19312,Nathan Collins,Brentford,Premier League,DF
+19313,Nathan Patterson,Everton,Premier League,DF
+19317,Omari Hutchinson,Ipswich Town,Premier League,"MF,FW"
+19322,Patson Daka,Leicester City,Premier League,"FW,MF"
+19323,Pierluigi Gollini,Genoa,Serie A,GK
+19326,Remi Matthews,Crystal Palace,Premier League,GK
+19327,Rico Henry,Brentford,Premier League,DF
+19329,Rodrigo Bentancur,Tottenham,Premier League,MF
+19330,Roméo Lavia,Chelsea,Premier League,MF
+19332,Salah Oulad M'Hand,Arsenal,Premier League,MF
+19335,Samuel Edozie,Southampton,Premier League,"DF,FW"
+19340,Takehiro Tomiyasu,Arsenal,Premier League,DF
+19350,Toti Gomes,Wolves,Premier League,DF
+19351,Tyler Dibling,Southampton,Premier League,"FW,MF"
+19352,Tyler Morton,Liverpool,Premier League,MF
+19355,Vitaliy Mykolenko,Everton,Premier League,DF
+19356,Vitaly Janelt,Brentford,Premier League,MF
+19360,Aaron Hickey,Brentford,Premier League,"DF,MF"
+19366,Antoine Semenyo,Bournemouth,Premier League,FW
+19374,Brennan Johnson,Tottenham,Premier League,FW
+19378,Carlos Alcaraz,Everton,Premier League,"FW,MF"
+19380,Cody Gakpo,Liverpool,Premier League,FW
+19383,Daniel Adu-Adjei,Bournemouth,Premier League,FW
+19384,Daniel Bentley,Wolves,Premier League,GK
+19385,Daniel Iversen,Leicester City,Premier League,GK
+19388,Darwin Núñez,Liverpool,Premier League,FW
+19392,Divin Mubama,Manchester City,Premier League,FW
+19394,Dominic Sadi,Bournemouth,Premier League,MF
+19396,Enzo Fernández,Chelsea,Premier League,MF
+19397,Ethan Nwaneri,Arsenal,Premier League,"FW,MF"
+19401,Facundo Buonanotte,Leicester City,Premier League,"FW,MF"
+19402,Flynn Downes,Southampton,Premier League,MF
+19407,Gianluca Scamacca,Atalanta,Serie A,FW
+19409,Harry Toffolo,Nott'ham Forest,Premier League,DF
+19410,Harvey Davies,Liverpool,Premier League,GK
+19412,Illia Zabarnyi,Bournemouth,Premier League,DF
+19413,Imari Samuels,Brighton,Premier League,DF
+19414,Ishé Samuels-Smith,Chelsea,Premier League,DF
+19415,Jack Hinshelwood,Brighton,Premier League,"MF,DF"
+19417,Jaidon Anthony,Bournemouth,Premier League,"FW,MF"
+19418,Jakub Kiwior,Arsenal,Premier League,DF
+19420,James Bree,Southampton,Premier League,DF
+19422,James Hill,Bournemouth,Premier League,DF
+19424,Jan Paul Van Hecke,Brighton,Premier League,DF
+19425,Jay Stansfield,Fulham,Premier League,MF
+19428,Joe Aribo,Southampton,Premier League,"MF,DF"
+19432,Jordan Zemura,Udinese,Serie A,DF
+19435,João Gomes,Wolves,Premier League,MF
+19437,Julio Enciso,Brighton,Premier League,"MF,FW"
+19438,Jáder Durán,Aston Villa,Premier League,FW
+19439,Kadan Young,Aston Villa,Premier League,MF
+19440,Kaden Rodney,Crystal Palace,Premier League,"DF,MF"
+19441,Kaelan Casey,West Ham,Premier League,DF
+19444,Kaoru Mitoma,Brighton,Premier League,"FW,MF"
+19445,Keane Lewis-Potter,Brentford,Premier League,"DF,FW"
+19448,Kobbie Mainoo,Manchester Utd,Premier League,MF
+19452,Levi Colwill,Chelsea,Premier League,DF
+19453,Lewis Miley,Newcastle Utd,Premier League,MF
+19458,Lisandro Martínez,Manchester Utd,Premier League,DF
+19459,Luis Sinisterra,Bournemouth,Premier League,"FW,MF"
+19467,Marcos Senesi,Bournemouth,Premier League,DF
+19468,Marcus Tavernier,Bournemouth,Premier League,"FW,MF"
+19469,Martial Godo,Fulham,Premier League,"FW,DF"
+19471,Matheus Nunes,Manchester City,Premier League,"DF,MF"
+19474,Matt Turner,Crystal Palace,Premier League,GK
+19477,Maxwell Wellings,Bournemouth,Premier League,DF
+19480,Mikkel Damsgaard,Brentford,Premier League,"MF,FW"
+19482,Mykhailo Mudryk,Chelsea,Premier League,FW
+19483,Nathan Butler-Oyedeji,Arsenal,Premier League,FW
+19485,Nico O’Reilly,Manchester City,Premier League,DF
+19486,Noni Madueke,Chelsea,Premier League,FW
+19488,Oliwier Zych,Aston Villa,Premier League,GK
+19491,Paul Onuachu,Southampton,Premier League,FW
+19492,Remo Freuler,Bologna,Serie A,MF
+19495,Rico Lewis,Manchester City,Premier League,"DF,MF"
+19496,Rodrigo Muniz,Fulham,Premier League,FW
+19498,Ryan Christie,Bournemouth,Premier League,MF
+19499,Ryan Trevitt,Brentford,Premier League,MF
+19500,Ryan Yates,Nott'ham Forest,Premier League,MF
+19501,Sammy Braybrooke,Leicester City,Premier League,MF
+19505,Sil Swinkels,Aston Villa,Premier League,DF
+19509,Thomas Cannon,Leicester City,Premier League,FW
+19513,Tyrell Malacia,Manchester Utd,Premier League,DF
+19514,Victor Bernth Kristiansen,Leicester City,Premier League,DF
+19517,Will Dennis,Bournemouth,Premier League,GK
+19519,Yasin Ayari,Brighton,Premier League,MF
+19520,Yehor Yarmoliuk,Brentford,Premier League,MF
+19523,Adam Wharton,Crystal Palace,Premier League,MF
+19527,Alex Murphy,Newcastle Utd,Premier League,DF
+19528,Alex Scott,Bournemouth,Premier League,MF
+19529,Alfie Dorrington,Tottenham,Premier League,DF
+19532,Altay Bayındır,Manchester Utd,Premier League,GK
+19534,Amara Nallo,Liverpool,Premier League,DF
+19537,André Onana,Manchester Utd,Premier League,GK
+19542,Bart Verbruggen,Brighton,Premier League,GK
+19546,Benjamin Arthur,Brentford,Premier League,DF
+19547,Benjamin Fredrick,Brentford,Premier League,DF
+19549,Beto,Everton,Premier League,FW
+19554,Callan Mckenna,Bournemouth,Premier League,GK
+19557,Calvin Bassey,Fulham,Premier League,DF
+19559,Cesare Casadei,Chelsea,Premier League,MF
+19561,Chiedozie Ogbene,Ipswich Town,Premier League,FW
+19565,Daniel Muñoz,Crystal Palace,Premier League,DF
+19567,Dermot Mee,Manchester Utd,Premier League,GK
+19568,Destiny Udogie,Tottenham,Premier League,DF
+19574,Edson Álvarez,West Ham,Premier League,MF
+19581,Ethan Wheatley,Manchester Utd,Premier League,FW
+19585,Franco Umeh-Chibueze,Crystal Palace,Premier League,MF
+19588,Guglielmo Vicario,Tottenham,Premier League,GK
+19592,Harry Amass,Manchester Utd,Premier League,DF
+19594,Hákon Valdimarsson,Brentford,Premier League,GK
+19595,Igor,Brighton,Premier League,DF
+19598,Jacob Wright,Manchester City,Premier League,MF
+19600,James Mcconnell,Liverpool,Premier League,MF
+19605,Jayden Danns,Liverpool,Premier League,MF
+19607,Jenson Metcalfe,Everton,Premier League,MF
+19611,Joe Gauci,Aston Villa,Premier League,GK
+19618,Joshua Acheampong,Chelsea,Premier League,DF
+19621,Jurriën Timber,Arsenal,Premier League,DF
+19624,Kim Jisoo,Brentford,Premier League,DF
+19632,Lewis Orford,West Ham,Premier League,MF
+19642,Mark O'Mahony,Brighton,Premier League,FW
+19644,Matheus França,Crystal Palace,Premier League,"MF,FW"
+19649,Mikey Moore,Tottenham,Premier League,FW
+19650,Milos Kerkez,Bournemouth,Premier League,DF
+19651,Mohammed Kudus,West Ham,Premier League,"FW,MF"
+19652,Morgan Rogers,Aston Villa,Premier League,"FW,MF"
+19653,Murillo,Nott'ham Forest,Premier League,DF
+19654,Myles Lewis-Skelly,Arsenal,Premier League,DF
+19655,Nicolás Domínguez,Nott'ham Forest,Premier League,"MF,FW"
+19656,Nicolò Zaniolo,Atalanta,Serie A,"FW,MF"
+19659,Oliver Scarles,West Ham,Premier League,"DF,FW"
+19661,Omari Forson,Monza,Serie A,"MF,FW"
+19663,Oscar Bobb,Manchester City,Premier League,FW
+19668,Radu Drăgușin,Tottenham,Premier League,DF
+19669,Rasmus Højlund,Manchester Utd,Premier League,FW
+19678,Sandro Tonali,Newcastle Utd,Premier League,MF
+19679,Simon Adingra,Brighton,Premier League,"FW,MF"
+19680,Sofyan Amrabat,Fiorentina,Serie A,MF
+19682,Tawanda Chirewa,Wolves,Premier League,MF
+19689,Toby Collyer,Manchester Utd,Premier League,MF
+19690,Tom King,Wolves,Premier League,GK
+19693,Trey Nyoni,Liverpool,Premier League,MF
+19696,Tyrique George,Chelsea,Premier League,FW
+19699,Wesley Okoduwa,Wolves,Premier League,FW
+19701,Youssef Chermiti,Everton,Premier League,"FW,MF"
+19702,Yunus Emre Konak,Brentford,Premier League,"FW,MF"
+19706,Aaron Anselmino,Chelsea,Premier League,DF
+19707,Abdul Fatawu Issahaku,Leicester City,Premier League,FW
+19708,Alfie Pond,Wolves,Premier League,DF
+19709,Ali Al Hamadi,Ipswich Town,Premier League,FW
+19710,André,Wolves,Premier League,MF
+19711,Andrés García,Aston Villa,Premier League,"DF,MF"
+19712,Andy Irving,West Ham,Premier League,MF
+19713,Antonín Kinský,Tottenham,Premier League,GK
+19714,Archie Harris,Bournemouth,Premier League,DF
+19715,Asher Agbinone,Crystal Palace,Premier League,MF
+19716,Ayden Heaven,Arsenal,Premier League,DF
+19717,Ben Winterburn,Bournemouth,Premier League,"MF,FW"
+19718,Benjamin Broggio,Aston Villa,Premier League,FW
+19719,Bilal El Khannouss,Leicester City,Premier League,"MF,FW"
+19720,Brayden Clarke,Arsenal,Premier League,DF
+19721,Caleb Kporha,Crystal Palace,Premier League,DF
+19722,Caleb Okoli,Leicester City,Premier League,DF
+19723,Callum Bates,Everton,Premier League,MF
+19724,Callum Olusesi,Tottenham,Premier League,MF
+19725,Cameron Burgess,Ipswich Town,Premier League,DF
+19726,Carl Rushworth,Brighton,Premier League,GK
+19727,Carlos Forbs,Wolves,Premier League,"MF,FW"
+19728,Carlos Miguel,Nott'ham Forest,Premier League,GK
+19729,Charlie Tasker,Brighton,Premier League,DF
+19730,Chidozie Obi-Martin,Manchester Utd,Premier League,FW
+19731,Claudio Echeverri,Manchester City,Premier League,FW
+19732,Coby Ebere,Everton,Premier League,MF
+19733,Conor Chaplin,Ipswich Town,Premier League,"MF,FW"
+19734,Dante Cassanova,Tottenham,Premier League,DF
+19735,Dean Huijsen,Bournemouth,Premier League,DF
+19736,Diego Gómez,Brighton,Premier League,MF
+19737,Eiran Cashin,Brighton,Premier League,DF
+19738,Elyh Harrison,Manchester Utd,Premier League,GK
+19739,Eric Da Silva Moreira,Nott'ham Forest,Premier League,"MF,DF"
+19740,Evanilson,Bournemouth,Premier League,FW
+19741,Ezra Mayers,West Ham,Premier League,DF
+19742,Federico Chiesa,Liverpool,Premier League,FW
+19743,Ferdi Kadioglu,Brighton,Premier League,"DF,MF"
+19744,Freddie Simmonds,Brighton,Premier League,DF
+19745,Genesis Antwi,Chelsea,Premier League,MF
+19746,George Edmundson,Ipswich Town,Premier League,DF
+19747,Godwill Kukonki,Manchester Utd,Premier League,DF
+19748,Gustavo Nunes,Brentford,Premier League,"FW,MF"
+19749,Harrison Armstrong,Everton,Premier League,MF
+19750,Harry Clarke,Ipswich Town,Premier League,DF
+19751,Harry Howell,Brighton,Premier League,FW
+19752,Henry Cartwright,Leicester City,Premier League,MF
+19753,Hubert Graczyk,Manchester Utd,Premier League,GK
+19754,Isaac Heath,Everton,Premier League,MF
+19755,Ismeal Kabia,Arsenal,Premier League,MF
+19756,Iwan Morgan,Brentford,Premier League,FW
+19757,Jack Clarke,Ipswich Town,Premier League,"FW,MF"
+19758,Jack Fletcher,Manchester Utd,Premier League,MF
+19759,Jack Henry-Francis,Arsenal,Premier League,MF
+19760,Jack Moorhouse,Manchester Utd,Premier League,MF
+19761,Jack Porter,Arsenal,Premier League,GK
+19762,Jack Taylor,Ipswich Town,Premier League,MF
+19763,Jacob Greaves,Ipswich Town,Premier League,DF
+19764,Jacob Slater,Brighton,Premier League,DF
+19765,Jahmai Simpson-Pusey,Manchester City,Premier League,DF
+19767,Jakub Stolarczyk,Leicester City,Premier League,GK
+19768,Jamaldeen Jimoh,Aston Villa,Premier League,MF
+19769,Jay Robinson,Southampton,Premier League,"MF,FW"
+19770,Jayce Fitzgerald,Manchester Utd,Premier League,MF
+19771,Jayden Meghoma,Brentford,Premier League,DF
+19774,Jimi Gower,Arsenal,Premier League,MF
+19775,Joachim Kayi Sanda,Southampton,Premier League,DF
+19776,Joe Knight,Brighton,Premier League,MF
+19777,Joe Lumley,Southampton,Premier League,GK
+19779,Josh Nichols,Arsenal,Premier League,DF
+19780,Jota Silva,Nott'ham Forest,Premier League,"FW,MF"
+19781,Julian Eyestone,Brentford,Premier League,GK
+19782,Julio Soler,Bournemouth,Premier League,"DF,FW"
+19783,Justin Devenny,Crystal Palace,Premier League,MF
+19784,Killian Cahill,Brighton,Premier League,GK
+19785,Leo Shahar,Newcastle Utd,Premier League,DF
+19786,Luca Williams Barnett,Tottenham,Premier League,FW
+19787,Lucas Bergvall,Tottenham,Premier League,MF
+19788,Luis Guilherme,West Ham,Premier League,"MF,FW"
+19789,Luke Woolfenden,Ipswich Town,Premier League,DF
+19790,Mads Hermansen,Leicester City,Premier League,GK
+19791,Maeson King,Tottenham,Premier League,DF
+19792,Malachi Hardy,Tottenham,Premier League,DF
+19793,Maldini Kacurri,Arsenal,Premier League,DF
+19794,Marcus Harness,Ipswich Town,Premier League,MF
+19795,Martin Sherif,Everton,Premier League,FW
+19796,Massimo Luongo,Ipswich Town,Premier League,MF
+19797,Matai Akinmboni,Bournemouth,Premier League,DF
+19798,Mateus Fernandes,Southampton,Premier League,MF
+19800,Mats Wieffer,Brighton,Premier League,"DF,MF"
+19801,Matt O'Riley,Brighton,Premier League,MF
+19802,Max Alleyne,Manchester City,Premier League,DF
+19803,Michael Golding,Leicester City,Premier League,MF
+19804,Michael Kayode,Brentford,Premier League,DF
+19805,Morato,Nott'ham Forest,Premier League,DF
+19806,Nasser Djiga,Wolves,Premier League,DF
+19807,Nathan Wood-Gordon,Southampton,Premier League,DF
+19808,Nikola Milenković,Nott'ham Forest,Premier League,DF
+19810,Oyindamola Ajayi,Tottenham,Premier League,MF
+19811,Patrick Dorgu,Lecce,Serie A,"DF,FW"
+19812,Pedro Lima,Wolves,Premier League,DF
+19813,Ramón Sosa,Nott'ham Forest,Premier League,"FW,MF"
+19814,Remy Rees-Dottin,Bournemouth,Premier League,FW
+19815,Riccardo Calafiori,Arsenal,Premier League,DF
+19816,Rodrigo Gomes,Wolves,Premier League,"DF,FW"
+19817,Romain Esse,Crystal Palace,Premier League,MF
+19818,Roman Dixon,Everton,Premier League,DF
+19819,Ronnie Edwards,Southampton,Premier League,DF
+19820,Ross Stewart,Southampton,Premier League,FW
+19821,Ruairi Mcconville,Brighton,Premier League,DF
+19822,Ryan Manning,Southampton,Premier League,"DF,MF"
+19823,Sam Morsy,Ipswich Town,Premier League,MF
+19824,Sammie Szmodics,Ipswich Town,Premier League,"FW,MF"
+19825,Samuel Amissah,Fulham,Premier League,DF
+19826,Samuel Rak-Sakyi,Chelsea,Premier League,MF
+19827,Sean Neave,Newcastle Utd,Premier League,FW
+19828,Sekou Koné,Manchester Utd,Premier League,MF
+19829,Shumaira Mheuka,Chelsea,Premier League,MF
+19830,Somto Boniface,Ipswich Town,Premier League,DF
+19831,Steven Benda,Fulham,Premier League,GK
+19832,Thiago,Brentford,Premier League,"FW,MF"
+19833,Thomas Wilson-Brown,Leicester City,Premier League,DF
+19834,Thorsten Brits,Manchester City,Premier League,GK
+19835,Tom Edozie,Wolves,Premier League,MF
+19837,Tommy Setford,Arsenal,Premier League,GK
+19838,Tony Yogane,Brentford,Premier League,MF
+19839,Tyler Fredricson,Manchester Utd,Premier League,DF
+19840,Vitezslav Jaros,Liverpool,Premier League,GK
+19841,Vitor Reis,Manchester City,Premier League,DF
+19842,Welington,Southampton,Premier League,DF
+19843,Wes Burns,Ipswich Town,Premier League,"FW,DF"
+19844,Will Alves,Leicester City,Premier League,FW
+19845,Will Lankshear,Tottenham,Premier League,"FW,MF"
+19846,Woyo Coulibaly,Leicester City,Premier League,DF
+19847,Yang Minhyeok,Tottenham,Premier League,MF
+19848,Yankuba Minteh,Brighton,Premier League,"FW,MF"
+19849,Yukinari Sugawara,Southampton,Premier League,"DF,MF"
+19850,Zach Abbott,Nott'ham Forest,Premier League,DF
+19851,Zachariah Marsh,Crystal Palace,Premier League,FW
+19852,Zain Silcott-Duberry,Bournemouth,Premier League,FW
+22139,Lorenzo De Silvestri,Bologna,Serie A,DF
+22327,Marco D'Alessandro,Monza,Serie A,"DF,FW"
+22338,Nicolas Viola,Cagliari,Serie A,"FW,MF"
+22407,Mauro Vigorito,Como,Serie A,GK
+22448,Francesco Caputo,Empoli,Serie A,FW
+22453,Gianluca Caprari,Monza,Serie A,"MF,FW"
+22473,Mattia Perin,Juventus,Serie A,GK
+22481,Nicola Leali,Genoa,Serie A,GK
+22521,Davide Faraoni,Hellas Verona,Serie A,DF
+22532,Francesco Acerbi,Inter,Serie A,DF
+22540,Juan Jesus,Napoli,Serie A,DF
+22564,Pietro Terracciano,Fiorentina,Serie A,GK
+22583,Alberto Cerri,Como,Serie A,FW
+22585,Alessio Romagnoli,Lazio,Serie A,DF
+22587,Alfred Duncan,Venezia,Serie A,MF
+22593,Antonio Donnarumma,Torino,Serie A,GK
+22601,Danilo D'Ambrosio,Monza,Serie A,DF
+22661,Paulo Dybala,Roma,Serie A,"FW,MF"
+22664,Piotr Zieliński,Inter,Serie A,MF
+22689,Andrea Petagna,Monza,Serie A,FW
+22694,Bryan Cristante,Roma,Serie A,MF
+22697,Daniele Baselli,Como,Serie A,MF
+22706,Duván Zapata,Torino,Serie A,FW
+22742,Leonardo Pavoletti,Cagliari,Serie A,"FW,MF"
+22744,Luca Mazzitelli,Como,Serie A,MF
+22750,Marco Silvestri,Empoli,Serie A,GK
+22751,Marco Sportiello,Milan,Serie A,GK
+22759,Matías Vecino,Lazio,Serie A,MF
+22774,Rafael Tolói,Atalanta,Serie A,DF
+22785,Simone Scuffet,Cagliari,Serie A,GK
+22790,Łukasz Skorupski,Bologna,Serie A,GK
+22795,Alberto Grassi,Empoli,Serie A,MF
+22807,Alex Meret,Napoli,Serie A,GK
+22812,Andrea Belotti,Como,Serie A,FW
+22826,Armando Izzo,Monza,Serie A,DF
+22838,Daniele Sommariva,Genoa,Serie A,GK
+22839,Danilo Cataldi,Fiorentina,Serie A,MF
+22841,Davide Calabria,Bologna,Serie A,DF
+22850,Elseid Hysaj,Lazio,Serie A,DF
+22852,Emil Audero,Como,Serie A,GK
+22857,Federico Dimarco,Inter,Serie A,"DF,FW"
+22896,Kevin Bonifazi,Lecce,Serie A,DF
+22900,Leonardo Spinazzola,Napoli,Serie A,"DF,FW"
+22906,Lorenzo Pellegrini,Roma,Serie A,MF
+22919,Manuel Locatelli,Juventus,Serie A,MF
+22926,Martin Erlic,Bologna,Serie A,DF
+22933,Mattia Valoti,Monza,Serie A,MF
+22940,Milan Đurić,Monza,Serie A,FW
+22948,Nicolò Barella,Inter,Serie A,MF
+22949,Nikita Contini Baranovsky,Napoli,Serie A,GK
+22957,Rolando Mandragora,Fiorentina,Serie A,MF
+22962,Samuele Perisan,Empoli,Serie A,GK
+22963,Sebastiano Luperto,Cagliari,Serie A,DF
+22973,Stefan De Vrij,Inter,Serie A,DF
+23009,Berat Djimsiti,Atalanta,Serie A,DF
+23018,Darko Lazović,Hellas Verona,Serie A,"DF,MF"
+23022,Edoardo Goldaniga,Como,Serie A,DF
+23054,Giuseppe Pezzella,Empoli,Serie A,"DF,FW"
+23092,Matteo Politano,Napoli,Serie A,"FW,MF"
+23095,Mattia Zaccagni,Lazio,Serie A,FW
+23100,Nicholas Pierini,Venezia,Serie A,MF
+23111,Patric,Lazio,Serie A,DF
+23122,Richard Marcone,Parma,Serie A,GK
+23125,Roberto Gagliardini,Monza,Serie A,"MF,DF"
+23142,Stefano Sabelli,Genoa,Serie A,DF
+23156,Alessandro Bastoni,Inter,Serie A,DF
+23158,Alessandro Buongiorno,Napoli,Serie A,DF
+23159,Alessandro Deiola,Cagliari,Serie A,MF
+23164,Alessio Zerbin,Napoli,Serie A,"FW,DF"
+23173,Andrea Pinamonti,Genoa,Serie A,FW
+23204,Davide Frattesi,Inter,Serie A,MF
+23223,Federico Ravaglia,Bologna,Serie A,GK
+23229,Filippo Melegoni,Genoa,Serie A,"MF,FW"
+23233,Francesco Rossi,Atalanta,Serie A,GK
+23235,Francesco Zampano,Venezia,Serie A,DF
+23244,Gianluca Lapadula,Cagliari,Serie A,"FW,MF"
+23246,Giorgio Altare,Venezia,Serie A,DF
+23249,Giovanni Simeone,Napoli,Serie A,FW
+23252,Grigoris Kastanos,Hellas Verona,Serie A,"MF,FW"
+23265,Karol Linetty,Torino,Serie A,MF
+23348,Stefano Sensi,Monza,Serie A,MF
+23359,Wladimiro Falcone,Lecce,Serie A,GK
+23363,Adam Marušić,Lazio,Serie A,DF
+23372,Andrea Colpani,Fiorentina,Serie A,"FW,MF"
+23379,Antonín Barák,Fiorentina,Serie A,MF
+23381,Ben Lhassine Kone,Como,Serie A,MF
+23384,Carlo Pinsoglio,Juventus,Serie A,GK
+23386,Charalampos Lykogiannis,Bologna,Serie A,DF
+23401,Enrico Del Prato,Parma,Serie A,DF
+23407,Federico Brancolini,Empoli,Serie A,GK
+23419,Gianluca Di Chiara,Parma,Serie A,"DF,MF"
+23420,Gianluca Mancini,Roma,Serie A,DF
+23439,Luca Ranieri,Fiorentina,Serie A,DF
+23447,Manuel Lazzari,Lazio,Serie A,DF
+23451,Mattia Bani,Genoa,Serie A,DF
+23455,Michel Ndary Adopo,Cagliari,Serie A,MF
+23460,Nicolas Haas,Empoli,Serie A,MF
+23468,Pedro Pereira,Monza,Serie A,DF
+23476,Riccardo Orsolini,Bologna,Serie A,FW
+23478,Riccardo Sottil,Fiorentina,Serie A,"FW,MF"
+23484,Semuel Pizzignacco,Monza,Serie A,GK
+23495,Vanja Milinković-Savić,Torino,Serie A,GK
+23509,Alessio Furlanetto,Lazio,Serie A,GK
+23523,Christian Kouamé,Empoli,Serie A,"FW,MF"
+23525,Davide Bettella,Monza,Serie A,DF
+23529,Drissa Camara,Parma,Serie A,"MF,FW"
+23530,Dušan Vlahović,Juventus,Serie A,FW
+23547,Giacomo Raspadori,Napoli,Serie A,"FW,MF"
+23548,Giangiacomo Magnani,Hellas Verona,Serie A,DF
+23549,Gianluca Gaetano,Cagliari,Serie A,"MF,FW"
+23553,Giovanni Di Lorenzo,Napoli,Serie A,DF
+23555,Gleison Bremer,Juventus,Serie A,DF
+23556,Hans Nicolussi Caviglia,Venezia,Serie A,MF
+23560,Ivan Provedel,Lazio,Serie A,GK
+23564,Jens Odgaard,Bologna,Serie A,"MF,FW"
+23573,Lautaro Martínez,Inter,Serie A,FW
+23580,Luca Belardinelli,Empoli,Serie A,MF
+23587,Marco Brescianini,Atalanta,Serie A,MF
+23592,Matteo Pessina,Monza,Serie A,MF
+23609,Nicolò Cambiaghi,Bologna,Serie A,FW
+23610,Nicolò Fagioli,Fiorentina,Serie A,MF
+23611,Nicolò Rovella,Lazio,Serie A,MF
+23613,Nunzio Lella,Venezia,Serie A,MF
+23626,Roberto Piccoli,Cagliari,Serie A,FW
+23632,Samuele Ricci,Torino,Serie A,MF
+23647,Alessandro Berardi,Hellas Verona,Serie A,GK
+23651,Alexis Saelemaekers,Milan,Serie A,"DF,FW"
+23655,Amir Rrahmani,Napoli,Serie A,DF
+23658,Andrea Carboni,Monza,Serie A,DF
+23664,Antonino Gallo,Lecce,Serie A,DF
+23669,Botond Balogh,Parma,Serie A,DF
+23675,Daniel Maldini,Atalanta,Serie A,"FW,MF"
+23687,Edoardo Corvi,Parma,Serie A,GK
+23702,Filip Stankovic,Venezia,Serie A,GK
+23703,Filippo Terracciano,Milan,Serie A,"DF,MF"
+23706,Gabriel Strefezza,Como,Serie A,"FW,MF"
+23708,Gaetano Castrovilli,Lazio,Serie A,"MF,FW"
+23709,Gastón Pereiro,Cagliari,Serie A,"FW,MF"
+23716,Giorgos Kyriakopoulos,Monza,Serie A,DF
+23718,Giuseppe Ciocci,Cagliari,Serie A,GK
+23733,Jesse Joronen,Venezia,Serie A,GK
+23740,Krisztofer Horváth,Torino,Serie A,MF
+23744,Liam Henderson,Empoli,Serie A,MF
+23747,Lorenzo Colombo,Empoli,Serie A,"FW,MF"
+23773,Niccolò Chiorra,Empoli,Serie A,GK
+23779,Paweł Dawidowicz,Hellas Verona,Serie A,"DF,MF"
+23783,Razvan Sava,Udinese,Serie A,GK
+23792,Sebastian Walukiewicz,Empoli,Serie A,DF
+23793,Sebastiano Esposito,Empoli,Serie A,"FW,MF"
+23801,Stefano Turati,Monza,Serie A,GK
+23802,Szymon Żurkowski,Empoli,Serie A,MF
+23804,Tommaso Augello,Cagliari,Serie A,DF
+23812,Alberto Paleari,Torino,Serie A,GK
+23816,Alessandro Bianco,Fiorentina,Serie A,MF
+23817,Alessandro Di Pardo,Cagliari,Serie A,"DF,MF"
+23827,Antonio Raimondo,Venezia,Serie A,"FW,DF"
+23829,Ardian Ismajli,Empoli,Serie A,DF
+23852,Dennis Man,Parma,Serie A,"FW,MF"
+23855,Edoardo Bove,Fiorentina,Serie A,"MF,FW"
+23856,Edoardo Piana,Udinese,Serie A,GK
+23859,Eldor Shomurodov,Roma,Serie A,"FW,MF"
+23861,Emmanuel Gyasi,Empoli,Serie A,"DF,FW"
+23871,Franco Carboni,Venezia,Serie A,DF
+23877,Gabriele Zappa,Cagliari,Serie A,DF
+23881,Giorgio Scalvini,Atalanta,Serie A,DF
+23890,Hamza Rafia,Lecce,Serie A,MF
+23893,Ivan Ilić,Torino,Serie A,MF
+23902,Junior Messias,Genoa,Serie A,"MF,FW"
+23903,Kacper Urbanski,Bologna,Serie A,MF
+23906,Lautaro Valenti,Parma,Serie A,DF
+23910,Lorenzo Montipò,Hellas Verona,Serie A,GK
+23916,Lucas Martínez Quarta,Fiorentina,Serie A,DF
+23923,Marco Carnesecchi,Atalanta,Serie A,GK
+23928,Matteo Cancellieri,Parma,Serie A,"FW,MF"
+23931,Matteo Ruggeri,Atalanta,Serie A,DF
+23938,Mërgim Vojvoda,Como,Serie A,DF
+23939,Nahuel Estévez,Parma,Serie A,MF
+23943,Nicola Zalewski,Inter,Serie A,"DF,MF"
+23945,Nicolò Casale,Bologna,Serie A,DF
+23959,Răzvan Marin,Cagliari,Serie A,MF
+23965,Simon Sohm,Parma,Serie A,MF
+23974,Tommaso Pobega,Bologna,Serie A,MF
+23976,Valentin Mihaila,Parma,Serie A,"FW,MF"
+23979,Viktor Kovalenko,Empoli,Serie A,MF
+23983,Yordan Osorio,Parma,Serie A,DF
+23984,Abdou Harroui,Hellas Verona,Serie A,"MF,FW"
+23985,Adam Obert,Cagliari,Serie A,DF
+23988,Albert Guðmundsson,Fiorentina,Serie A,"FW,MF"
+23992,Alessandro Zanoli,Genoa,Serie A,"FW,DF"
+23994,Andrea Cambiaso,Juventus,Serie A,"DF,FW"
+24011,Bjarki Bjarkason,Venezia,Serie A,"DF,MF"
+24012,Bruno,Venezia,Serie A,GK
+24013,Caleb Ekuban,Genoa,Serie A,FW
+24034,Denzel Dumfries,Inter,Serie A,"DF,FW"
+24036,Diego Coppola,Hellas Verona,Serie A,DF
+24040,Domen Črnigoj,Venezia,Serie A,MF
+24049,Emil Bohinen,Genoa,Serie A,MF
+24051,Emmanuel Ekong,Empoli,Serie A,"MF,FW"
+24053,Fabiano Parisi,Fiorentina,Serie A,"DF,MF"
+24055,Fabio Miretti,Genoa,Serie A,"MF,FW"
+24070,Gianluca Busio,Venezia,Serie A,MF
+24082,Jacopo Fazzini,Empoli,Serie A,MF
+24088,Johan Vásquez,Genoa,Serie A,DF
+24096,Koni De Winter,Genoa,Serie A,DF
+24097,Kristjan Asllani,Inter,Serie A,MF
+24098,Lapo Nava,Milan,Serie A,GK
+24102,Liberato Cacace,Empoli,Serie A,"MF,DF"
+24129,Matìas Soulé,Roma,Serie A,"MF,DF"
+24132,Michael Svoboda,Venezia,Serie A,DF
+24133,Michel Aebischer,Bologna,Serie A,MF
+24137,Morten Frendrup,Genoa,Serie A,MF
+24139,Nadir Zortea,Cagliari,Serie A,"DF,MF"
+24141,Nicola Bagnolini,Bologna,Serie A,GK
+24147,Pasquale Mazzocchi,Napoli,Serie A,"DF,FW"
+24149,Petar Stojanović,Empoli,Serie A,MF
+24157,Ridgeciano Haps,Venezia,Serie A,DF
+24163,Samuel Iling-Junior,Bologna,Serie A,"FW,MF"
+24168,Simone Pafundi,Udinese,Serie A,"MF,DF"
+24171,Teun Koopmeiners,Juventus,Serie A,"MF,FW"
+24172,Tommaso Baldanzi,Roma,Serie A,"MF,FW"
+24176,Tyronne Ebuehi,Empoli,Serie A,"DF,MF"
+24183,Youssef Maleh,Empoli,Serie A,MF
+24184,Zito Luvumbo,Cagliari,Serie A,"FW,MF"
+24186,Éderson,Atalanta,Serie A,MF
+24188,Aaron Ciammaglichella,Torino,Serie A,MF
+24196,Alessandro Fontanarosa,Inter,Serie A,DF
+24201,Alessandro Sorrentino,Monza,Serie A,GK
+24202,Ali Dembélé,Torino,Serie A,DF
+24203,Alphadjo Cissè,Hellas Verona,Serie A,"FW,MF"
+24213,Carlos Augusto,Inter,Serie A,DF
+24215,Charles De Ketelaere,Atalanta,Serie A,"MF,FW"
+24218,Christian Gytkjær,Venezia,Serie A,FW
+24223,Cyril Ngonge,Napoli,Serie A,FW
+24224,Dany Mota,Monza,Serie A,"FW,MF"
+24228,Devis Vásquez,Empoli,Serie A,GK
+24232,Dodô,Fiorentina,Serie A,DF
+24237,Emanuele Valeri,Parma,Serie A,DF
+24238,Emil Holm,Bologna,Serie A,DF
+24240,Emirhan İlkhan,Torino,Serie A,MF
+24244,Federico Baschirotto,Lecce,Serie A,DF
+24246,Federico Gatti,Juventus,Serie A,DF
+24247,Federico Magro,Hellas Verona,Serie A,GK
+24249,Festy Ebosele,Udinese,Serie A,"DF,MF"
+24253,Gabriele Guarino,Empoli,Serie A,DF
+24258,Gvidas Gineitis,Torino,Serie A,MF
+24261,Ibrahim Sulemana,Atalanta,Serie A,MF
+24262,Isak Hien,Atalanta,Serie A,DF
+24265,Jacopo Seghetti,Empoli,Serie A,GK
+24266,Jaka Bijol,Udinese,Serie A,DF
+24267,James Abankwah,Udinese,Serie A,"DF,MF"
+24268,Jasper Samooja,Lecce,Serie A,GK
+24269,Jhon Lucumí,Bologna,Serie A,DF
+24277,Juan David Cabal,Juventus,Serie A,DF
+24282,Lameck Banda,Lecce,Serie A,"FW,MF"
+24285,Leonardo Colombo,Monza,Serie A,MF
+24289,Lewis Ferguson,Bologna,Serie A,MF
+24291,Lorenzo Bernasconi,Atalanta,Serie A,DF
+24303,Marco Palestra,Atalanta,Serie A,DF
+24313,Medon Berisha,Lecce,Serie A,MF
+24315,Michele Di Gregorio,Juventus,Serie A,GK
+24317,Mikael Ellertsson,Venezia,Serie A,"DF,MF"
+24318,Mile Svilar,Roma,Serie A,GK
+24319,Mirko Marić,Monza,Serie A,"FW,MF"
+24322,Niccolò Pisilli,Roma,Serie A,MF
+24323,Nikola Moro,Bologna,Serie A,MF
+24326,Ola Solbakken,Empoli,Serie A,"MF,FW"
+24327,Oliver Abildgaard,Como,Serie A,MF
+24330,Patrick Ciurria,Monza,Serie A,"MF,DF"
+24338,Samuele Birindelli,Monza,Serie A,"DF,MF"
+24339,Samuele Vignato,Monza,Serie A,MF
+24340,Sandi Lovrić,Udinese,Serie A,MF
+24342,Simone Perilli,Hellas Verona,Serie A,GK
+24347,Tommaso Cassandro,Como,Serie A,"DF,MF"
+24348,Tommaso Del Lungo,Atalanta,Serie A,DF
+24349,Tommaso Martinelli,Fiorentina,Serie A,GK
+24352,Warren Bondo,Milan,Serie A,MF
+24353,Þórir Jóhann Helgason,Lecce,Serie A,MF
+24356,Alan Matturro,Genoa,Serie A,DF
+24357,Alberto Dossena,Como,Serie A,DF
+24358,Alberto Manzoni,Atalanta,Serie A,MF
+24359,Alessandro Berretta,Monza,Serie A,MF
+24360,Alessandro Calligaris,Inter,Serie A,GK
+24361,Alessandro Dellavalle,Torino,Serie A,DF
+24363,Alessandro Vinciguerra,Cagliari,Serie A,FW
+24364,Alessandro Vogliacco,Genoa,Serie A,DF
+24365,Alexandru Borbei,Lecce,Serie A,GK
+24366,Alieu Njie,Torino,Serie A,"FW,MF"
+24369,Andrea Mazza,Monza,Serie A,GK
+24372,Antoine Makoumbou,Cagliari,Serie A,MF
+24376,Brenner,Udinese,Serie A,"MF,FW"
+24379,Christian Corradi,Hellas Verona,Serie A,DF
+24380,Christos Mandas,Lazio,Serie A,GK
+24381,Christos Papadopoulos,Genoa,Serie A,MF
+24384,CôMe Bianay Balcot,Torino,Serie A,DF
+24385,Daniel Bandeira,Hellas Verona,Serie A,MF
+24390,David Akpan Ankeye,Genoa,Serie A,"FW,MF"
+24391,David Pejičić,Udinese,Serie A,MF
+24392,Davide Bartesaghi,Milan,Serie A,DF
+24395,Elayis Tavsan,Hellas Verona,Serie A,"FW,MF"
+24404,Francesco Camarda,Milan,Serie A,"FW,MF"
+24407,Francesco Gioielli,Napoli,Serie A,MF
+24408,Gaetano Oristanio,Venezia,Serie A,"FW,MF"
+24413,Gino Infantino,Fiorentina,Serie A,MF
+24415,Giovanni Daffara,Juventus,Serie A,GK
+24416,Giovanni Fabbian,Bologna,Serie A,MF
+24418,Gustav Isaksen,Lazio,Serie A,FW
+24421,Jackson Tchatchoua,Hellas Verona,Serie A,"DF,MF"
+24425,Jesper Karlsson,Bologna,Serie A,FW
+24429,João Costa,Roma,Serie A,FW
+24432,Junior Ajayi,Hellas Verona,Serie A,FW
+24434,Kenan Yıldız,Juventus,Serie A,"FW,MF"
+24436,Kevin Zeroli,Milan,Serie A,MF
+24437,Kingstone Mutandwa,Cagliari,Serie A,"FW,MF"
+24439,Lautaro Gianetti,Udinese,Serie A,DF
+24441,Lorenzo Lucca,Udinese,Serie A,FW
+24444,Lorenzo Torriani,Milan,Serie A,GK
+24448,Luca Marianucci,Empoli,Serie A,DF
+24450,Lucas Beltrán,Fiorentina,Serie A,"FW,MF"
+24453,Luis Hasa,Lecce,Serie A,MF
+24454,Maat Daniel Caprini,Fiorentina,Serie A,FW
+24456,Marcus Pedersen,Torino,Serie A,DF
+24457,Martín Payero,Udinese,Serie A,MF
+24459,Mateo Retegui,Atalanta,Serie A,FW
+24465,Matteo Motta,Inter,Serie A,DF
+24466,Matteo Palma,Udinese,Serie A,DF
+24467,Matteo Prati,Cagliari,Serie A,MF
+24468,Michael Folorunsho,Fiorentina,Serie A,"FW,MF"
+24470,Mihajlo Ilić,Bologna,Serie A,DF
+24471,Mohamed Kaba,Lecce,Serie A,MF
+24472,Niccolò Fortini,Fiorentina,Serie A,"DF,MF"
+24477,Nikola Krstović,Lecce,Serie A,FW
+24478,Noah Okafor,Milan,Serie A,FW
+24479,Noah Raveyre,Milan,Serie A,GK
+24480,Oussama El Azzouzi,Bologna,Serie A,MF
+24481,Pantelis Hatzidiakos,Cagliari,Serie A,"DF,MF"
+24482,Paolo Vismara,Atalanta,Serie A,GK
+24483,Paulo Azzi,Cagliari,Serie A,DF
+24484,Pietro Comi,Atalanta,Serie A,DF
+24485,Pietro Comuzzo,Fiorentina,Serie A,DF
+24487,Pontus Almqvist,Parma,Serie A,"FW,MF"
+24489,Raffaele Di Gennaro,Inter,Serie A,GK
+24490,Rareș-Cătălin Burnete,Lecce,Serie A,FW
+24491,Renato Marin,Roma,Serie A,GK
+24494,Saba Goglichidze,Empoli,Serie A,DF
+24495,Saba Sazonov,Empoli,Serie A,DF
+24496,Sam Beukema,Bologna,Serie A,DF
+24499,Santiago Castro,Bologna,Serie A,FW
+24500,Santiago Pierotti,Lecce,Serie A,FW
+24503,Sebastian Esposito,Lecce,Serie A,DF
+24505,Seydou Fini,Genoa,Serie A,FW
+24508,Stefan Mitrović,Hellas Verona,Serie A,"FW,MF"
+24509,Steven Shpendi,Empoli,Serie A,FW
+24510,Thomas Kristensen,Udinese,Serie A,DF
+24511,Tijjani Noslin,Lazio,Serie A,"FW,MF"
+24512,Tijjani Reijnders,Milan,Serie A,MF
+24515,Tommaso Corazza,Bologna,Serie A,DF
+24518,Tommaso Pittino,Genoa,Serie A,DF
+24519,Tomáš Suslov,Hellas Verona,Serie A,"MF,FW"
+24523,Velizar-Ilia Svetozarov Iliev,Cagliari,Serie A,GK
+24526,Ylber Ramadani,Lecce,Serie A,MF
+24529,Álex Jiménez,Milan,Serie A,"DF,FW"
+24531,Adrian Benedyczak,Parma,Serie A,"FW,MF"
+24532,Alain Taho,Inter,Serie A,GK
+24533,Alberto Chiesurin,Venezia,Serie A,MF
+24534,Alberto Costa,Juventus,Serie A,DF
+24535,Alen Sherri,Cagliari,Serie A,GK
+24536,Alessandro Circati,Parma,Serie A,DF
+24537,Alessandro Gabrielloni,Como,Serie A,"FW,MF"
+24538,Alessandro Marcandalli,Genoa,Serie A,DF
+24539,Alessandro Romano,Roma,Serie A,MF
+24540,Alessio Cacciamani,Torino,Serie A,"MF,DF"
+24541,Alessio Chiesa,Como,Serie A,DF
+24542,Alessio Iovine,Como,Serie A,"DF,FW"
+24543,Alessio Marcaccini,Roma,Serie A,GK
+24544,Alessio Raballo,Torino,Serie A,FW
+24545,Alfonso Montero,Juventus,Serie A,DF
+24546,Ali Jasim,Como,Serie A,"FW,DF"
+24547,Alieu Fadera,Como,Serie A,"FW,DF"
+24548,Anass Salah-Eddine,Roma,Serie A,DF
+24549,Andrea Cogoni,Cagliari,Serie A,DF
+24550,Andrea Vailati,Monza,Serie A,GK
+24551,Ange-Yoan Bonny,Parma,Serie A,FW
+24552,Ank Asmussen,Empoli,Serie A,FW
+24553,Antoine Hainaut,Parma,Serie A,"DF,FW"
+24554,Arvid Brorsson,Monza,Serie A,DF
+24555,Augusto Owusu,Juventus,Serie A,DF
+24556,Benjamin Siegrist,Genoa,Serie A,GK
+24557,Benjamín Domínguez,Bologna,Serie A,FW
+24558,Bob Murphy Omoregbe,Milan,Serie A,MF
+24559,Bohdan Popov,Empoli,Serie A,MF
+24560,Brayan,Empoli,Serie A,FW
+24561,Brooke Norton-Cuffy,Genoa,Serie A,"DF,FW"
+24562,Buba Sangaré,Roma,Serie A,DF
+24563,Casper Tengstedt,Hellas Verona,Serie A,FW
+24564,Cheick Oumar Conde,Venezia,Serie A,MF
+24565,Christian Pehlivanov,Lecce,Serie A,DF
+24566,Christos Alexiou,Inter,Serie A,DF
+24567,Claudio Turi,Napoli,Serie A,GK
+24568,Coli Saco,Napoli,Serie A,MF
+24569,Dailon Livramento,Hellas Verona,Serie A,"FW,MF"
+24570,Damián Pizarro,Udinese,Serie A,"FW,MF"
+24571,Daniel Fila,Venezia,Serie A,FW
+24572,Daniel Mikołajewski,Parma,Serie A,FW
+24573,Daniel Mosquera,Hellas Verona,Serie A,FW
+24574,Daniel Oyegoke,Hellas Verona,Serie A,DF
+24575,Daniele Ghilardi,Hellas Verona,Serie A,DF
+24576,Danilo Veiga,Lecce,Serie A,DF
+24577,Dario Daka,Lecce,Serie A,FW
+24578,Darius Fălcușan,Empoli,Serie A,DF
+24579,David Neres,Napoli,Serie A,FW
+24580,Davide Bifulco,Monza,Serie A,GK
+24581,Dawid Bembnista,Empoli,Serie A,DF
+24582,Demyan Yesin,Torino,Serie A,DF
+24583,Devyne Rensch,Roma,Serie A,DF
+24584,Diego Pugno,Juventus,Serie A,FW
+24585,Dominic Vavassori,Atalanta,Serie A,FW
+24586,Ed Mcjannet,Lecce,Serie A,MF
+24587,Eddy Kouadio,Fiorentina,Serie A,DF
+24588,Edoardo Zaia,Torino,Serie A,FW
+24589,Egil Selvik,Udinese,Serie A,GK
+24590,Elia Plicco,Parma,Serie A,MF
+24591,Elijah Scott,Lecce,Serie A,DF
+24592,Endris Scaramelli,Monza,Serie A,MF
+24593,Federico Accornero,Genoa,Serie A,MF
+24594,Federico Cassa,Atalanta,Serie A,"MF,FW"
+24595,Federico Chinetti,Como,Serie A,FW
+24596,Federico Nardin,Roma,Serie A,DF
+24597,Federico Steffanoni,Atalanta,Serie A,MF
+24598,Fellipe Jack,Como,Serie A,DF
+24599,Filip Marchwiński,Lecce,Serie A,MF
+24600,Filipe Bordon,Lazio,Serie A,DF
+24601,Filippo Carbone,Genoa,Serie A,MF
+24602,Filippo Pagnucco,Juventus,Serie A,DF
+24603,Fisayo Dele-Bashiru,Lazio,Serie A,"MF,FW"
+24604,Florinel Coman,Cagliari,Serie A,"FW,MF"
+24605,Francesco Andrealli,Como,Serie A,MF
+24606,Francesco Mezzoni,Napoli,Serie A,FW
+24607,Francesco Plaia,Torino,Serie A,GK
+24608,Francisco Conceição,Juventus,Serie A,"FW,MF"
+24609,Franz Stolz,Genoa,Serie A,GK
+24610,Gabriel Charpentier,Parma,Serie A,FW
+24611,Gabriele Re Cecconi,Inter,Serie A,DF
+24612,Gaby Jean,Lecce,Serie A,DF
+24613,Gennaro Iaccarino,Napoli,Serie A,MF
+24614,Giacomo De Pieri,Inter,Serie A,MF
+24615,Giorgio De Marzi,Roma,Serie A,GK
+24616,Giovanni Leoni,Parma,Serie A,DF
+24617,Giuseppe Mazzaglia,Como,Serie A,MF
+24618,Henrijs Auseklis,Cagliari,Serie A,GK
+24619,Honest Ahanor,Genoa,Serie A,"DF,MF"
+24620,Hugo Cuenca,Genoa,Serie A,MF
+24621,Ifenna Dorgu,Genoa,Serie A,FW
+24622,Ignace Van Der Brempt,Como,Serie A,DF
+24623,Ismael Konate,Empoli,Serie A,"FW,MF"
+24624,Issa Doumbia,Venezia,Serie A,MF
+24625,Ivan Azón,Como,Serie A,FW
+24626,Ivan Smolčić,Como,Serie A,DF
+24627,Jacob Ondrejka,Parma,Serie A,"MF,FW"
+24628,Jacopo Bacci,Empoli,Serie A,MF
+24629,Javier Gil,Juventus,Serie A,DF
+24630,Javison Idele,Atalanta,Serie A,DF
+24631,Jay Idzes,Venezia,Serie A,DF
+24632,Jeff Ekhator,Genoa,Serie A,"FW,MF"
+24633,Jesper Karlström,Udinese,Serie A,MF
+24634,Joi Nuredini,Genoa,Serie A,FW
+24635,Jonas Harder,Fiorentina,Serie A,MF
+24636,Jonas Rouhi,Juventus,Serie A,DF
+24637,Joël Schingtienne,Venezia,Serie A,DF
+24638,Kevin Martins,Monza,Serie A,"MF,DF"
+24639,Kialonda,Lecce,Serie A,DF
+24640,Konan N'Dri,Lecce,Serie A,"FW,MF"
+24641,Leonardo Baroncelli,Fiorentina,Serie A,DF
+24642,Lior Kasa,Genoa,Serie A,"MF,FW"
+24643,Lorenzo Anghelè,Juventus,Serie A,FW
+24644,Lorenzo Lucchesi,Venezia,Serie A,DF
+24645,Lorenzo Riccio,Atalanta,Serie A,MF
+24646,Lorenzo Tosto,Empoli,Serie A,DF
+24647,Lorenzo Venturino,Genoa,Serie A,"FW,MF"
+24648,Luan Patrick,Hellas Verona,Serie A,DF
+24649,Luka Topalović,Inter,Serie A,MF
+24650,Lysandros Papastylianou,Genoa,Serie A,FW
+24651,Magnus Kofod Andersen,Venezia,Serie A,MF
+24652,Mandela Keita,Parma,Serie A,MF
+24653,Manuel Moretta,Parma,Serie A,GK
+24654,Marco Cassin,Udinese,Serie A,GK
+24655,Marco Dalla Vecchia,Torino,Serie A,MF
+24656,Marco Ladisa,Venezia,Serie A,FW
+24657,Marco Sala,Como,Serie A,DF
+24658,Marin Šverko,Venezia,Serie A,DF
+24659,Martin Frese,Hellas Verona,Serie A,DF
+24660,Massimo Pessina,Bologna,Serie A,GK
+24661,Mateo Pellegrino,Parma,Serie A,FW
+24662,Mateusz Kowalski,Parma,Serie A,MF
+24663,Mathias Løvik,Parma,Serie A,"DF,FW"
+24664,Matias Moreno,Fiorentina,Serie A,DF
+24665,Matteo Barbini,Genoa,Serie A,DF
+24666,Matteo Cocchi,Inter,Serie A,DF
+24667,Matteo Grandi,Venezia,Serie A,GK
+24668,Matteo Spinaccè,Inter,Serie A,FW
+24669,Matteo Zazza,Lazio,Serie A,DF
+24670,Matthias Braunöder,Como,Serie A,MF
+24671,Mattia Esposito,Napoli,Serie A,DF
+24672,Mattia Felici,Cagliari,Serie A,"MF,FW"
+24673,Mattia Liberali,Milan,Serie A,MF
+24674,Mattia Zanchetta,Inter,Serie A,MF
+24675,Mehdi Taremi,Inter,Serie A,FW
+24676,Mike Aidoo,Inter,Serie A,DF
+24677,Mohamed Haj,Parma,Serie A,MF
+24678,Naj Razi,Como,Serie A,FW
+24679,Naïm Byar,Bologna,Serie A,MF
+24680,Niccolò Rizzo,Juventus,Serie A,DF
+24681,Nicola Pintus,Cagliari,Serie A,DF
+24682,Nicolas Trabucchi,Parma,Serie A,DF
+24683,Nicolás Valentini,Fiorentina,Serie A,DF
+24684,Nicolò Postiglione,Monza,Serie A,DF
+24685,Nicolò Savona,Juventus,Serie A,DF
+24686,Noah El Biache,Empoli,Serie A,MF
+24687,Oliver Nielsen,Lazio,Serie A,DF
+24688,Patrizio Masini,Genoa,Serie A,MF
+24689,Pierre Bolchini,Como,Serie A,GK
+24690,Pietro Leonardelli,Fiorentina,Serie A,GK
+24691,Pietro Tornaghi,Atalanta,Serie A,DF
+24692,Relja Obrić,Atalanta,Serie A,DF
+24693,Riccardo Turicchia,Juventus,Serie A,DF
+24694,Richie Sagrado,Venezia,Serie A,DF
+24695,Roberto Scaglione,Genoa,Serie A,MF
+24696,Rui Modesto,Udinese,Serie A,"DF,MF"
+24697,Saad El Haddad,Venezia,Serie A,MF
+24698,Samuel Dahl,Roma,Serie A,"DF,MF"
+24699,Samuel Mbangula,Juventus,Serie A,FW
+24700,Santiago Giménez,Milan,Serie A,FW
+24701,Saud Abdulhamid,Roma,Serie A,DF
+24702,Sebastian Otoa,Genoa,Serie A,DF
+24703,Senan Mullen,Torino,Serie A,MF
+24704,Sergiu Perciun,Torino,Serie A,"FW,MF"
+24705,Silvano Vos,Milan,Serie A,MF
+24706,Sven Lesjak,Como,Serie A,MF
+24707,Thomas Berenbruch,Inter,Serie A,MF
+24708,Thomas Campaniello,Empoli,Serie A,FW
+24709,Tiago Gabriel,Lecce,Serie A,DF
+24710,Tobias Slotsager,Hellas Verona,Serie A,DF
+24711,Tommaso Gabellini,Torino,Serie A,FW
+24712,Tommaso Rubino,Fiorentina,Serie A,MF
+24713,Tomás Palacios,Inter,Serie A,DF
+24714,Vanja Vlahović,Atalanta,Serie A,"FW,MF"
+24715,Vasilije Adžić,Juventus,Serie A,"MF,FW"
+24717,Victor Nelsson,Roma,Serie A,DF
+24718,William Feola,Como,Serie A,DF
+24719,Zion Suzuki,Parma,Serie A,GK
